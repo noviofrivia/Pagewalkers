@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Content/WD_Gameplay.uasset",
+				"C:/Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Content/BP_Companion.uasset",
+				"C:/Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Dontdestroyonload.uasset",
+				"C:/Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Content/ThirdPerson/Blueprints/BP_Player.uasset",
+				"C:/Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Content/BP_Enemy.uasset",
+				"C:/Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Content/BP_Checkpoint.uasset",
 				"C:/Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/BP_Checkpoint.uasset",
 				"C:/Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/__ExternalActors__/ThirdPersonMap/6/B8/ON73B0ANPKJ50SUKDQB28E.uasset",
 				"C:/Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/ThirdPerson/Blueprints/BP_Player.uasset",
