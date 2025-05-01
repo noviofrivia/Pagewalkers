@@ -21217,3 +21217,1431 @@ Make sure '/Game/Blueprints/BP_Player.BP_Player_C' has been compiled for  Get Pl
 [2025.05.01-00.42.10:719][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
 [2025.05.01-00.42.11:693][893]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
 [2025.05.01-00.42.14:401][893]LogAutomationController: Ignoring very large delta of 3.06 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.01-00.44.43:491][921]LogDerivedDataCache: C:/Users/kara/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.05.01-00.46.43:897][282]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 86564.531250
+[2025.05.01-00.46.45:231][286]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-00.46.45:231][286]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 86565.539062, Update Interval: 301.433746
+[2025.05.01-00.52.29:611][319]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 86912.390625
+[2025.05.01-00.52.30:612][322]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-00.52.30:612][322]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 86913.062500, Update Interval: 323.897827
+[2025.05.01-00.58.43:337][440]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 87288.390625
+[2025.05.01-00.58.44:339][443]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-00.58.44:339][443]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 87289.054688, Update Interval: 347.788330
+[2025.05.01-01.05.17:726][623]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 87685.007812
+[2025.05.01-01.05.18:728][626]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-01.05.18:728][626]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 87685.679688, Update Interval: 345.103912
+[2025.05.01-01.11.57:120][821]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 88086.906250
+[2025.05.01-01.11.58:453][825]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-01.11.58:453][825]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 88087.914062, Update Interval: 342.868134
+[2025.05.01-01.18.32:841][  8]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 88484.937500
+[2025.05.01-01.18.33:841][ 11]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-01.18.33:841][ 11]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 88485.609375, Update Interval: 350.542297
+[2025.05.01-01.25.13:556][210]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 88887.835938
+[2025.05.01-01.25.14:556][213]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-01.25.14:556][213]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 88888.507812, Update Interval: 344.801788
+[2025.05.01-01.31.51:618][404]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 89287.992188
+[2025.05.01-01.31.52:618][407]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-01.31.52:618][407]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 89288.656250, Update Interval: 354.131287
+[2025.05.01-01.35.36:635][172]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2025.05.01-01.37.03:360][720]LogAutomationController: Ignoring very large delta of 2.52 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.01-01.37.32:207][104]LogAutomationController: Ignoring very large delta of 2.48 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.01-01.37.47:143][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.05.01-01.37.49:811][496]LogAutomationController: Ignoring very large delta of 2.99 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.01-01.37.51:741][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.05.01-01.37.51:756][645]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.01-01.37.51:786][645]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Player] ([2] browsable assets)...
+[2025.05.01-01.37.51:841][645]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Player.BP_Player]
+[2025.05.01-01.37.51:841][645]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2025.05.01-01.37.51:841][645]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2025.05.01-01.37.52:044][645]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Player
+[2025.05.01-01.37.52:045][645]LogSavePackage: Moving '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/BP_Player481A0266428740DAA4327CB38CDC1F76.tmp' to '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/BP_Player.uasset'
+[2025.05.01-01.37.52:053][645]LogFileHelpers: InternalPromptForCheckoutAndSave took 297.144 ms (total: 47.4 sec)
+[2025.05.01-01.37.52:085][645]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.01-01.37.52:085][645]LogContentValidation: Enabled validators:
+[2025.05.01-01.37.52:085][645]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.01-01.37.52:085][645]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.01-01.37.52:085][645]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.01-01.37.52:085][645]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.01-01.37.52:085][645]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.01-01.37.52:085][645]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.01-01.37.52:085][645]AssetCheck: /Game/Blueprints/BP_Player Validating asset
+[2025.05.01-01.38.31:058][208]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 89668.617188
+[2025.05.01-01.38.31:452][229]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-01.38.31:452][229]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 89668.984375, Update Interval: 335.724976
+[2025.05.01-01.38.43:558][971]LogAutomationController: Ignoring very large delta of 2.47 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.01-01.39.17:273][167]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.01-01.39.17:296][167]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Player] ([2] browsable assets)...
+[2025.05.01-01.39.17:341][167]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Player.BP_Player]
+[2025.05.01-01.39.17:341][167]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2025.05.01-01.39.17:341][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2025.05.01-01.39.17:547][167]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Player
+[2025.05.01-01.39.17:547][167]LogSavePackage: Moving '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/BP_Player0D22ED7C44F7E961183DA499C47910A2.tmp' to '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/BP_Player.uasset'
+[2025.05.01-01.39.17:555][167]LogFileHelpers: InternalPromptForCheckoutAndSave took 282.625 ms (total: 47.7 sec)
+[2025.05.01-01.39.17:583][167]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.01-01.39.17:583][167]LogContentValidation: Enabled validators:
+[2025.05.01-01.39.17:583][167]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.01-01.39.17:583][167]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.01-01.39.17:583][167]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.01-01.39.17:583][167]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.01-01.39.17:583][167]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.01-01.39.17:583][167]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.01-01.39.17:583][167]AssetCheck: /Game/Blueprints/BP_Player Validating asset
+[2025.05.01-01.39.57:769][388]LogAutomationController: Ignoring very large delta of 2.49 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.01-01.40.05:420][935]LogAutomationController: Ignoring very large delta of 2.53 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.01-01.40.15:198][686]LogAutomationController: Ignoring very large delta of 2.52 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.01-01.40.18:946][ 80]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.01-01.40.18:969][ 80]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Player] ([2] browsable assets)...
+[2025.05.01-01.40.19:014][ 80]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Player.BP_Player]
+[2025.05.01-01.40.19:014][ 80]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2025.05.01-01.40.19:014][ 80]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2025.05.01-01.40.19:219][ 80]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Player
+[2025.05.01-01.40.19:220][ 80]LogSavePackage: Moving '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/BP_Player6111E4E248C9F0E2B76E82A7FF4CC097.tmp' to '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/BP_Player.uasset'
+[2025.05.01-01.40.19:232][ 80]LogFileHelpers: InternalPromptForCheckoutAndSave took 285.590 ms (total: 47.9 sec)
+[2025.05.01-01.40.19:260][ 80]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.01-01.40.19:260][ 80]LogContentValidation: Enabled validators:
+[2025.05.01-01.40.19:260][ 80]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.01-01.40.19:260][ 80]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.01-01.40.19:260][ 80]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.01-01.40.19:260][ 80]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.01-01.40.19:260][ 80]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.01-01.40.19:260][ 80]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.01-01.40.19:260][ 80]AssetCheck: /Game/Blueprints/BP_Player Validating asset
+[2025.05.01-01.40.19:930][150]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.01-01.40.19:938][150]LogContentBundle: [Battle_Level(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.01-01.40.19:938][150]LogWorldPartition: Display: GenerateStreaming for 'Battle_Level' started...
+[2025.05.01-01.40.19:940][150]LogWorldPartition: Display: GenerateStreaming for 'Battle_Level' took 1.920 ms (total: 928.239 ms)
+[2025.05.01-01.40.19:951][150]LogPlayLevel: [PlayLevel] Compiling BP_Player before play...
+[2025.05.01-01.40.21:760][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.05.01-01.40.21:768][150]LogPlayLevel: PlayLevel: Blueprint regeneration took 1827 ms (1 blueprints)
+[2025.05.01-01.40.21:768][150]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Battle_Level
+[2025.05.01-01.40.21:771][150]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004194s)
+[2025.05.01-01.40.21:771][150]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Battle_Level.Battle_Level to /Game/UEDPIE_0_Battle_Level.Battle_Level (0.004222s)
+[2025.05.01-01.40.21:875][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.05.01-01.40.21:882][150]LogChaosDD: Creating Chaos Debug Draw Scene for world Battle_Level
+[2025.05.01-01.40.21:883][150]LogWorldPartition: ULevel::OnLevelLoaded(Battle_Level)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.01-01.40.21:883][150]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.01-01.40.21:883][150]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_Battle_Level.Battle_Level, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.01-01.40.21:883][150]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.01-01.40.21:885][150]LogWorldPartition: Display: WorldPartition initialize took 1.569 ms (total: 1.24 sec)
+[2025.05.01-01.40.21:885][150]LogPlayLevel: PIE: World Init took: (0.003144s)
+[2025.05.01-01.40.21:886][150]LogAudio: Display: Creating Audio Device:                 Id: 163, Scope: Unique, Realtime: True
+[2025.05.01-01.40.21:886][150]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.01-01.40.21:886][150]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.01-01.40.21:886][150]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.01-01.40.21:886][150]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.01-01.40.21:886][150]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.01-01.40.21:886][150]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.01-01.40.21:886][150]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.01-01.40.21:886][150]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.01-01.40.21:886][150]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.01-01.40.21:886][150]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.01-01.40.21:886][150]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.01-01.40.21:888][150]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.01-01.40.21:903][150]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2025.05.01-01.40.21:904][150]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.01-01.40.21:904][150]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.01-01.40.21:904][150]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.01-01.40.21:905][150]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=163
+[2025.05.01-01.40.21:905][150]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=163
+[2025.05.01-01.40.21:906][150]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=163
+[2025.05.01-01.40.21:906][150]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=163
+[2025.05.01-01.40.21:906][150]LogInit: FAudioDevice initialized with ID 163.
+[2025.05.01-01.40.21:906][150]LogAudio: Display: Audio Device (ID: 163) registered with world 'Battle_Level'.
+[2025.05.01-01.40.21:906][150]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 163
+[2025.05.01-01.40.21:919][150]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.01-01.40.21:920][150]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.05.01-01.40.21:930][150]LogWorld: Bringing World /Game/UEDPIE_0_Battle_Level.Battle_Level up for play (max tick rate 0) at 2025.05.01-04.40.21
+[2025.05.01-01.40.21:931][150]LogWorld: Bringing up level for play took: 0.011004
+[2025.05.01-01.40.21:934][150]LogOnline: OSS: Created online subsystem instance for: :Context_184
+[2025.05.01-01.40.21:940][150]LogBlueprintUserMessages: [BP_Player_C_0] In Battle Level
+[2025.05.01-01.40.21:943][150]PIE: Server logged in
+[2025.05.01-01.40.21:943][150]PIE: Play in editor total start time 2,006 seconds.
+[2025.05.01-01.40.23:106][150]LogAutomationController: Ignoring very large delta of 3.18 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.01-01.40.24:709][240]LogBlueprintUserMessages: [BP_Player_C_0] Hello
+[2025.05.01-01.40.24:709][240]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Enemies' of length 3 in '/Game/Blueprints/BP_Player.BP_Player_C'!
+[2025.05.01-01.40.24:709][240]LogScript: Warning: Script Msg called by: BP_Player_C /Game/UEDPIE_0_Battle_Level.Battle_Level:PersistentLevel.BP_Player_C_0
+[2025.05.01-01.40.24:709][240]LogBlueprintUserMessages: [BP_Player_C_0] The turn belongs to: BP_Player_C_0
+[2025.05.01-01.40.29:313][537]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.01-01.40.29:313][537]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Battle_Level
+[2025.05.01-01.40.29:315][537]LogSlate: Window 'Pagewalkers Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.05.01-01.40.29:320][537]LogWorld: UWorld::CleanupWorld for Battle_Level, bSessionEnded=true, bCleanupResources=true
+[2025.05.01-01.40.29:321][537]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.01-01.40.29:321][537]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_Battle_Level.Battle_Level
+[2025.05.01-01.40.29:327][537]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.01-01.40.29:333][537]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.01-01.40.29:446][537]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 163
+[2025.05.01-01.40.29:446][537]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=163
+[2025.05.01-01.40.29:448][537]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=163
+[2025.05.01-01.40.29:455][537]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.05.01-01.40.29:566][538]LogPlayLevel: Display: Destroying online subsystem :Context_184
+[2025.05.01-01.40.37:316][342]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.01-01.40.37:341][342]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WD_Gameplay] ([2] browsable assets)...
+[2025.05.01-01.40.37:344][342]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WD_Gameplay.WD_Gameplay]
+[2025.05.01-01.40.37:344][342]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WD_Gameplay]
+[2025.05.01-01.40.37:344][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WD_Gameplay" FILE="../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/WD_Gameplay.uasset" SILENT=true
+[2025.05.01-01.40.37:410][342]LogSavePackage: Moving output files for package: /Game/Blueprints/WD_Gameplay
+[2025.05.01-01.40.37:411][342]LogSavePackage: Moving '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/WD_Gameplay5ECFFBE845D9F25483C938B74DE1D941.tmp' to '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/WD_Gameplay.uasset'
+[2025.05.01-01.40.37:422][342]LogFileHelpers: InternalPromptForCheckoutAndSave took 106.201 ms (total: 48.1 sec)
+[2025.05.01-01.40.37:450][342]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.01-01.40.37:450][342]LogContentValidation: Enabled validators:
+[2025.05.01-01.40.37:450][342]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.01-01.40.37:450][342]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.01-01.40.37:450][342]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.01-01.40.37:450][342]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.01-01.40.37:450][342]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.01-01.40.37:450][342]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.01-01.40.37:452][342]AssetCheck: /Game/Blueprints/WD_Gameplay Validating asset
+[2025.05.01-01.40.38:683][484]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.01-01.40.38:691][484]LogContentBundle: [Battle_Level(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.01-01.40.38:691][484]LogWorldPartition: Display: GenerateStreaming for 'Battle_Level' started...
+[2025.05.01-01.40.38:693][484]LogWorldPartition: Display: GenerateStreaming for 'Battle_Level' took 1.880 ms (total: 930.120 ms)
+[2025.05.01-01.40.38:787][484]LogPlayLevel: [PlayLevel] Compiling WD_Gameplay before play...
+[2025.05.01-01.40.40:671][484]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.05.01-01.40.40:681][484]LogPlayLevel: PlayLevel: Blueprint regeneration took 1987 ms (1 blueprints)
+[2025.05.01-01.40.40:681][484]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Battle_Level
+[2025.05.01-01.40.40:685][484]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004190s)
+[2025.05.01-01.40.40:685][484]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Battle_Level.Battle_Level to /Game/UEDPIE_0_Battle_Level.Battle_Level (0.004219s)
+[2025.05.01-01.40.40:800][484]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.05.01-01.40.40:807][484]LogChaosDD: Creating Chaos Debug Draw Scene for world Battle_Level
+[2025.05.01-01.40.40:808][484]LogWorldPartition: ULevel::OnLevelLoaded(Battle_Level)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.01-01.40.40:809][484]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.01-01.40.40:809][484]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_Battle_Level.Battle_Level, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.01-01.40.40:809][484]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.01-01.40.40:810][484]LogWorldPartition: Display: WorldPartition initialize took 1.623 ms (total: 1.24 sec)
+[2025.05.01-01.40.40:810][484]LogPlayLevel: PIE: World Init took: (0.003122s)
+[2025.05.01-01.40.40:811][484]LogAudio: Display: Creating Audio Device:                 Id: 164, Scope: Unique, Realtime: True
+[2025.05.01-01.40.40:811][484]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.01-01.40.40:811][484]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.01-01.40.40:811][484]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.01-01.40.40:811][484]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.01-01.40.40:811][484]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.01-01.40.40:811][484]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.01-01.40.40:811][484]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.01-01.40.40:811][484]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.01-01.40.40:811][484]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.01-01.40.40:811][484]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.01-01.40.40:811][484]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.01-01.40.40:813][484]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.01-01.40.40:826][484]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2025.05.01-01.40.40:826][484]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.01-01.40.40:827][484]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.01-01.40.40:827][484]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.01-01.40.40:827][484]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=164
+[2025.05.01-01.40.40:827][484]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=164
+[2025.05.01-01.40.40:829][484]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=164
+[2025.05.01-01.40.40:829][484]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=164
+[2025.05.01-01.40.40:829][484]LogInit: FAudioDevice initialized with ID 164.
+[2025.05.01-01.40.40:829][484]LogAudio: Display: Audio Device (ID: 164) registered with world 'Battle_Level'.
+[2025.05.01-01.40.40:829][484]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 164
+[2025.05.01-01.40.40:847][484]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.01-01.40.40:848][484]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.05.01-01.40.40:857][484]LogWorld: Bringing World /Game/UEDPIE_0_Battle_Level.Battle_Level up for play (max tick rate 0) at 2025.05.01-04.40.40
+[2025.05.01-01.40.40:858][484]LogWorld: Bringing up level for play took: 0.010511
+[2025.05.01-01.40.40:861][484]LogOnline: OSS: Created online subsystem instance for: :Context_185
+[2025.05.01-01.40.40:867][484]LogBlueprintUserMessages: [BP_Player_C_0] In Battle Level
+[2025.05.01-01.40.40:870][484]PIE: Server logged in
+[2025.05.01-01.40.40:871][484]PIE: Play in editor total start time 2,18 seconds.
+[2025.05.01-01.40.41:141][484]LogAutomationController: Ignoring very large delta of 2.46 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.01-01.40.42:743][579]LogBlueprintUserMessages: [BP_Player_C_0] Hello
+[2025.05.01-01.40.42:743][579]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Enemies' of length 3 in '/Game/Blueprints/BP_Player.BP_Player_C'!
+[2025.05.01-01.40.42:743][579]LogScript: Warning: Script Msg called by: BP_Player_C /Game/UEDPIE_0_Battle_Level.Battle_Level:PersistentLevel.BP_Player_C_0
+[2025.05.01-01.40.42:743][579]LogBlueprintUserMessages: [BP_Player_C_0] The turn belongs to: BP_Player_C_0
+[2025.05.01-01.40.51:816][194]LogBlueprintUserMessages: [BP_Player_C_0] MC First Skill used
+[2025.05.01-01.40.53:829][326]LogBlueprintUserMessages: [BP_Player_C_0] 0 buffed
+[2025.05.01-01.40.58:140][610]LogBlueprintUserMessages: [BP_Player_C_0] false
+[2025.05.01-01.40.58:141][610]LogBlueprintUserMessages: [BP_Player_C_0] The turn belongs to: BP_Companion0
+[2025.05.01-01.40.58:141][610]LogBlueprintUserMessages: [BP_Player_C_0] 7
+[2025.05.01-01.40.59:454][697]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.01-01.40.59:454][697]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Battle_Level
+[2025.05.01-01.40.59:456][697]LogSlate: Window 'Pagewalkers Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.05.01-01.40.59:461][697]LogWorld: UWorld::CleanupWorld for Battle_Level, bSessionEnded=true, bCleanupResources=true
+[2025.05.01-01.40.59:462][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.01-01.40.59:462][697]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_Battle_Level.Battle_Level
+[2025.05.01-01.40.59:469][697]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.01-01.40.59:475][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.01-01.40.59:601][697]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 164
+[2025.05.01-01.40.59:601][697]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=164
+[2025.05.01-01.40.59:604][697]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=164
+[2025.05.01-01.40.59:613][697]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2025.05.01-01.40.59:731][698]LogPlayLevel: Display: Destroying online subsystem :Context_185
+[2025.05.01-01.42.47:347][ 98]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.01-01.42.47:372][ 98]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dontdestroyonload] ([2] browsable assets)...
+[2025.05.01-01.42.47:373][ 98]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dontdestroyonload]
+[2025.05.01-01.42.47:373][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dontdestroyonload" FILE="../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Dontdestroyonload.uasset" SILENT=true
+[2025.05.01-01.42.47:377][ 98]LogSavePackage: Moving output files for package: /Game/Dontdestroyonload
+[2025.05.01-01.42.47:377][ 98]LogSavePackage: Moving '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/Dontdestroyonload4C1FF3B440EC333F06835896FF7495A6.tmp' to '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Dontdestroyonload.uasset'
+[2025.05.01-01.42.47:387][ 98]LogFileHelpers: InternalPromptForCheckoutAndSave took 40.028 ms (total: 48.1 sec)
+[2025.05.01-01.42.47:416][ 98]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.01-01.42.47:416][ 98]LogContentValidation: Enabled validators:
+[2025.05.01-01.42.47:416][ 98]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.01-01.42.47:416][ 98]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.01-01.42.47:416][ 98]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.01-01.42.47:417][ 98]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.01-01.42.47:417][ 98]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.01-01.42.47:417][ 98]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.01-01.42.47:417][ 98]AssetCheck: /Game/Dontdestroyonload Validating asset
+[2025.05.01-01.44.43:492][ 71]LogDerivedDataCache: C:/Users/kara/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.05.01-01.44.47:769][445]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 90009.968750
+[2025.05.01-01.44.48:134][470]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-01.44.48:135][470]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 90010.273438, Update Interval: 339.149139
+[2025.05.01-01.45.26:916][936]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.01-01.45.26:944][936]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dontdestroyonload] ([2] browsable assets)...
+[2025.05.01-01.45.26:944][936]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dontdestroyonload]
+[2025.05.01-01.45.26:944][936]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dontdestroyonload" FILE="../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Dontdestroyonload.uasset" SILENT=true
+[2025.05.01-01.45.26:948][936]LogSavePackage: Moving output files for package: /Game/Dontdestroyonload
+[2025.05.01-01.45.26:949][936]LogSavePackage: Moving '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/DontdestroyonloadF8202B14406EE6757F27339C8D1B5BA7.tmp' to '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Dontdestroyonload.uasset'
+[2025.05.01-01.45.26:958][936]LogFileHelpers: InternalPromptForCheckoutAndSave took 41.654 ms (total: 48.1 sec)
+[2025.05.01-01.45.26:983][936]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.01-01.45.26:983][936]LogContentValidation: Enabled validators:
+[2025.05.01-01.45.26:983][936]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.01-01.45.26:983][936]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.01-01.45.26:983][936]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.01-01.45.26:983][936]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.01-01.45.26:983][936]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.01-01.45.26:983][936]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.01-01.45.26:983][936]AssetCheck: /Game/Dontdestroyonload Validating asset
+[2025.05.01-01.45.37:874][230]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.01-01.45.37:905][230]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dontdestroyonload] ([2] browsable assets)...
+[2025.05.01-01.45.37:905][230]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dontdestroyonload]
+[2025.05.01-01.45.37:905][230]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dontdestroyonload" FILE="../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Dontdestroyonload.uasset" SILENT=true
+[2025.05.01-01.45.37:910][230]LogSavePackage: Moving output files for package: /Game/Dontdestroyonload
+[2025.05.01-01.45.37:911][230]LogSavePackage: Moving '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/Dontdestroyonload941321F540164C1788558BAC9ED155BC.tmp' to '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Dontdestroyonload.uasset'
+[2025.05.01-01.45.37:920][230]LogFileHelpers: InternalPromptForCheckoutAndSave took 46.316 ms (total: 48.2 sec)
+[2025.05.01-01.45.37:947][230]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.01-01.45.37:947][230]LogContentValidation: Enabled validators:
+[2025.05.01-01.45.37:947][230]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.01-01.45.37:947][230]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.01-01.45.37:947][230]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.01-01.45.37:947][230]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.01-01.45.37:947][230]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.01-01.45.37:947][230]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.01-01.45.37:947][230]AssetCheck: /Game/Dontdestroyonload Validating asset
+[2025.05.01-01.45.39:299][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.05.01-01.45.41:174][332]LogAutomationController: Ignoring very large delta of 2.35 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.01-01.46.02:538][548]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.01-01.46.02:564][548]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dontdestroyonload] ([2] browsable assets)...
+[2025.05.01-01.46.02:564][548]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dontdestroyonload]
+[2025.05.01-01.46.02:564][548]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dontdestroyonload" FILE="../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Dontdestroyonload.uasset" SILENT=true
+[2025.05.01-01.46.02:568][548]LogSavePackage: Moving output files for package: /Game/Dontdestroyonload
+[2025.05.01-01.46.02:569][548]LogSavePackage: Moving '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/DontdestroyonloadBBE5CB414CE5A9ECAB168CA8CBF81710.tmp' to '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Dontdestroyonload.uasset'
+[2025.05.01-01.46.02:577][548]LogFileHelpers: InternalPromptForCheckoutAndSave took 39.271 ms (total: 48.2 sec)
+[2025.05.01-01.46.02:602][548]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.01-01.46.02:602][548]LogContentValidation: Enabled validators:
+[2025.05.01-01.46.02:602][548]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.01-01.46.02:602][548]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.01-01.46.02:602][548]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.01-01.46.02:602][548]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.01-01.46.02:602][548]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.01-01.46.02:602][548]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.01-01.46.02:602][548]AssetCheck: /Game/Dontdestroyonload Validating asset
+[2025.05.01-01.46.28:103][260]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.01-01.46.28:129][260]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Player] ([2] browsable assets)...
+[2025.05.01-01.46.28:182][260]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Player.BP_Player]
+[2025.05.01-01.46.28:182][260]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2025.05.01-01.46.28:182][260]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2025.05.01-01.46.28:391][260]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Player
+[2025.05.01-01.46.28:391][260]LogSavePackage: Moving '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/BP_Player25CBE82848E406AAD4ECBC83ED76E80D.tmp' to '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/BP_Player.uasset'
+[2025.05.01-01.46.28:401][260]LogFileHelpers: InternalPromptForCheckoutAndSave took 298.061 ms (total: 48.5 sec)
+[2025.05.01-01.46.28:430][260]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.01-01.46.28:431][260]LogContentValidation: Enabled validators:
+[2025.05.01-01.46.28:431][260]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.01-01.46.28:431][260]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.01-01.46.28:431][260]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.01-01.46.28:431][260]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.01-01.46.28:431][260]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.01-01.46.28:431][260]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.01-01.46.28:431][260]AssetCheck: /Game/Blueprints/BP_Player Validating asset
+[2025.05.01-01.46.34:948][556]LogAutomationController: Ignoring very large delta of 2.60 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.01-01.47.32:100][763]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.01-01.47.32:125][763]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Player] ([2] browsable assets)...
+[2025.05.01-01.47.32:171][763]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Player.BP_Player]
+[2025.05.01-01.47.32:171][763]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2025.05.01-01.47.32:171][763]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2025.05.01-01.47.32:378][763]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Player
+[2025.05.01-01.47.32:379][763]LogSavePackage: Moving '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/BP_PlayerC25908354A5AA5A039BFAA93A2129381.tmp' to '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/BP_Player.uasset'
+[2025.05.01-01.47.32:389][763]LogFileHelpers: InternalPromptForCheckoutAndSave took 288.352 ms (total: 48.8 sec)
+[2025.05.01-01.47.32:420][763]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.01-01.47.32:420][763]LogContentValidation: Enabled validators:
+[2025.05.01-01.47.32:420][763]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.01-01.47.32:420][763]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.01-01.47.32:420][763]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.01-01.47.32:420][763]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.01-01.47.32:420][763]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.01-01.47.32:420][763]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.01-01.47.32:420][763]AssetCheck: /Game/Blueprints/BP_Player Validating asset
+[2025.05.01-01.47.33:921][856]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.05.01-01.47.36:676][856]LogAutomationController: Ignoring very large delta of 3.39 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.01-01.47.45:458][566]LogAutomationController: Ignoring very large delta of 2.61 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.01-01.47.58:435][683]LogAutomationController: Ignoring very large delta of 2.61 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.01-01.48.39:232][155]LogAutomationController: Ignoring very large delta of 2.63 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.01-01.49.05:848][416]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.01-01.49.05:875][416]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Player] ([2] browsable assets)...
+[2025.05.01-01.49.05:921][416]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Player.BP_Player]
+[2025.05.01-01.49.05:921][416]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2025.05.01-01.49.05:921][416]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2025.05.01-01.49.06:133][416]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Player
+[2025.05.01-01.49.06:133][416]LogSavePackage: Moving '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/BP_Player5CAD577A4D99F1C123D7B0AFD5CF0590.tmp' to '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/BP_Player.uasset'
+[2025.05.01-01.49.06:144][416]LogFileHelpers: InternalPromptForCheckoutAndSave took 294.651 ms (total: 49.1 sec)
+[2025.05.01-01.49.06:174][416]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.01-01.49.06:174][416]LogContentValidation: Enabled validators:
+[2025.05.01-01.49.06:174][416]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.01-01.49.06:174][416]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.01-01.49.06:174][416]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.01-01.49.06:174][416]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.01-01.49.06:174][416]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.01-01.49.06:174][416]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.01-01.49.06:174][416]AssetCheck: /Game/Blueprints/BP_Player Validating asset
+[2025.05.01-01.49.07:223][475]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.05.01-01.49.10:033][475]LogAutomationController: Ignoring very large delta of 3.18 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.01-01.49.11:835][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.05.01-01.49.43:039][793]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.01-01.49.43:046][793]LogContentBundle: [Battle_Level(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.01-01.49.43:046][793]LogWorldPartition: Display: GenerateStreaming for 'Battle_Level' started...
+[2025.05.01-01.49.43:048][793]LogWorldPartition: Display: GenerateStreaming for 'Battle_Level' took 1.779 ms (total: 931.900 ms)
+[2025.05.01-01.49.43:048][793]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.01-01.49.43:049][793]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Battle_Level
+[2025.05.01-01.49.43:052][793]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004155s)
+[2025.05.01-01.49.43:052][793]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Battle_Level.Battle_Level to /Game/UEDPIE_0_Battle_Level.Battle_Level (0.004182s)
+[2025.05.01-01.49.43:173][793]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.05.01-01.49.43:180][793]LogChaosDD: Creating Chaos Debug Draw Scene for world Battle_Level
+[2025.05.01-01.49.43:182][793]LogWorldPartition: ULevel::OnLevelLoaded(Battle_Level)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.01-01.49.43:183][793]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.01-01.49.43:183][793]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_Battle_Level.Battle_Level, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.01-01.49.43:183][793]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.01-01.49.43:184][793]LogWorldPartition: Display: WorldPartition initialize took 1.620 ms (total: 1.24 sec)
+[2025.05.01-01.49.43:184][793]LogPlayLevel: PIE: World Init took: (0.003193s)
+[2025.05.01-01.49.43:185][793]LogAudio: Display: Creating Audio Device:                 Id: 165, Scope: Unique, Realtime: True
+[2025.05.01-01.49.43:185][793]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.01-01.49.43:185][793]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.01-01.49.43:185][793]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.01-01.49.43:185][793]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.01-01.49.43:185][793]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.01-01.49.43:185][793]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.01-01.49.43:185][793]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.01-01.49.43:185][793]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.01-01.49.43:185][793]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.01-01.49.43:185][793]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.01-01.49.43:185][793]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.01-01.49.43:187][793]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.01-01.49.43:201][793]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2025.05.01-01.49.43:201][793]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.01-01.49.43:201][793]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.01-01.49.43:201][793]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.01-01.49.43:202][793]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=165
+[2025.05.01-01.49.43:202][793]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=165
+[2025.05.01-01.49.43:204][793]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=165
+[2025.05.01-01.49.43:204][793]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=165
+[2025.05.01-01.49.43:204][793]LogInit: FAudioDevice initialized with ID 165.
+[2025.05.01-01.49.43:204][793]LogAudio: Display: Audio Device (ID: 165) registered with world 'Battle_Level'.
+[2025.05.01-01.49.43:204][793]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 165
+[2025.05.01-01.49.43:222][793]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.01-01.49.43:222][793]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.05.01-01.49.43:232][793]LogWorld: Bringing World /Game/UEDPIE_0_Battle_Level.Battle_Level up for play (max tick rate 0) at 2025.05.01-04.49.43
+[2025.05.01-01.49.43:234][793]LogWorld: Bringing up level for play took: 0.011026
+[2025.05.01-01.49.43:236][793]LogOnline: OSS: Created online subsystem instance for: :Context_186
+[2025.05.01-01.49.43:241][793]LogBlueprintUserMessages: [BP_Player_C_0] In Battle Level
+[2025.05.01-01.49.43:285][793]PIE: Server logged in
+[2025.05.01-01.49.43:323][793]PIE: Play in editor total start time 0,277 seconds.
+[2025.05.01-01.49.45:040][877]LogBlueprintUserMessages: [BP_Player_C_0] Hello
+[2025.05.01-01.49.45:040][877]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Enemies' of length 3 in '/Game/Blueprints/BP_Player.BP_Player_C'!
+[2025.05.01-01.49.45:040][877]LogScript: Warning: Script Msg called by: BP_Player_C /Game/UEDPIE_0_Battle_Level.Battle_Level:PersistentLevel.BP_Player_C_0
+[2025.05.01-01.49.45:040][877]LogBlueprintUserMessages: [BP_Player_C_0] The turn belongs to: BP_Player_C_0
+[2025.05.01-01.49.54:731][425]LogBlueprintUserMessages: [BP_Player_C_0] MC First Skill used
+[2025.05.01-01.49.56:733][537]LogBlueprintUserMessages: [BP_Player_C_0] 0 buffed
+[2025.05.01-01.49.59:350][686]LogBlueprintUserMessages: [BP_Player_C_0] false
+[2025.05.01-01.49.59:350][686]LogBlueprintUserMessages: [BP_Player_C_0] The turn belongs to: BP_Companion0
+[2025.05.01-01.49.59:350][686]LogBlueprintUserMessages: [BP_Player_C_0] 7
+[2025.05.01-01.50.00:025][724]LogBlueprintUserMessages: [WD_Gameplay_C_0] Strike ability active
+[2025.05.01-01.50.02:456][856]LogBlueprintUserMessages: [BP_Player_C_0] companion0 strike shot
+[2025.05.01-01.50.04:964][993]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.01-01.50.04:964][993]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Battle_Level
+[2025.05.01-01.50.04:965][993]LogSlate: Window 'Pagewalkers Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.05.01-01.50.04:969][993]LogWorld: UWorld::CleanupWorld for Battle_Level, bSessionEnded=true, bCleanupResources=true
+[2025.05.01-01.50.04:970][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.01-01.50.04:970][993]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_Battle_Level.Battle_Level
+[2025.05.01-01.50.04:976][993]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.01-01.50.04:983][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.01-01.50.05:128][993]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 165
+[2025.05.01-01.50.05:128][993]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=165
+[2025.05.01-01.50.05:130][993]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=165
+[2025.05.01-01.50.05:138][993]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.05.01-01.50.05:254][994]LogPlayLevel: Display: Destroying online subsystem :Context_186
+[2025.05.01-01.51.19:154][727]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.05.01-01.51.19:162][727]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Battle_Level' took 0.189
+[2025.05.01-01.51.19:162][727]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Player] ([2] browsable assets)...
+[2025.05.01-01.51.19:224][727]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Player.BP_Player]
+[2025.05.01-01.51.19:225][727]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2025.05.01-01.51.19:443][727]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Player_Auto2
+[2025.05.01-01.51.19:445][727]LogSavePackage: Moving '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/BP_Player_Auto2BE29D0364C243CF1A9A35C8F2AF84853.tmp' to '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/Autosaves/Game/Blueprints/BP_Player_Auto2.uasset'
+[2025.05.01-01.51.19:446][727]LogFileHelpers: Auto-saving content packages took 0.284
+[2025.05.01-01.51.27:148][751]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 90372.453125
+[2025.05.01-01.51.28:146][754]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-01.51.28:146][754]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 90373.117188, Update Interval: 313.834045
+[2025.05.01-01.51.59:847][ 14]LogStreaming: Display: FlushAsyncLoading(1599): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.01-01.51.59:866][ 14]LogInterchangeEngine: [Pending] Importing
+[2025.05.01-01.51.59:866][ 14]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/kara/Downloads/buff_png.png]
+[2025.05.01-01.52.00:527][ 16]LogStreaming: Display: FlushAsyncLoading(1600): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.01-01.52.00:553][ 17]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.05.01-01.52.00:866][ 18]LogTexture: Display: Building textures: /Game/buff_png.buff_png (TFO_AutoDXT, 2000x2000 x1x1x1) (Required Memory Estimate: 275.658187 MB), EncodeSpeed: Fast
+[2025.05.01-01.52.01:205][ 18]LogInterchangeEngine: Display: Interchange import completed [C:/Users/kara/Downloads/buff_png.png]
+[2025.05.01-01.52.01:215][ 18]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.05.01-01.52.01:215][ 18]LogInterchangeEngine: [Success] Import Done
+[2025.05.01-01.53.13:371][898]LogSlate: Window 'Color Picker' being destroyed
+[2025.05.01-01.54.29:470][440]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.01-01.54.29:499][440]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WD_Gameplay] ([2] browsable assets)...
+[2025.05.01-01.54.29:502][440]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WD_Gameplay.WD_Gameplay]
+[2025.05.01-01.54.29:502][440]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WD_Gameplay]
+[2025.05.01-01.54.29:502][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WD_Gameplay" FILE="../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/WD_Gameplay.uasset" SILENT=true
+[2025.05.01-01.54.29:571][440]LogSavePackage: Moving output files for package: /Game/Blueprints/WD_Gameplay
+[2025.05.01-01.54.29:571][440]LogSavePackage: Moving '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/WD_Gameplay2B4BA1B544B22D755D3837B87CC1A830.tmp' to '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/WD_Gameplay.uasset'
+[2025.05.01-01.54.29:582][440]LogFileHelpers: InternalPromptForCheckoutAndSave took 111.378 ms (total: 49.2 sec)
+[2025.05.01-01.54.29:611][440]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.01-01.54.29:611][440]LogContentValidation: Enabled validators:
+[2025.05.01-01.54.29:611][440]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.01-01.54.29:611][440]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.01-01.54.29:611][440]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.01-01.54.29:611][440]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.01-01.54.29:611][440]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.01-01.54.29:611][440]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.01-01.54.29:613][440]AssetCheck: /Game/Blueprints/WD_Gameplay Validating asset
+[2025.05.01-01.54.30:683][524]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.05.01-01.54.32:474][524]LogAutomationController: Ignoring very large delta of 2.10 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.01-01.54.35:001][622]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.01-01.54.35:027][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Player] ([2] browsable assets)...
+[2025.05.01-01.54.35:076][622]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Player.BP_Player]
+[2025.05.01-01.54.35:076][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2025.05.01-01.54.35:076][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2025.05.01-01.54.35:285][622]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Player
+[2025.05.01-01.54.35:285][622]LogSavePackage: Moving '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/BP_PlayerB2ABCB8846FE78BD611FAEB997641508.tmp' to '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/BP_Player.uasset'
+[2025.05.01-01.54.35:296][622]LogFileHelpers: InternalPromptForCheckoutAndSave took 295.316 ms (total: 49.5 sec)
+[2025.05.01-01.54.35:324][622]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.01-01.54.35:324][622]LogContentValidation: Enabled validators:
+[2025.05.01-01.54.35:324][622]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.01-01.54.35:324][622]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.01-01.54.35:324][622]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.01-01.54.35:324][622]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.01-01.54.35:324][622]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.01-01.54.35:324][622]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.01-01.54.35:325][622]AssetCheck: /Game/Blueprints/BP_Player Validating asset
+[2025.05.01-01.54.36:718][697]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.05.01-01.54.36:731][697]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.01-01.54.36:759][697]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/buff_png] ([1] browsable assets)...
+[2025.05.01-01.54.36:761][697]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/buff_png.buff_png]
+[2025.05.01-01.54.36:761][697]OBJ SavePackage: Finished generating thumbnails for package [/Game/buff_png]
+[2025.05.01-01.54.36:761][697]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/buff_png" FILE="../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/buff_png.uasset" SILENT=true
+[2025.05.01-01.54.36:780][697]LogSavePackage: Moving output files for package: /Game/buff_png
+[2025.05.01-01.54.36:780][697]LogSavePackage: Moving '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/buff_pngAEEF8A4442F95857F87542A6C6C21FE6.tmp' to '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/buff_png.uasset'
+[2025.05.01-01.54.36:790][697]LogFileHelpers: InternalPromptForCheckoutAndSave took 59.902 ms (total: 49.6 sec)
+[2025.05.01-01.54.36:817][697]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.01-01.54.36:817][697]LogContentValidation: Enabled validators:
+[2025.05.01-01.54.36:817][697]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.01-01.54.36:817][697]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.01-01.54.36:817][697]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.01-01.54.36:817][697]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.01-01.54.36:817][697]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.01-01.54.36:817][697]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.01-01.54.36:817][697]AssetCheck: /Game/buff_png Validating asset
+[2025.05.01-01.56.17:202][817]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.01-01.56.17:227][817]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WD_Gameplay] ([2] browsable assets)...
+[2025.05.01-01.56.17:232][817]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WD_Gameplay.WD_Gameplay]
+[2025.05.01-01.56.17:232][817]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WD_Gameplay]
+[2025.05.01-01.56.17:232][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WD_Gameplay" FILE="../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/WD_Gameplay.uasset" SILENT=true
+[2025.05.01-01.56.17:300][817]LogSavePackage: Moving output files for package: /Game/Blueprints/WD_Gameplay
+[2025.05.01-01.56.17:300][817]LogSavePackage: Moving '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/WD_GameplayF3EBA53F491B528B36F8C2A7D981824B.tmp' to '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/WD_Gameplay.uasset'
+[2025.05.01-01.56.17:311][817]LogFileHelpers: InternalPromptForCheckoutAndSave took 109.341 ms (total: 49.7 sec)
+[2025.05.01-01.56.17:336][817]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.01-01.56.17:336][817]LogContentValidation: Enabled validators:
+[2025.05.01-01.56.17:336][817]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.01-01.56.17:336][817]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.01-01.56.17:336][817]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.01-01.56.17:336][817]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.01-01.56.17:336][817]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.01-01.56.17:336][817]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.01-01.56.17:338][817]AssetCheck: /Game/Blueprints/WD_Gameplay Validating asset
+[2025.05.01-01.56.18:202][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.05.01-01.56.20:299][872]LogAutomationController: Ignoring very large delta of 2.50 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.01-01.56.45:277][883]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.01-01.56.45:303][883]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Player] ([2] browsable assets)...
+[2025.05.01-01.56.45:349][883]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Player.BP_Player]
+[2025.05.01-01.56.45:349][883]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2025.05.01-01.56.45:349][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2025.05.01-01.56.45:556][883]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Player
+[2025.05.01-01.56.45:557][883]LogSavePackage: Moving '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/BP_Player1AE503DB45E5808C60929E94C0AFD0D3.tmp' to '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/BP_Player.uasset'
+[2025.05.01-01.56.45:568][883]LogFileHelpers: InternalPromptForCheckoutAndSave took 290.214 ms (total: 50.0 sec)
+[2025.05.01-01.56.45:597][883]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.01-01.56.45:597][883]LogContentValidation: Enabled validators:
+[2025.05.01-01.56.45:597][883]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.01-01.56.45:597][883]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.01-01.56.45:597][883]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.01-01.56.45:597][883]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.01-01.56.45:597][883]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.01-01.56.45:597][883]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.01-01.56.45:597][883]AssetCheck: /Game/Blueprints/BP_Player Validating asset
+[2025.05.01-01.56.46:854][961]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.05.01-01.56.49:947][961]LogAutomationController: Ignoring very large delta of 3.50 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.01-01.56.50:420][  2]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.01-01.56.50:430][  2]LogContentBundle: [Battle_Level(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.01-01.56.50:430][  2]LogWorldPartition: Display: GenerateStreaming for 'Battle_Level' started...
+[2025.05.01-01.56.50:431][  2]LogWorldPartition: Display: GenerateStreaming for 'Battle_Level' took 1.753 ms (total: 933.653 ms)
+[2025.05.01-01.56.50:431][  2]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.01-01.56.50:431][  2]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Battle_Level
+[2025.05.01-01.56.50:437][  2]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004540s)
+[2025.05.01-01.56.50:437][  2]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Battle_Level.Battle_Level to /Game/UEDPIE_0_Battle_Level.Battle_Level (0.004567s)
+[2025.05.01-01.56.50:566][  2]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.05.01-01.56.50:575][  2]LogChaosDD: Creating Chaos Debug Draw Scene for world Battle_Level
+[2025.05.01-01.56.50:576][  2]LogWorldPartition: ULevel::OnLevelLoaded(Battle_Level)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.01-01.56.50:577][  2]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.01-01.56.50:577][  2]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_Battle_Level.Battle_Level, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.01-01.56.50:577][  2]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.01-01.56.50:578][  2]LogWorldPartition: Display: WorldPartition initialize took 1.545 ms (total: 1.24 sec)
+[2025.05.01-01.56.50:578][  2]LogPlayLevel: PIE: World Init took: (0.003077s)
+[2025.05.01-01.56.50:579][  2]LogAudio: Display: Creating Audio Device:                 Id: 166, Scope: Unique, Realtime: True
+[2025.05.01-01.56.50:579][  2]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.01-01.56.50:579][  2]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.01-01.56.50:579][  2]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.01-01.56.50:579][  2]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.01-01.56.50:579][  2]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.01-01.56.50:579][  2]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.01-01.56.50:579][  2]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.01-01.56.50:579][  2]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.01-01.56.50:579][  2]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.01-01.56.50:579][  2]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.01-01.56.50:579][  2]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.01-01.56.50:581][  2]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.01-01.56.50:595][  2]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2025.05.01-01.56.50:595][  2]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.01-01.56.50:595][  2]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.01-01.56.50:595][  2]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.01-01.56.50:596][  2]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=166
+[2025.05.01-01.56.50:596][  2]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=166
+[2025.05.01-01.56.50:598][  2]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=166
+[2025.05.01-01.56.50:598][  2]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=166
+[2025.05.01-01.56.50:598][  2]LogInit: FAudioDevice initialized with ID 166.
+[2025.05.01-01.56.50:598][  2]LogAudio: Display: Audio Device (ID: 166) registered with world 'Battle_Level'.
+[2025.05.01-01.56.50:598][  2]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 166
+[2025.05.01-01.56.50:615][  2]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.01-01.56.50:615][  2]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.05.01-01.56.50:625][  2]LogWorld: Bringing World /Game/UEDPIE_0_Battle_Level.Battle_Level up for play (max tick rate 0) at 2025.05.01-04.56.50
+[2025.05.01-01.56.50:627][  2]LogWorld: Bringing up level for play took: 0.011190
+[2025.05.01-01.56.50:630][  2]LogOnline: OSS: Created online subsystem instance for: :Context_187
+[2025.05.01-01.56.50:635][  2]LogBlueprintUserMessages: [BP_Player_C_0] In Battle Level
+[2025.05.01-01.56.50:677][  2]PIE: Server logged in
+[2025.05.01-01.56.50:713][  2]PIE: Play in editor total start time 0,284 seconds.
+[2025.05.01-01.56.52:420][ 82]LogBlueprintUserMessages: [BP_Player_C_0] Hello
+[2025.05.01-01.56.52:420][ 82]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Enemies' of length 3 in '/Game/Blueprints/BP_Player.BP_Player_C'!
+[2025.05.01-01.56.52:420][ 82]LogScript: Warning: Script Msg called by: BP_Player_C /Game/UEDPIE_0_Battle_Level.Battle_Level:PersistentLevel.BP_Player_C_0
+[2025.05.01-01.56.52:420][ 82]LogBlueprintUserMessages: [BP_Player_C_0] The turn belongs to: BP_Player_C_0
+[2025.05.01-01.56.53:883][159]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.01-01.56.53:883][159]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Battle_Level
+[2025.05.01-01.56.53:885][159]LogSlate: Window 'Pagewalkers Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.05.01-01.56.53:889][159]LogWorld: UWorld::CleanupWorld for Battle_Level, bSessionEnded=true, bCleanupResources=true
+[2025.05.01-01.56.53:890][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.01-01.56.53:891][159]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_Battle_Level.Battle_Level
+[2025.05.01-01.56.53:897][159]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.01-01.56.53:904][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.01-01.56.54:046][159]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.01-01.56.54:047][159]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 166
+[2025.05.01-01.56.54:048][159]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=166
+[2025.05.01-01.56.54:050][159]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=166
+[2025.05.01-01.56.54:059][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.05.01-01.56.54:182][160]LogPlayLevel: Display: Destroying online subsystem :Context_187
+[2025.05.01-01.57.35:526][ 62]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 90717.750000
+[2025.05.01-01.57.35:877][104]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-01.57.35:877][104]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 90718.070312, Update Interval: 332.751251
+[2025.05.01-02.02.25:971][631]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.01-02.02.25:998][631]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WD_Gameplay] ([2] browsable assets)...
+[2025.05.01-02.02.26:001][631]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WD_Gameplay.WD_Gameplay]
+[2025.05.01-02.02.26:001][631]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WD_Gameplay]
+[2025.05.01-02.02.26:001][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WD_Gameplay" FILE="../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/WD_Gameplay.uasset" SILENT=true
+[2025.05.01-02.02.26:073][631]LogSavePackage: Moving output files for package: /Game/Blueprints/WD_Gameplay
+[2025.05.01-02.02.26:074][631]LogSavePackage: Moving '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/WD_Gameplay555206EB4E6B93A7B8FF8FAA53A264E1.tmp' to '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/WD_Gameplay.uasset'
+[2025.05.01-02.02.26:084][631]LogFileHelpers: InternalPromptForCheckoutAndSave took 114.268 ms (total: 50.1 sec)
+[2025.05.01-02.02.26:115][631]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.01-02.02.26:115][631]LogContentValidation: Enabled validators:
+[2025.05.01-02.02.26:115][631]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.01-02.02.26:115][631]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.01-02.02.26:115][631]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.01-02.02.26:115][631]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.01-02.02.26:115][631]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.01-02.02.26:115][631]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.01-02.02.26:117][631]AssetCheck: /Game/Blueprints/WD_Gameplay Validating asset
+[2025.05.01-02.02.26:985][690]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2025.05.01-02.02.29:152][690]LogAutomationController: Ignoring very large delta of 2.53 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.01-02.03.54:926][577]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 91078.125000
+[2025.05.01-02.03.55:160][605]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-02.03.55:160][605]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 91078.335938, Update Interval: 338.070618
+[2025.05.01-02.04.29:986][517]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.01-02.04.30:013][517]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WD_Gameplay] ([2] browsable assets)...
+[2025.05.01-02.04.30:017][517]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WD_Gameplay.WD_Gameplay]
+[2025.05.01-02.04.30:017][517]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WD_Gameplay]
+[2025.05.01-02.04.30:017][517]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WD_Gameplay" FILE="../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/WD_Gameplay.uasset" SILENT=true
+[2025.05.01-02.04.30:091][517]LogSavePackage: Moving output files for package: /Game/Blueprints/WD_Gameplay
+[2025.05.01-02.04.30:091][517]LogSavePackage: Moving '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/WD_GameplayCAA238754B470D66F06613AE5D7A91C1.tmp' to '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/WD_Gameplay.uasset'
+[2025.05.01-02.04.30:102][517]LogFileHelpers: InternalPromptForCheckoutAndSave took 116.210 ms (total: 50.2 sec)
+[2025.05.01-02.04.30:126][517]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.01-02.04.30:126][517]LogContentValidation: Enabled validators:
+[2025.05.01-02.04.30:126][517]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.01-02.04.30:126][517]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.01-02.04.30:126][517]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.01-02.04.30:126][517]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.01-02.04.30:126][517]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.01-02.04.30:126][517]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.01-02.04.30:128][517]AssetCheck: /Game/Blueprints/WD_Gameplay Validating asset
+[2025.05.01-02.04.30:938][581]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2025.05.01-02.04.47:994][319]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.01-02.04.48:020][319]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WD_Gameplay] ([2] browsable assets)...
+[2025.05.01-02.04.48:023][319]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WD_Gameplay.WD_Gameplay]
+[2025.05.01-02.04.48:023][319]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WD_Gameplay]
+[2025.05.01-02.04.48:023][319]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WD_Gameplay" FILE="../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/WD_Gameplay.uasset" SILENT=true
+[2025.05.01-02.04.48:095][319]LogSavePackage: Moving output files for package: /Game/Blueprints/WD_Gameplay
+[2025.05.01-02.04.48:096][319]LogSavePackage: Moving '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/WD_Gameplay2EBF99154FF2B99627E64DB5F19C9821.tmp' to '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/WD_Gameplay.uasset'
+[2025.05.01-02.04.48:107][319]LogFileHelpers: InternalPromptForCheckoutAndSave took 113.181 ms (total: 50.3 sec)
+[2025.05.01-02.04.48:137][319]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.01-02.04.48:137][319]LogContentValidation: Enabled validators:
+[2025.05.01-02.04.48:137][319]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.01-02.04.48:137][319]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.01-02.04.48:137][319]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.01-02.04.48:137][319]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.01-02.04.48:137][319]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.01-02.04.48:137][319]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.01-02.04.48:139][319]AssetCheck: /Game/Blueprints/WD_Gameplay Validating asset
+[2025.05.01-02.04.48:918][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.05.01-02.04.50:607][480]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.05.01-02.04.51:382][567]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.01-02.04.51:392][567]LogContentBundle: [Battle_Level(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.01-02.04.51:392][567]LogWorldPartition: Display: GenerateStreaming for 'Battle_Level' started...
+[2025.05.01-02.04.51:393][567]LogWorldPartition: Display: GenerateStreaming for 'Battle_Level' took 1.684 ms (total: 935.338 ms)
+[2025.05.01-02.04.51:393][567]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.01-02.04.51:393][567]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Battle_Level
+[2025.05.01-02.04.51:398][567]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004342s)
+[2025.05.01-02.04.51:398][567]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Battle_Level.Battle_Level to /Game/UEDPIE_0_Battle_Level.Battle_Level (0.004369s)
+[2025.05.01-02.04.51:491][567]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.05.01-02.04.51:500][567]LogChaosDD: Creating Chaos Debug Draw Scene for world Battle_Level
+[2025.05.01-02.04.51:501][567]LogWorldPartition: ULevel::OnLevelLoaded(Battle_Level)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.01-02.04.51:501][567]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.01-02.04.51:501][567]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_Battle_Level.Battle_Level, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.01-02.04.51:501][567]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.01-02.04.51:502][567]LogWorldPartition: Display: WorldPartition initialize took 1.717 ms (total: 1.25 sec)
+[2025.05.01-02.04.51:502][567]LogPlayLevel: PIE: World Init took: (0.003323s)
+[2025.05.01-02.04.51:504][567]LogAudio: Display: Creating Audio Device:                 Id: 167, Scope: Unique, Realtime: True
+[2025.05.01-02.04.51:504][567]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.01-02.04.51:504][567]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.01-02.04.51:504][567]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.01-02.04.51:504][567]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.01-02.04.51:504][567]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.01-02.04.51:504][567]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.01-02.04.51:504][567]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.01-02.04.51:504][567]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.01-02.04.51:504][567]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.01-02.04.51:504][567]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.01-02.04.51:504][567]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.01-02.04.51:507][567]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.01-02.04.51:521][567]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2025.05.01-02.04.51:522][567]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.01-02.04.51:522][567]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.01-02.04.51:522][567]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.01-02.04.51:522][567]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=167
+[2025.05.01-02.04.51:522][567]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=167
+[2025.05.01-02.04.51:524][567]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=167
+[2025.05.01-02.04.51:524][567]LogInit: FAudioDevice initialized with ID 167.
+[2025.05.01-02.04.51:524][567]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=167
+[2025.05.01-02.04.51:524][567]LogAudio: Display: Audio Device (ID: 167) registered with world 'Battle_Level'.
+[2025.05.01-02.04.51:524][567]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 167
+[2025.05.01-02.04.51:540][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.01-02.04.51:541][567]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.05.01-02.04.51:551][567]LogWorld: Bringing World /Game/UEDPIE_0_Battle_Level.Battle_Level up for play (max tick rate 0) at 2025.05.01-05.04.51
+[2025.05.01-02.04.51:552][567]LogWorld: Bringing up level for play took: 0.010911
+[2025.05.01-02.04.51:555][567]LogOnline: OSS: Created online subsystem instance for: :Context_188
+[2025.05.01-02.04.51:561][567]LogBlueprintUserMessages: [BP_Player_C_0] In Battle Level
+[2025.05.01-02.04.51:572][567]PIE: Server logged in
+[2025.05.01-02.04.51:579][567]PIE: Play in editor total start time 0,188 seconds.
+[2025.05.01-02.04.53:387][683]LogBlueprintUserMessages: [BP_Player_C_0] Hello
+[2025.05.01-02.04.53:387][683]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Enemies' of length 3 in '/Game/Blueprints/BP_Player.BP_Player_C'!
+[2025.05.01-02.04.53:387][683]LogScript: Warning: Script Msg called by: BP_Player_C /Game/UEDPIE_0_Battle_Level.Battle_Level:PersistentLevel.BP_Player_C_0
+[2025.05.01-02.04.53:387][683]LogBlueprintUserMessages: [BP_Player_C_0] The turn belongs to: BP_Player_C_0
+[2025.05.01-02.04.57:866][  6]LogBlueprintUserMessages: [BP_Player_C_0] MC First Skill used
+[2025.05.01-02.05.03:642][429]LogBlueprintUserMessages: [BP_Player_C_0] false
+[2025.05.01-02.05.03:644][429]LogBlueprintUserMessages: [BP_Player_C_0] The turn belongs to: BP_Companion0
+[2025.05.01-02.05.03:644][429]LogBlueprintUserMessages: [BP_Player_C_0] 7
+[2025.05.01-02.05.06:973][662]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.01-02.05.06:973][662]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Battle_Level
+[2025.05.01-02.05.06:975][662]LogSlate: Window 'Pagewalkers Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.05.01-02.05.06:978][662]LogWorld: UWorld::CleanupWorld for Battle_Level, bSessionEnded=true, bCleanupResources=true
+[2025.05.01-02.05.06:979][662]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.01-02.05.06:979][662]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_Battle_Level.Battle_Level
+[2025.05.01-02.05.06:986][662]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.01-02.05.06:993][662]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.01-02.05.07:124][662]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 167
+[2025.05.01-02.05.07:124][662]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=167
+[2025.05.01-02.05.07:126][662]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=167
+[2025.05.01-02.05.07:134][662]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.05.01-02.05.07:243][663]LogPlayLevel: Display: Destroying online subsystem :Context_188
+[2025.05.01-02.05.22:001][641]LogAutomationController: Ignoring very large delta of 2.75 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.01-02.06.37:202][954]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.01-02.06.37:230][954]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Player] ([2] browsable assets)...
+[2025.05.01-02.06.37:288][954]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Player.BP_Player]
+[2025.05.01-02.06.37:288][954]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2025.05.01-02.06.37:288][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2025.05.01-02.06.37:498][954]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Player
+[2025.05.01-02.06.37:499][954]LogSavePackage: Moving '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/BP_Player1BFA15A74C7FEC916FCE23BBF107ED0B.tmp' to '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/BP_Player.uasset'
+[2025.05.01-02.06.37:510][954]LogFileHelpers: InternalPromptForCheckoutAndSave took 308.180 ms (total: 50.6 sec)
+[2025.05.01-02.06.37:542][954]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.01-02.06.37:542][954]LogContentValidation: Enabled validators:
+[2025.05.01-02.06.37:542][954]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.01-02.06.37:542][954]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.01-02.06.37:542][954]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.01-02.06.37:542][954]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.01-02.06.37:542][954]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.01-02.06.37:542][954]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.01-02.06.37:542][954]AssetCheck: /Game/Blueprints/BP_Player Validating asset
+[2025.05.01-02.06.38:423][986]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2025.05.01-02.06.41:675][986]LogAutomationController: Ignoring very large delta of 3.71 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.01-02.06.43:018][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.05.01-02.06.44:143][150]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.01-02.06.44:151][150]LogContentBundle: [Battle_Level(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.01-02.06.44:151][150]LogWorldPartition: Display: GenerateStreaming for 'Battle_Level' started...
+[2025.05.01-02.06.44:152][150]LogWorldPartition: Display: GenerateStreaming for 'Battle_Level' took 1.668 ms (total: 937.006 ms)
+[2025.05.01-02.06.44:153][150]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.01-02.06.44:153][150]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Battle_Level
+[2025.05.01-02.06.44:157][150]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004584s)
+[2025.05.01-02.06.44:157][150]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Battle_Level.Battle_Level to /Game/UEDPIE_0_Battle_Level.Battle_Level (0.004611s)
+[2025.05.01-02.06.44:270][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.05.01-02.06.44:278][150]LogChaosDD: Creating Chaos Debug Draw Scene for world Battle_Level
+[2025.05.01-02.06.44:279][150]LogWorldPartition: ULevel::OnLevelLoaded(Battle_Level)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.01-02.06.44:279][150]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.01-02.06.44:279][150]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_Battle_Level.Battle_Level, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.01-02.06.44:279][150]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.01-02.06.44:281][150]LogWorldPartition: Display: WorldPartition initialize took 1.566 ms (total: 1.25 sec)
+[2025.05.01-02.06.44:281][150]LogPlayLevel: PIE: World Init took: (0.003051s)
+[2025.05.01-02.06.44:282][150]LogAudio: Display: Creating Audio Device:                 Id: 168, Scope: Unique, Realtime: True
+[2025.05.01-02.06.44:282][150]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.01-02.06.44:282][150]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.01-02.06.44:282][150]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.01-02.06.44:282][150]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.01-02.06.44:282][150]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.01-02.06.44:282][150]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.01-02.06.44:282][150]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.01-02.06.44:282][150]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.01-02.06.44:282][150]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.01-02.06.44:282][150]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.01-02.06.44:282][150]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.01-02.06.44:284][150]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.01-02.06.44:298][150]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2025.05.01-02.06.44:298][150]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.01-02.06.44:298][150]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.01-02.06.44:298][150]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.01-02.06.44:298][150]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=168
+[2025.05.01-02.06.44:298][150]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=168
+[2025.05.01-02.06.44:300][150]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=168
+[2025.05.01-02.06.44:300][150]LogInit: FAudioDevice initialized with ID 168.
+[2025.05.01-02.06.44:300][150]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=168
+[2025.05.01-02.06.44:300][150]LogAudio: Display: Audio Device (ID: 168) registered with world 'Battle_Level'.
+[2025.05.01-02.06.44:300][150]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 168
+[2025.05.01-02.06.44:313][150]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.01-02.06.44:314][150]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.05.01-02.06.44:323][150]LogWorld: Bringing World /Game/UEDPIE_0_Battle_Level.Battle_Level up for play (max tick rate 0) at 2025.05.01-05.06.44
+[2025.05.01-02.06.44:324][150]LogWorld: Bringing up level for play took: 0.010090
+[2025.05.01-02.06.44:327][150]LogOnline: OSS: Created online subsystem instance for: :Context_189
+[2025.05.01-02.06.44:333][150]LogBlueprintUserMessages: [BP_Player_C_0] In Battle Level
+[2025.05.01-02.06.44:375][150]PIE: Server logged in
+[2025.05.01-02.06.44:412][150]PIE: Play in editor total start time 0,261 seconds.
+[2025.05.01-02.06.46:139][224]LogBlueprintUserMessages: [BP_Player_C_0] Hello
+[2025.05.01-02.06.46:139][224]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Enemies' of length 3 in '/Game/Blueprints/BP_Player.BP_Player_C'!
+[2025.05.01-02.06.46:139][224]LogScript: Warning: Script Msg called by: BP_Player_C /Game/UEDPIE_0_Battle_Level.Battle_Level:PersistentLevel.BP_Player_C_0
+[2025.05.01-02.06.46:139][224]LogBlueprintUserMessages: [BP_Player_C_0] The turn belongs to: BP_Player_C_0
+[2025.05.01-02.06.54:427][623]LogBlueprintUserMessages: [BP_Player_C_0] MC First Skill used
+[2025.05.01-02.06.58:687][820]LogBlueprintUserMessages: [BP_Player_C_0] false
+[2025.05.01-02.06.58:687][820]LogBlueprintUserMessages: [BP_Player_C_0] The turn belongs to: BP_Companion0
+[2025.05.01-02.06.58:687][820]LogBlueprintUserMessages: [BP_Player_C_0] 7
+[2025.05.01-02.07.00:386][900]LogBlueprintUserMessages: [WD_Gameplay_C_0] Strike ability active
+[2025.05.01-02.07.04:721][106]LogBlueprintUserMessages: [BP_Player_C_0] companion0 strike shot
+[2025.05.01-02.07.12:250][469]LogBlueprintUserMessages: [BP_Player_C_0] false
+[2025.05.01-02.07.12:250][469]LogBlueprintUserMessages: [BP_Player_C_0] The turn belongs to: BP_Companion1
+[2025.05.01-02.07.12:250][469]LogBlueprintUserMessages: [BP_Player_C_0] 7
+[2025.05.01-02.07.13:929][550]LogBlueprintUserMessages: [WD_Gameplay_C_0] Strike ability active
+[2025.05.01-02.07.15:806][639]LogBlueprintUserMessages: [BP_Player_C_0] companion1 strike shot
+[2025.05.01-02.07.19:288][802]LogBlueprintUserMessages: [BP_Player_C_0] false
+[2025.05.01-02.07.19:288][802]LogBlueprintUserMessages: [BP_Player_C_0] The turn belongs to: BP_Companion2
+[2025.05.01-02.07.19:288][802]LogBlueprintUserMessages: [BP_Player_C_0] 7
+[2025.05.01-02.07.22:140][930]LogBlueprintUserMessages: [BP_Player_C_0] Enemy BP_Enemy2 died
+[2025.05.01-02.07.22:140][930]LogBlueprintUserMessages: [BP_Player_C_0] Enemy BP_Enemy2 died
+[2025.05.01-02.07.25:648][ 96]LogBlueprintUserMessages: [BP_Player_C_0] false
+[2025.05.01-02.07.25:648][ 96]LogBlueprintUserMessages: [BP_Player_C_0] The turn belongs to: BP_Enemy
+[2025.05.01-02.07.25:648][ 96]LogBlueprintUserMessages: [BP_Player_C_0] 7
+[2025.05.01-02.07.25:670][ 97]LogBlueprintUserMessages: [BP_Player_C_0] enemy attack in progress
+[2025.05.01-02.07.28:181][217]LogBlueprintUserMessages: [BP_Player_C_0] Enemy attacked Companion2
+[2025.05.01-02.07.32:154][410]LogBlueprintUserMessages: [BP_Player_C_0] false
+[2025.05.01-02.07.32:154][410]LogBlueprintUserMessages: [BP_Player_C_0] The turn belongs to: BP_Enemy3
+[2025.05.01-02.07.32:154][410]LogBlueprintUserMessages: [BP_Player_C_0] 7
+[2025.05.01-02.07.32:176][411]LogBlueprintUserMessages: [BP_Player_C_0] enemy attack in progress
+[2025.05.01-02.07.34:704][531]LogBlueprintUserMessages: [BP_Player_C_0] Enemy attacked MC
+[2025.05.01-02.07.38:382][702]LogBlueprintUserMessages: [BP_Player_C_0] false
+[2025.05.01-02.07.38:382][702]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'TurnOrderArray' of length 6 in '/Game/Blueprints/BP_Player.BP_Player_C'!
+[2025.05.01-02.07.38:382][702]LogScript: Warning: Script Msg called by: BP_Player_C /Game/UEDPIE_0_Battle_Level.Battle_Level:PersistentLevel.BP_Player_C_0
+[2025.05.01-02.07.38:382][702]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'TurnOrderArray' of length 6 in '/Game/Blueprints/BP_Player.BP_Player_C'!
+[2025.05.01-02.07.38:382][702]LogScript: Warning: Script Msg called by: BP_Player_C /Game/UEDPIE_0_Battle_Level.Battle_Level:PersistentLevel.BP_Player_C_0
+[2025.05.01-02.07.38:382][702]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'TurnOrderArray' of length 6 in '/Game/Blueprints/BP_Player.BP_Player_C'!
+[2025.05.01-02.07.38:382][702]LogScript: Warning: Script Msg called by: BP_Player_C /Game/UEDPIE_0_Battle_Level.Battle_Level:PersistentLevel.BP_Player_C_0
+[2025.05.01-02.07.38:382][702]LogBlueprintUserMessages: [BP_Player_C_0] The turn belongs to: 
+[2025.05.01-02.07.38:382][702]LogBlueprintUserMessages: [BP_Player_C_0] 7
+[2025.05.01-02.07.38:404][703]LogBlueprintUserMessages: [BP_Player_C_0] enemy attack in progress
+[2025.05.01-02.07.40:923][824]LogBlueprintUserMessages: [BP_Player_C_0] Enemy attacked Companion1
+[2025.05.01-02.07.44:493][994]LogBlueprintUserMessages: [BP_Player_C_0] false
+[2025.05.01-02.07.44:493][994]LogBlueprintUserMessages: [BP_Player_C_0] The turn belongs to: BP_Player_C_0
+[2025.05.01-02.07.44:493][994]LogBlueprintUserMessages: [BP_Player_C_0] 6
+[2025.05.01-02.07.48:683][192]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.01-02.07.48:683][192]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Battle_Level
+[2025.05.01-02.07.48:684][192]LogSlate: Window 'Pagewalkers Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.05.01-02.07.48:688][192]LogWorld: UWorld::CleanupWorld for Battle_Level, bSessionEnded=true, bCleanupResources=true
+[2025.05.01-02.07.48:689][192]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.01-02.07.48:689][192]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_Battle_Level.Battle_Level
+[2025.05.01-02.07.48:696][192]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.01-02.07.48:702][192]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.01-02.07.48:858][192]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 168
+[2025.05.01-02.07.48:858][192]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=168
+[2025.05.01-02.07.48:860][192]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=168
+[2025.05.01-02.07.48:868][192]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.05.01-02.07.48:986][193]LogPlayLevel: Display: Destroying online subsystem :Context_189
+[2025.05.01-02.07.57:162][644]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.05.01-02.08.00:861][846]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.01-02.08.00:870][846]LogContentBundle: [Battle_Level(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.01-02.08.00:870][846]LogWorldPartition: Display: GenerateStreaming for 'Battle_Level' started...
+[2025.05.01-02.08.00:872][846]LogWorldPartition: Display: GenerateStreaming for 'Battle_Level' took 1.834 ms (total: 938.841 ms)
+[2025.05.01-02.08.00:872][846]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.01-02.08.00:872][846]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Battle_Level
+[2025.05.01-02.08.00:876][846]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004570s)
+[2025.05.01-02.08.00:876][846]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Battle_Level.Battle_Level to /Game/UEDPIE_0_Battle_Level.Battle_Level (0.004594s)
+[2025.05.01-02.08.01:007][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.05.01-02.08.01:014][846]LogChaosDD: Creating Chaos Debug Draw Scene for world Battle_Level
+[2025.05.01-02.08.01:015][846]LogWorldPartition: ULevel::OnLevelLoaded(Battle_Level)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.01-02.08.01:015][846]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.01-02.08.01:015][846]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_Battle_Level.Battle_Level, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.01-02.08.01:015][846]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.01-02.08.01:017][846]LogWorldPartition: Display: WorldPartition initialize took 1.662 ms (total: 1.25 sec)
+[2025.05.01-02.08.01:017][846]LogPlayLevel: PIE: World Init took: (0.003179s)
+[2025.05.01-02.08.01:018][846]LogAudio: Display: Creating Audio Device:                 Id: 169, Scope: Unique, Realtime: True
+[2025.05.01-02.08.01:018][846]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.01-02.08.01:018][846]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.01-02.08.01:018][846]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.01-02.08.01:018][846]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.01-02.08.01:018][846]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.01-02.08.01:018][846]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.01-02.08.01:018][846]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.01-02.08.01:018][846]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.01-02.08.01:018][846]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.01-02.08.01:018][846]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.01-02.08.01:018][846]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.01-02.08.01:020][846]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.01-02.08.01:034][846]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2025.05.01-02.08.01:035][846]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.01-02.08.01:035][846]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.01-02.08.01:035][846]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.01-02.08.01:035][846]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=169
+[2025.05.01-02.08.01:035][846]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=169
+[2025.05.01-02.08.01:037][846]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=169
+[2025.05.01-02.08.01:037][846]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=169
+[2025.05.01-02.08.01:037][846]LogInit: FAudioDevice initialized with ID 169.
+[2025.05.01-02.08.01:037][846]LogAudio: Display: Audio Device (ID: 169) registered with world 'Battle_Level'.
+[2025.05.01-02.08.01:037][846]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 169
+[2025.05.01-02.08.01:049][846]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.01-02.08.01:049][846]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.05.01-02.08.01:060][846]LogWorld: Bringing World /Game/UEDPIE_0_Battle_Level.Battle_Level up for play (max tick rate 0) at 2025.05.01-05.08.01
+[2025.05.01-02.08.01:062][846]LogWorld: Bringing up level for play took: 0.011300
+[2025.05.01-02.08.01:064][846]LogOnline: OSS: Created online subsystem instance for: :Context_190
+[2025.05.01-02.08.01:070][846]LogBlueprintUserMessages: [BP_Player_C_0] In Battle Level
+[2025.05.01-02.08.01:111][846]PIE: Server logged in
+[2025.05.01-02.08.01:144][846]PIE: Play in editor total start time 0,275 seconds.
+[2025.05.01-02.08.02:852][903]LogBlueprintUserMessages: [BP_Player_C_0] Hello
+[2025.05.01-02.08.02:852][903]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Enemies' of length 3 in '/Game/Blueprints/BP_Player.BP_Player_C'!
+[2025.05.01-02.08.02:852][903]LogScript: Warning: Script Msg called by: BP_Player_C /Game/UEDPIE_0_Battle_Level.Battle_Level:PersistentLevel.BP_Player_C_0
+[2025.05.01-02.08.02:852][903]LogBlueprintUserMessages: [BP_Player_C_0] The turn belongs to: BP_Player_C_0
+[2025.05.01-02.08.07:593][ 79]LogBlueprintUserMessages: [BP_Player_C_0] MC First Skill used
+[2025.05.01-02.08.12:401][257]LogBlueprintUserMessages: [BP_Player_C_0] false
+[2025.05.01-02.08.12:401][257]LogBlueprintUserMessages: [BP_Player_C_0] The turn belongs to: BP_Companion0
+[2025.05.01-02.08.12:401][257]LogBlueprintUserMessages: [BP_Player_C_0] 7
+[2025.05.01-02.08.14:308][325]LogBlueprintUserMessages: [WD_Gameplay_C_0] Strike ability active
+[2025.05.01-02.08.16:240][396]LogBlueprintUserMessages: [BP_Player_C_0] companion0 strike shot
+[2025.05.01-02.08.19:712][523]LogBlueprintUserMessages: [BP_Player_C_0] false
+[2025.05.01-02.08.19:712][523]LogBlueprintUserMessages: [BP_Player_C_0] The turn belongs to: BP_Companion1
+[2025.05.01-02.08.19:712][523]LogBlueprintUserMessages: [BP_Player_C_0] 7
+[2025.05.01-02.08.21:528][589]LogBlueprintUserMessages: [WD_Gameplay_C_0] Strike ability active
+[2025.05.01-02.08.23:749][672]LogBlueprintUserMessages: [BP_Player_C_0] companion1 strike shot
+[2025.05.01-02.08.27:208][801]LogBlueprintUserMessages: [BP_Player_C_0] false
+[2025.05.01-02.08.27:208][801]LogBlueprintUserMessages: [BP_Player_C_0] The turn belongs to: BP_Companion2
+[2025.05.01-02.08.27:208][801]LogBlueprintUserMessages: [BP_Player_C_0] 7
+[2025.05.01-02.08.31:682][967]LogBlueprintUserMessages: [WD_Gameplay_C_0] Strike ability active
+[2025.05.01-02.08.33:921][ 49]LogBlueprintUserMessages: [BP_Player_C_0] companion2 strike shot
+[2025.05.01-02.08.37:810][183]LogBlueprintUserMessages: [BP_Player_C_0] false
+[2025.05.01-02.08.37:810][183]LogBlueprintUserMessages: [BP_Player_C_0] The turn belongs to: BP_Enemy
+[2025.05.01-02.08.37:810][183]LogBlueprintUserMessages: [BP_Player_C_0] 7
+[2025.05.01-02.08.37:839][184]LogBlueprintUserMessages: [BP_Player_C_0] enemy attack in progress
+[2025.05.01-02.08.40:348][274]LogBlueprintUserMessages: [BP_Player_C_0] Enemy attacked Companion0
+[2025.05.01-02.08.44:202][417]LogBlueprintUserMessages: [BP_Player_C_0] false
+[2025.05.01-02.08.44:202][417]LogBlueprintUserMessages: [BP_Player_C_0] The turn belongs to: BP_Enemy3
+[2025.05.01-02.08.44:202][417]LogBlueprintUserMessages: [BP_Player_C_0] 7
+[2025.05.01-02.08.44:228][418]LogBlueprintUserMessages: [BP_Player_C_0] enemy attack in progress
+[2025.05.01-02.08.46:734][511]LogBlueprintUserMessages: [BP_Player_C_0] Enemy attacked Companion1
+[2025.05.01-02.08.50:324][642]LogBlueprintUserMessages: [BP_Player_C_0] false
+[2025.05.01-02.08.50:324][642]LogBlueprintUserMessages: [BP_Player_C_0] The turn belongs to: BP_Enemy2
+[2025.05.01-02.08.50:324][642]LogBlueprintUserMessages: [BP_Player_C_0] 7
+[2025.05.01-02.08.50:350][643]LogBlueprintUserMessages: [BP_Player_C_0] enemy attack in progress
+[2025.05.01-02.08.52:864][736]LogBlueprintUserMessages: [BP_Player_C_0] Enemy attacked MC
+[2025.05.01-02.08.56:411][868]LogBlueprintUserMessages: [BP_Player_C_0] false
+[2025.05.01-02.08.56:411][868]LogBlueprintUserMessages: [BP_Player_C_0] The turn belongs to: BP_Player_C_0
+[2025.05.01-02.08.56:411][868]LogBlueprintUserMessages: [BP_Player_C_0] 7
+[2025.05.01-02.09.05:082][194]LogBlueprintUserMessages: [BP_Player_C_0] MC First Skill used
+[2025.05.01-02.09.09:357][350]LogBlueprintUserMessages: [BP_Player_C_0] false
+[2025.05.01-02.09.09:357][350]LogBlueprintUserMessages: [BP_Player_C_0] The turn belongs to: BP_Companion0
+[2025.05.01-02.09.09:357][350]LogBlueprintUserMessages: [BP_Player_C_0] 7
+[2025.05.01-02.09.18:643][689]LogBlueprintUserMessages: [BP_Player_C_0] Companion0 First Skill Used
+[2025.05.01-02.09.23:241][861]LogBlueprintUserMessages: [BP_Player_C_0] false
+[2025.05.01-02.09.23:241][861]LogBlueprintUserMessages: [BP_Player_C_0] The turn belongs to: BP_Companion1
+[2025.05.01-02.09.23:241][861]LogBlueprintUserMessages: [BP_Player_C_0] 7
+[2025.05.01-02.09.33:529][240]LogBlueprintUserMessages: [BP_Player_C_0] false
+[2025.05.01-02.09.33:529][240]LogBlueprintUserMessages: [BP_Player_C_0] The turn belongs to: BP_Companion2
+[2025.05.01-02.09.33:530][240]LogBlueprintUserMessages: [BP_Player_C_0] 7
+[2025.05.01-02.09.35:032][297]LogBlueprintUserMessages: [WD_Gameplay_C_0] Strike ability active
+[2025.05.01-02.09.37:314][377]LogBlueprintUserMessages: [BP_Player_C_0] companion2 strike shot
+[2025.05.01-02.09.37:315][377]LogBlueprintUserMessages: [BP_Player_C_0] Enemy 2 died
+[2025.05.01-02.09.40:801][507]LogBlueprintUserMessages: [BP_Player_C_0] false
+[2025.05.01-02.09.40:801][507]LogBlueprintUserMessages: [BP_Player_C_0] The turn belongs to: BP_Enemy
+[2025.05.01-02.09.40:801][507]LogBlueprintUserMessages: [BP_Player_C_0] 7
+[2025.05.01-02.09.40:828][508]LogBlueprintUserMessages: [BP_Player_C_0] enemy attack in progress
+[2025.05.01-02.09.43:352][603]LogBlueprintUserMessages: [BP_Player_C_0] Enemy attacked Companion0
+[2025.05.01-02.09.46:890][731]LogBlueprintUserMessages: [BP_Player_C_0] false
+[2025.05.01-02.09.46:890][731]LogBlueprintUserMessages: [BP_Player_C_0] The turn belongs to: BP_Enemy3
+[2025.05.01-02.09.46:890][731]LogBlueprintUserMessages: [BP_Player_C_0] 7
+[2025.05.01-02.09.46:916][732]LogBlueprintUserMessages: [BP_Player_C_0] enemy attack in progress
+[2025.05.01-02.09.49:426][824]LogBlueprintUserMessages: [BP_Player_C_0] Companion0 is dead
+[2025.05.01-02.09.52:943][952]LogBlueprintUserMessages: [BP_Player_C_0] false
+[2025.05.01-02.09.52:943][952]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'TurnOrderArray' of length 5 in '/Game/Blueprints/BP_Player.BP_Player_C'!
+[2025.05.01-02.09.52:943][952]LogScript: Warning: Script Msg called by: BP_Player_C /Game/UEDPIE_0_Battle_Level.Battle_Level:PersistentLevel.BP_Player_C_0
+[2025.05.01-02.09.52:943][952]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'TurnOrderArray' of length 5 in '/Game/Blueprints/BP_Player.BP_Player_C'!
+[2025.05.01-02.09.52:943][952]LogScript: Warning: Script Msg called by: BP_Player_C /Game/UEDPIE_0_Battle_Level.Battle_Level:PersistentLevel.BP_Player_C_0
+[2025.05.01-02.09.52:943][952]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'TurnOrderArray' of length 5 in '/Game/Blueprints/BP_Player.BP_Player_C'!
+[2025.05.01-02.09.52:943][952]LogScript: Warning: Script Msg called by: BP_Player_C /Game/UEDPIE_0_Battle_Level.Battle_Level:PersistentLevel.BP_Player_C_0
+[2025.05.01-02.09.52:943][952]LogBlueprintUserMessages: [BP_Player_C_0] The turn belongs to: 
+[2025.05.01-02.09.52:943][952]LogBlueprintUserMessages: [BP_Player_C_0] 7
+[2025.05.01-02.09.52:971][953]LogBlueprintUserMessages: [BP_Player_C_0] enemy attack in progress
+[2025.05.01-02.09.55:497][ 48]LogBlueprintUserMessages: [BP_Player_C_0] Enemy attacked Companion1
+[2025.05.01-02.09.59:900][213]LogBlueprintUserMessages: [BP_Player_C_0] false
+[2025.05.01-02.09.59:901][213]LogBlueprintUserMessages: [BP_Player_C_0] The turn belongs to: BP_Player_C_0
+[2025.05.01-02.09.59:901][213]LogBlueprintUserMessages: [BP_Player_C_0] 5
+[2025.05.01-02.10.02:469][308]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Enemies' of length 2 in '/Game/Blueprints/BP_Player.BP_Player_C'!
+[2025.05.01-02.10.02:469][308]LogScript: Warning: Script Msg called by: BP_Player_C /Game/UEDPIE_0_Battle_Level.Battle_Level:PersistentLevel.BP_Player_C_0
+[2025.05.01-02.10.02:469][308]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_21". Node:  SetEnemyTargetLockVisibility1 Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2025.05.01-02.10.02:469][308]LogBlueprintUserMessages: [WD_Gameplay_C_0] Strike ability active
+[2025.05.01-02.10.05:160][407]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Enemies' of length 2 in '/Game/Blueprints/BP_Player.BP_Player_C'!
+[2025.05.01-02.10.05:160][407]LogScript: Warning: Script Msg called by: BP_Player_C /Game/UEDPIE_0_Battle_Level.Battle_Level:PersistentLevel.BP_Player_C_0
+[2025.05.01-02.10.05:160][407]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_22". Node:  SetEnemyTargetLockVisibility0 Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2025.05.01-02.10.08:633][535]LogBlueprintUserMessages: [BP_Player_C_0] mc strike shot
+[2025.05.01-02.10.12:495][680]LogBlueprintUserMessages: [BP_Player_C_0] false
+[2025.05.01-02.10.12:495][680]LogBlueprintUserMessages: [BP_Player_C_0] The turn belongs to: BP_Companion1
+[2025.05.01-02.10.12:495][680]LogBlueprintUserMessages: [BP_Player_C_0] 5
+[2025.05.01-02.10.20:341][972]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Allies' of length 3 in '/Game/Blueprints/BP_Player.BP_Player_C'!
+[2025.05.01-02.10.20:341][972]LogScript: Warning: Script Msg called by: BP_Player_C /Game/UEDPIE_0_Battle_Level.Battle_Level:PersistentLevel.BP_Player_C_0
+[2025.05.01-02.10.20:803][988]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 91459.851562
+[2025.05.01-02.10.21:224][  3]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-02.10.21:224][  3]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 91460.273438, Update Interval: 312.424072
+[2025.05.01-02.10.21:309][  7]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Allies' of length 3 in '/Game/Blueprints/BP_Player.BP_Player_C'!
+[2025.05.01-02.10.21:309][  7]LogScript: Warning: Script Msg called by: BP_Player_C /Game/UEDPIE_0_Battle_Level.Battle_Level:PersistentLevel.BP_Player_C_0
+[2025.05.01-02.10.25:392][155]LogBlueprintUserMessages: [BP_Player_C_0] Companion0 First Skill Used
+[2025.05.01-02.10.33:996][469]LogBlueprintUserMessages: [BP_Player_C_0] false
+[2025.05.01-02.10.33:996][469]LogBlueprintUserMessages: [BP_Player_C_0] The turn belongs to: BP_Companion2
+[2025.05.01-02.10.33:996][469]LogBlueprintUserMessages: [BP_Player_C_0] 5
+[2025.05.01-02.10.47:183][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.01-02.10.47:183][946]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Battle_Level
+[2025.05.01-02.10.47:185][946]LogSlate: Window 'Pagewalkers Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.05.01-02.10.47:190][946]LogWorld: UWorld::CleanupWorld for Battle_Level, bSessionEnded=true, bCleanupResources=true
+[2025.05.01-02.10.47:191][946]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.01-02.10.47:191][946]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_Battle_Level.Battle_Level
+[2025.05.01-02.10.47:197][946]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.01-02.10.47:204][946]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.01-02.10.47:357][946]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 169
+[2025.05.01-02.10.47:357][946]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=169
+[2025.05.01-02.10.47:359][946]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=169
+[2025.05.01-02.10.47:368][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2025.05.01-02.10.47:536][947]LogPlayLevel: Display: Destroying online subsystem :Context_190
+[2025.05.01-02.10.53:325][245]LogSlate: Window 'Message Log' being destroyed
+[2025.05.01-02.10.53:335][245]LogSlate: Window 'Message Log' being destroyed
+[2025.05.01-02.12.58:124][882]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2025.05.01-02.12.58:136][882]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.05.01-02.12.58:159][882]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.05.01-02.12.58:179][883]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.05.01-02.13.23:713][ 15]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WD_Damage_Text
+[2025.05.01-02.13.23:725][ 15]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.05.01-02.13.29:030][432]LogContentBrowser: Attempting asset rename: WD_Damage_Text -> WD_DamageText
+[2025.05.01-02.13.29:168][432]LogMetaData: Removing '/Game/Blueprints/WD_DamageText.SKEL_WD_DamageText_C' ref from Metadata '/Game/Blueprints/WD_Damage_Text.PackageMetaData'
+[2025.05.01-02.13.29:168][432]LogMetaData: Removing '/Game/Blueprints/WD_DamageText.WD_DamageText_C' ref from Metadata '/Game/Blueprints/WD_Damage_Text.PackageMetaData'
+[2025.05.01-02.13.29:168][432]LogMetaData: Removing '/Game/Blueprints/WD_DamageText.WD_DamageText:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/WD_Damage_Text.PackageMetaData'
+[2025.05.01-02.13.29:168][432]LogMetaData: Removing '/Game/Blueprints/WD_DamageText.WD_DamageText:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/WD_Damage_Text.PackageMetaData'
+[2025.05.01-02.13.29:168][432]LogMetaData: Removing '/Game/Blueprints/WD_DamageText.WD_DamageText:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/WD_Damage_Text.PackageMetaData'
+[2025.05.01-02.13.29:175][432]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.01-02.13.29:175][432]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WD_DamageText] ([2] browsable assets)...
+[2025.05.01-02.13.29:178][432]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WD_DamageText.WD_DamageText]
+[2025.05.01-02.13.29:178][432]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WD_DamageText]
+[2025.05.01-02.13.29:178][432]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WD_DamageText" FILE="../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/WD_DamageText.uasset" SILENT=true
+[2025.05.01-02.13.29:180][432]LogSavePackage: Moving output files for package: /Game/Blueprints/WD_DamageText
+[2025.05.01-02.13.29:180][432]LogSavePackage: Moving '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/WD_DamageTextFC97A41D4631B98B0080C58DE9B743E2.tmp' to '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/WD_DamageText.uasset'
+[2025.05.01-02.13.29:186][432]LogFileHelpers: InternalPromptForCheckoutAndSave took 10.585 ms (total: 50.6 sec)
+[2025.05.01-02.13.29:358][432]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.05.01-02.13.29:473][432]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.05.01-02.13.29:597][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.05.01-02.13.29:642][432]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.01-02.13.29:642][432]LogContentValidation: Enabled validators:
+[2025.05.01-02.13.29:642][432]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.01-02.13.29:642][432]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.01-02.13.29:642][432]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.01-02.13.29:642][432]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.01-02.13.29:642][432]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.01-02.13.29:642][432]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.01-02.13.29:643][432]AssetCheck: /Game/Blueprints/WD_DamageText Validating asset
+[2025.05.01-02.13.30:745][506]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/WD_DamageText.WD_DamageText
+[2025.05.01-02.13.30:747][506]LogChaosDD: Creating Chaos Debug Draw Scene for world World_65
+[2025.05.01-02.13.30:756][506]LogChaosDD: Creating Chaos Debug Draw Scene for world World_66
+[2025.05.01-02.14.54:883][143]LogSlate: Window 'Color Picker' being destroyed
+[2025.05.01-02.15.16:724][664]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.01-02.15.16:753][664]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WD_DamageText] ([2] browsable assets)...
+[2025.05.01-02.15.16:755][664]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WD_DamageText.WD_DamageText]
+[2025.05.01-02.15.16:755][664]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WD_DamageText]
+[2025.05.01-02.15.16:755][664]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WD_DamageText" FILE="../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/WD_DamageText.uasset" SILENT=true
+[2025.05.01-02.15.16:758][664]LogSavePackage: Moving output files for package: /Game/Blueprints/WD_DamageText
+[2025.05.01-02.15.16:758][664]LogSavePackage: Moving '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/WD_DamageText15D9473747914A771911719DC2B625EC.tmp' to '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/WD_DamageText.uasset'
+[2025.05.01-02.15.16:768][664]LogFileHelpers: InternalPromptForCheckoutAndSave took 43.449 ms (total: 50.7 sec)
+[2025.05.01-02.15.16:795][664]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.01-02.15.16:795][664]LogContentValidation: Enabled validators:
+[2025.05.01-02.15.16:795][664]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.01-02.15.16:795][664]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.01-02.15.16:795][664]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.01-02.15.16:795][664]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.01-02.15.16:795][664]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.01-02.15.16:795][664]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.01-02.15.16:795][664]AssetCheck: /Game/Blueprints/WD_DamageText Validating asset
+[2025.05.01-02.15.17:920][767]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2025.05.01-02.16.20:187][ 45]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.01-02.16.20:232][ 45]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Enemy] ([2] browsable assets)...
+[2025.05.01-02.16.20:239][ 45]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Enemy.BP_Enemy]
+[2025.05.01-02.16.20:239][ 45]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Enemy]
+[2025.05.01-02.16.20:239][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Enemy" FILE="../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/BP_Enemy.uasset" SILENT=true
+[2025.05.01-02.16.20:252][ 45]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Enemy
+[2025.05.01-02.16.20:253][ 45]LogSavePackage: Moving '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/BP_EnemyA36A91DC42437E7693457E94AB655C41.tmp' to '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/BP_Enemy.uasset'
+[2025.05.01-02.16.20:262][ 45]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.394 ms (total: 50.7 sec)
+[2025.05.01-02.16.20:289][ 45]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.01-02.16.20:289][ 45]LogContentValidation: Enabled validators:
+[2025.05.01-02.16.20:289][ 45]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.01-02.16.20:289][ 45]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.01-02.16.20:289][ 45]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.01-02.16.20:289][ 45]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.01-02.16.20:289][ 45]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.01-02.16.20:289][ 45]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.01-02.16.20:289][ 45]AssetCheck: /Game/Blueprints/BP_Enemy Validating asset
+[2025.05.01-02.16.23:537][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.05.01-02.16.24:229][165]LogAutomationController: Ignoring very large delta of 2.70 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.01-02.16.24:229][165]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 91799.968750
+[2025.05.01-02.16.24:592][187]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-02.16.24:592][187]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 91800.296875, Update Interval: 316.077148
+[2025.05.01-02.16.44:767][653]LogAutomationController: Ignoring very large delta of 2.86 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.01-02.16.56:637][664]LogAutomationController: Ignoring very large delta of 2.80 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.01-02.17.35:778][ 60]LogAutomationController: Ignoring very large delta of 2.76 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.01-02.18.16:097][996]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.01-02.18.16:120][996]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Player] ([2] browsable assets)...
+[2025.05.01-02.18.16:165][996]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Player.BP_Player]
+[2025.05.01-02.18.16:165][996]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2025.05.01-02.18.16:165][996]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2025.05.01-02.18.16:376][996]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Player
+[2025.05.01-02.18.16:376][996]LogSavePackage: Moving '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/BP_PlayerD398F2B04C4DFBB4C9F413A987B06C91.tmp' to '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/BP_Player.uasset'
+[2025.05.01-02.18.16:388][996]LogFileHelpers: InternalPromptForCheckoutAndSave took 291.105 ms (total: 51.0 sec)
+[2025.05.01-02.18.16:414][996]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.01-02.18.16:414][996]LogContentValidation: Enabled validators:
+[2025.05.01-02.18.16:414][996]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.01-02.18.16:414][996]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.01-02.18.16:414][996]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.01-02.18.16:414][996]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.01-02.18.16:414][996]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.01-02.18.16:414][996]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.01-02.18.16:415][996]AssetCheck: /Game/Blueprints/BP_Player Validating asset
+[2025.05.01-02.18.35:897][462]LogAutomationController: Ignoring very large delta of 2.79 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.01-02.18.39:091][742]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.01-02.18.39:118][742]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Player] ([2] browsable assets)...
+[2025.05.01-02.18.39:163][742]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Player.BP_Player]
+[2025.05.01-02.18.39:163][742]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2025.05.01-02.18.39:163][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2025.05.01-02.18.39:374][742]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Player
+[2025.05.01-02.18.39:375][742]LogSavePackage: Moving '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/BP_Player4F51DF984967D1E0C9E1B79E16F8B236.tmp' to '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/BP_Player.uasset'
+[2025.05.01-02.18.39:386][742]LogFileHelpers: InternalPromptForCheckoutAndSave took 296.175 ms (total: 51.3 sec)
+[2025.05.01-02.18.39:414][742]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.01-02.18.39:414][742]LogContentValidation: Enabled validators:
+[2025.05.01-02.18.39:414][742]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.01-02.18.39:414][742]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.01-02.18.39:414][742]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.01-02.18.39:414][742]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.01-02.18.39:414][742]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.01-02.18.39:414][742]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.01-02.18.39:414][742]AssetCheck: /Game/Blueprints/BP_Player Validating asset
+[2025.05.01-02.18.40:510][835]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.01-02.18.40:520][835]LogContentBundle: [Battle_Level(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.01-02.18.40:520][835]LogWorldPartition: Display: GenerateStreaming for 'Battle_Level' started...
+[2025.05.01-02.18.40:522][835]LogWorldPartition: Display: GenerateStreaming for 'Battle_Level' took 2.346 ms (total: 941.187 ms)
+[2025.05.01-02.18.40:532][835]LogPlayLevel: [PlayLevel] Compiling BP_Player before play...
+[2025.05.01-02.18.42:618][835]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2025.05.01-02.18.42:627][835]LogPlayLevel: PlayLevel: Blueprint regeneration took 2105 ms (1 blueprints)
+[2025.05.01-02.18.42:628][835]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Battle_Level
+[2025.05.01-02.18.42:632][835]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004305s)
+[2025.05.01-02.18.42:632][835]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Battle_Level.Battle_Level to /Game/UEDPIE_0_Battle_Level.Battle_Level (0.004334s)
+[2025.05.01-02.18.42:764][835]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.05.01-02.18.42:772][835]LogChaosDD: Creating Chaos Debug Draw Scene for world Battle_Level
+[2025.05.01-02.18.42:774][835]LogWorldPartition: ULevel::OnLevelLoaded(Battle_Level)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.01-02.18.42:774][835]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.01-02.18.42:774][835]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_Battle_Level.Battle_Level, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.01-02.18.42:774][835]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.01-02.18.42:775][835]LogWorldPartition: Display: WorldPartition initialize took 1.645 ms (total: 1.25 sec)
+[2025.05.01-02.18.42:775][835]LogPlayLevel: PIE: World Init took: (0.003574s)
+[2025.05.01-02.18.42:776][835]LogAudio: Display: Creating Audio Device:                 Id: 170, Scope: Unique, Realtime: True
+[2025.05.01-02.18.42:776][835]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.01-02.18.42:776][835]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.01-02.18.42:776][835]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.01-02.18.42:776][835]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.01-02.18.42:776][835]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.01-02.18.42:776][835]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.01-02.18.42:776][835]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.01-02.18.42:776][835]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.01-02.18.42:776][835]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.01-02.18.42:776][835]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.01-02.18.42:776][835]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.01-02.18.42:778][835]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.01-02.18.42:792][835]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2025.05.01-02.18.42:792][835]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.01-02.18.42:792][835]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.01-02.18.42:792][835]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.01-02.18.42:794][835]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=170
+[2025.05.01-02.18.42:794][835]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=170
+[2025.05.01-02.18.42:796][835]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=170
+[2025.05.01-02.18.42:796][835]LogInit: FAudioDevice initialized with ID 170.
+[2025.05.01-02.18.42:796][835]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=170
+[2025.05.01-02.18.42:796][835]LogAudio: Display: Audio Device (ID: 170) registered with world 'Battle_Level'.
+[2025.05.01-02.18.42:796][835]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 170
+[2025.05.01-02.18.42:815][835]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.01-02.18.42:815][835]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.05.01-02.18.42:825][835]LogWorld: Bringing World /Game/UEDPIE_0_Battle_Level.Battle_Level up for play (max tick rate 0) at 2025.05.01-05.18.42
+[2025.05.01-02.18.42:826][835]LogWorld: Bringing up level for play took: 0.010910
+[2025.05.01-02.18.42:828][835]LogOnline: OSS: Created online subsystem instance for: :Context_193
+[2025.05.01-02.18.42:835][835]LogBlueprintUserMessages: [BP_Player_C_0] In Battle Level
+[2025.05.01-02.18.42:839][835]PIE: Server logged in
+[2025.05.01-02.18.42:839][835]PIE: Play in editor total start time 2,32 seconds.
+[2025.05.01-02.18.44:028][835]LogAutomationController: Ignoring very large delta of 3.52 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.01-02.18.45:629][907]LogBlueprintUserMessages: [BP_Player_C_0] Hello
+[2025.05.01-02.18.45:629][907]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Enemies' of length 3 in '/Game/Blueprints/BP_Player.BP_Player_C'!
+[2025.05.01-02.18.45:629][907]LogScript: Warning: Script Msg called by: BP_Player_C /Game/UEDPIE_0_Battle_Level.Battle_Level:PersistentLevel.BP_Player_C_0
+[2025.05.01-02.18.45:629][907]LogBlueprintUserMessages: [BP_Player_C_0] The turn belongs to: BP_Player_C_0
+[2025.05.01-02.18.46:328][946]LogBlueprintUserMessages: [WD_Gameplay_C_0] Strike ability active
+[2025.05.01-02.18.47:968][ 37]LogBlueprintUserMessages: [BP_Player_C_0] mc strike shot
+[2025.05.01-02.18.50:943][200]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.01-02.18.50:943][200]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Battle_Level
+[2025.05.01-02.18.50:944][200]LogSlate: Window 'Pagewalkers Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.05.01-02.18.50:949][200]LogWorld: UWorld::CleanupWorld for Battle_Level, bSessionEnded=true, bCleanupResources=true
+[2025.05.01-02.18.50:950][200]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.01-02.18.50:950][200]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_Battle_Level.Battle_Level
+[2025.05.01-02.18.50:957][200]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.01-02.18.50:963][200]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.01-02.18.51:113][200]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 170
+[2025.05.01-02.18.51:113][200]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=170
+[2025.05.01-02.18.51:115][200]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=170
+[2025.05.01-02.18.51:125][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.05.01-02.18.51:239][201]LogPlayLevel: Display: Destroying online subsystem :Context_193
+[2025.05.01-02.18.57:428][832]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.01-02.18.57:456][832]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Player] ([2] browsable assets)...
+[2025.05.01-02.18.57:498][832]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Player.BP_Player]
+[2025.05.01-02.18.57:498][832]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2025.05.01-02.18.57:498][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2025.05.01-02.18.57:709][832]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Player
+[2025.05.01-02.18.57:709][832]LogSavePackage: Moving '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/BP_Player7A081C7245CBA47A580698A69E7D971F.tmp' to '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/BP_Player.uasset'
+[2025.05.01-02.18.57:719][832]LogFileHelpers: InternalPromptForCheckoutAndSave took 291.644 ms (total: 51.6 sec)
+[2025.05.01-02.18.57:750][832]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.01-02.18.57:750][832]LogContentValidation: Enabled validators:
+[2025.05.01-02.18.57:750][832]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.01-02.18.57:750][832]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.01-02.18.57:750][832]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.01-02.18.57:750][832]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.01-02.18.57:750][832]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.01-02.18.57:750][832]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.01-02.18.57:750][832]AssetCheck: /Game/Blueprints/BP_Player Validating asset
+[2025.05.01-02.18.59:052][927]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.05.01-02.19.02:114][927]LogAutomationController: Ignoring very large delta of 3.45 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.01-02.19.39:730][552]LogAutomationController: Ignoring very large delta of 2.87 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.01-02.19.50:301][311]LogAutomationController: Ignoring very large delta of 2.89 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.01-02.21.38:540][ 82]LogAutomationController: Ignoring very large delta of 2.83 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.01-02.22.19:414][383]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 92111.273438
+[2025.05.01-02.22.19:650][411]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-02.22.19:650][411]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 92111.484375, Update Interval: 307.569824
+[2025.05.01-02.24.30:865][548]LogAutomationController: Ignoring very large delta of 2.93 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.01-02.24.44:242][674]LogAutomationController: Ignoring very large delta of 2.91 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.01-02.25.46:390][942]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.01-02.25.46:414][942]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Player] ([2] browsable assets)...
+[2025.05.01-02.25.46:459][942]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Player.BP_Player]
+[2025.05.01-02.25.46:459][942]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2025.05.01-02.25.46:459][942]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2025.05.01-02.25.46:670][942]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Player
+[2025.05.01-02.25.46:671][942]LogSavePackage: Moving '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/BP_Player7C09067944E4B363DAFF43989CC82E1E.tmp' to '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/BP_Player.uasset'
+[2025.05.01-02.25.46:681][942]LogFileHelpers: InternalPromptForCheckoutAndSave took 290.535 ms (total: 51.9 sec)
+[2025.05.01-02.25.46:713][942]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.01-02.25.46:713][942]LogContentValidation: Enabled validators:
+[2025.05.01-02.25.46:713][942]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.01-02.25.46:713][942]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.01-02.25.46:713][942]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.01-02.25.46:713][942]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.01-02.25.46:713][942]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.01-02.25.46:713][942]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.01-02.25.46:713][942]AssetCheck: /Game/Blueprints/BP_Player Validating asset
+[2025.05.01-02.25.48:042][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2025.05.01-02.25.51:221][ 15]LogAutomationController: Ignoring very large delta of 3.56 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.01-02.26.31:610][ 31]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.01-02.26.31:641][ 31]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WD_DamageText] ([2] browsable assets)...
+[2025.05.01-02.26.31:646][ 31]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WD_DamageText.WD_DamageText]
+[2025.05.01-02.26.31:646][ 31]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WD_DamageText]
+[2025.05.01-02.26.31:646][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WD_DamageText" FILE="../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/WD_DamageText.uasset" SILENT=true
+[2025.05.01-02.26.31:649][ 31]LogSavePackage: Moving output files for package: /Game/Blueprints/WD_DamageText
+[2025.05.01-02.26.31:649][ 31]LogSavePackage: Moving '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/WD_DamageTextDC660033451A56EA6A9224A7D8EA8BBB.tmp' to '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/WD_DamageText.uasset'
+[2025.05.01-02.26.31:662][ 31]LogFileHelpers: InternalPromptForCheckoutAndSave took 50.374 ms (total: 52.0 sec)
+[2025.05.01-02.26.31:691][ 31]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.01-02.26.31:691][ 31]LogContentValidation: Enabled validators:
+[2025.05.01-02.26.31:691][ 31]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.01-02.26.31:691][ 31]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.01-02.26.31:691][ 31]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.01-02.26.31:691][ 31]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.01-02.26.31:691][ 31]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.01-02.26.31:691][ 31]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.01-02.26.31:692][ 31]AssetCheck: /Game/Blueprints/WD_DamageText Validating asset
+[2025.05.01-02.26.33:664][263]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.01-02.26.33:673][263]LogContentBundle: [Battle_Level(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.01-02.26.33:673][263]LogWorldPartition: Display: GenerateStreaming for 'Battle_Level' started...
+[2025.05.01-02.26.33:675][263]LogWorldPartition: Display: GenerateStreaming for 'Battle_Level' took 2.177 ms (total: 943.364 ms)
+[2025.05.01-02.26.33:675][263]LogPlayLevel: [PlayLevel] Compiling WD_DamageText before play...
+[2025.05.01-02.26.34:037][263]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2025.05.01-02.26.34:049][263]LogPlayLevel: PlayLevel: Blueprint regeneration took 374 ms (1 blueprints)
+[2025.05.01-02.26.34:050][263]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Battle_Level
+[2025.05.01-02.26.34:053][263]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004226s)
+[2025.05.01-02.26.34:053][263]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Battle_Level.Battle_Level to /Game/UEDPIE_0_Battle_Level.Battle_Level (0.004254s)
+[2025.05.01-02.26.34:175][263]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.05.01-02.26.34:184][263]LogChaosDD: Creating Chaos Debug Draw Scene for world Battle_Level
+[2025.05.01-02.26.34:185][263]LogWorldPartition: ULevel::OnLevelLoaded(Battle_Level)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.01-02.26.34:185][263]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.01-02.26.34:185][263]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_Battle_Level.Battle_Level, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.01-02.26.34:185][263]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.01-02.26.34:187][263]LogWorldPartition: Display: WorldPartition initialize took 1.656 ms (total: 1.25 sec)
+[2025.05.01-02.26.34:187][263]LogPlayLevel: PIE: World Init took: (0.003284s)
+[2025.05.01-02.26.34:188][263]LogAudio: Display: Creating Audio Device:                 Id: 171, Scope: Unique, Realtime: True
+[2025.05.01-02.26.34:188][263]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.01-02.26.34:188][263]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.01-02.26.34:188][263]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.01-02.26.34:188][263]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.01-02.26.34:188][263]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.01-02.26.34:188][263]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.01-02.26.34:188][263]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.01-02.26.34:188][263]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.01-02.26.34:188][263]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.01-02.26.34:188][263]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.01-02.26.34:188][263]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.01-02.26.34:190][263]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.01-02.26.34:204][263]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2025.05.01-02.26.34:204][263]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.01-02.26.34:204][263]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.01-02.26.34:204][263]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.01-02.26.34:205][263]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=171
+[2025.05.01-02.26.34:205][263]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=171
+[2025.05.01-02.26.34:207][263]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=171
+[2025.05.01-02.26.34:207][263]LogInit: FAudioDevice initialized with ID 171.
+[2025.05.01-02.26.34:207][263]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=171
+[2025.05.01-02.26.34:207][263]LogAudio: Display: Audio Device (ID: 171) registered with world 'Battle_Level'.
+[2025.05.01-02.26.34:207][263]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 171
+[2025.05.01-02.26.34:227][263]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.01-02.26.34:228][263]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.05.01-02.26.34:239][263]LogWorld: Bringing World /Game/UEDPIE_0_Battle_Level.Battle_Level up for play (max tick rate 0) at 2025.05.01-05.26.34
+[2025.05.01-02.26.34:240][263]LogWorld: Bringing up level for play took: 0.011413
+[2025.05.01-02.26.34:242][263]LogOnline: OSS: Created online subsystem instance for: :Context_194
+[2025.05.01-02.26.34:248][263]LogBlueprintUserMessages: [BP_Player_C_0] In Battle Level
+[2025.05.01-02.26.34:253][263]PIE: Server logged in
+[2025.05.01-02.26.34:254][263]PIE: Play in editor total start time 0,581 seconds.
+[2025.05.01-02.26.35:943][367]LogBlueprintUserMessages: [BP_Player_C_0] Hello
+[2025.05.01-02.26.35:943][367]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Enemies' of length 3 in '/Game/Blueprints/BP_Player.BP_Player_C'!
+[2025.05.01-02.26.35:943][367]LogScript: Warning: Script Msg called by: BP_Player_C /Game/UEDPIE_0_Battle_Level.Battle_Level:PersistentLevel.BP_Player_C_0
+[2025.05.01-02.26.35:943][367]LogBlueprintUserMessages: [BP_Player_C_0] The turn belongs to: BP_Player_C_0
+[2025.05.01-02.26.36:606][416]LogBlueprintUserMessages: [WD_Gameplay_C_0] Strike ability active
+[2025.05.01-02.26.38:218][534]LogBlueprintUserMessages: [BP_Player_C_0] mc strike shot
+[2025.05.01-02.26.43:517][929]LogBlueprintUserMessages: [BP_Player_C_0] false
+[2025.05.01-02.26.43:517][929]LogBlueprintUserMessages: [BP_Player_C_0] The turn belongs to: BP_Companion0
+[2025.05.01-02.26.43:517][929]LogBlueprintUserMessages: [BP_Player_C_0] 7
+[2025.05.01-02.26.45:451][ 74]LogBlueprintUserMessages: [WD_Gameplay_C_0] Strike ability active
+[2025.05.01-02.26.47:577][230]LogBlueprintUserMessages: [BP_Player_C_0] companion0 strike shot
+[2025.05.01-02.26.51:277][505]LogBlueprintUserMessages: [BP_Player_C_0] false
+[2025.05.01-02.26.51:277][505]LogBlueprintUserMessages: [BP_Player_C_0] The turn belongs to: BP_Companion1
+[2025.05.01-02.26.51:278][505]LogBlueprintUserMessages: [BP_Player_C_0] 7
+[2025.05.01-02.26.53:350][662]LogBlueprintUserMessages: [WD_Gameplay_C_0] Strike ability active
+[2025.05.01-02.26.55:642][834]LogBlueprintUserMessages: [BP_Player_C_0] companion1 strike shot
+[2025.05.01-02.26.59:613][125]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.01-02.26.59:613][125]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Battle_Level
+[2025.05.01-02.26.59:615][125]LogSlate: Window 'Pagewalkers Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.05.01-02.26.59:620][125]LogWorld: UWorld::CleanupWorld for Battle_Level, bSessionEnded=true, bCleanupResources=true
+[2025.05.01-02.26.59:620][125]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.01-02.26.59:621][125]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_Battle_Level.Battle_Level
+[2025.05.01-02.26.59:628][125]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.01-02.26.59:636][125]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.01-02.26.59:778][125]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 171
+[2025.05.01-02.26.59:778][125]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=171
+[2025.05.01-02.26.59:780][125]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=171
+[2025.05.01-02.26.59:789][125]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.05.01-02.26.59:904][126]LogPlayLevel: Display: Destroying online subsystem :Context_194
+[2025.05.01-02.27.00:897][244]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.01-02.27.00:925][244]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WD_DamageText] ([2] browsable assets)...
+[2025.05.01-02.27.00:930][244]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WD_DamageText.WD_DamageText]
+[2025.05.01-02.27.00:930][244]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WD_DamageText]
+[2025.05.01-02.27.00:930][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WD_DamageText" FILE="../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/WD_DamageText.uasset" SILENT=true
+[2025.05.01-02.27.00:932][244]LogSavePackage: Moving output files for package: /Game/Blueprints/WD_DamageText
+[2025.05.01-02.27.00:933][244]LogSavePackage: Moving '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/WD_DamageText8EFB6A214A174869DE2A528F36C2FE3F.tmp' to '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/WD_DamageText.uasset'
+[2025.05.01-02.27.00:944][244]LogFileHelpers: InternalPromptForCheckoutAndSave took 47.327 ms (total: 52.0 sec)
+[2025.05.01-02.27.00:977][244]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.01-02.27.00:977][244]LogContentValidation: Enabled validators:
+[2025.05.01-02.27.00:977][244]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.01-02.27.00:977][244]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.01-02.27.00:977][244]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.01-02.27.00:977][244]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.01-02.27.00:977][244]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.01-02.27.00:977][244]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.01-02.27.00:978][244]AssetCheck: /Game/Blueprints/WD_DamageText Validating asset
+[2025.05.01-02.27.04:043][575]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.05.01-02.27.04:054][575]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.01-02.27.04:084][575]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Battle_Level/3/VS/HG0EAREBT036JPP3U7VI3C
+[2025.05.01-02.27.04:085][575]LogSavePackage: Moving '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/HG0EAREBT036JPP3U7VI3C5C2A33D747412DBCC07233B572977D72.tmp' to '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/__ExternalActors__/Battle_Level/3/VS/HG0EAREBT036JPP3U7VI3C.uasset'
+[2025.05.01-02.27.04:087][575]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Battle_Level/8/F9/BK74KWRDRDQ4X9IY4RVJ9X
+[2025.05.01-02.27.04:088][575]LogSavePackage: Moving '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/BK74KWRDRDQ4X9IY4RVJ9X8BB986664461960600B04AB7B7F7EF50.tmp' to '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/__ExternalActors__/Battle_Level/8/F9/BK74KWRDRDQ4X9IY4RVJ9X.uasset'
+[2025.05.01-02.27.04:090][575]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Battle_Level/F/38/3EUVQ0S9K4CYAXYAHP7LDH
+[2025.05.01-02.27.04:091][575]LogSavePackage: Moving '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/3EUVQ0S9K4CYAXYAHP7LDH0B5274E34C4B00F1F20A478A06904A28.tmp' to '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/__ExternalActors__/Battle_Level/F/38/3EUVQ0S9K4CYAXYAHP7LDH.uasset'
+[2025.05.01-02.27.04:105][575]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.465 ms (total: 52.1 sec)
+[2025.05.01-02.27.04:136][575]LogContentValidation: Display: Starting to validate 9 assets
+[2025.05.01-02.27.04:136][575]LogContentValidation: Enabled validators:
+[2025.05.01-02.27.04:136][575]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.01-02.27.04:136][575]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.01-02.27.04:136][575]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.01-02.27.04:136][575]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.01-02.27.04:136][575]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.01-02.27.04:136][575]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.01-02.27.04:137][575]AssetCheck: /Game/Battle_Level Validating asset
+[2025.05.01-02.28.21:577][259]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 92455.632812
+[2025.05.01-02.28.22:576][262]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-02.28.22:576][262]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 92456.304688, Update Interval: 340.767853
+[2025.05.01-02.28.27:743][367]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.01-02.28.27:767][367]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/WD_DamageText] ([2] browsable assets)...
+[2025.05.01-02.28.27:767][367]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WD_DamageText]
+[2025.05.01-02.28.27:767][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WD_DamageText" FILE="../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/WD_DamageText.uasset" SILENT=true
+[2025.05.01-02.28.27:770][367]LogSavePackage: Moving output files for package: /Game/Blueprints/WD_DamageText
+[2025.05.01-02.28.27:770][367]LogSavePackage: Moving '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/WD_DamageText5BEFDFEA4B80CC01B4B53DBC7AD9921D.tmp' to '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/WD_DamageText.uasset'
+[2025.05.01-02.28.27:781][367]LogFileHelpers: InternalPromptForCheckoutAndSave took 38.498 ms (total: 52.1 sec)
+[2025.05.01-02.28.27:809][367]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.01-02.28.27:809][367]LogContentValidation: Enabled validators:
+[2025.05.01-02.28.27:809][367]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.01-02.28.27:809][367]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.01-02.28.27:809][367]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.01-02.28.27:809][367]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.01-02.28.27:809][367]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.01-02.28.27:809][367]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.01-02.28.27:809][367]AssetCheck: /Game/Blueprints/WD_DamageText Validating asset
+[2025.05.01-02.28.29:747][572]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
