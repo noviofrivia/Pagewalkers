@@ -3769,3 +3769,817 @@ Script Stack (0 frames) :
 [2025.05.29-05.17.03:028][216]AssetCheck: /Game/Blueprints/WD_Gameplay Validating asset
 [2025.05.29-05.17.03:039][216]LogAutomationController: Ignoring very large delta of 2.13 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
 [2025.05.29-05.17.10:339][652]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.05.29-05.20.10:292][340]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2878.678955
+[2025.05.29-05.20.11:292][343]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-05.20.11:292][343]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2879.345215, Update Interval: 358.809784
+[2025.05.29-05.21.38:128][604]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Kulaklık (OPPO Enco Buds2 Hands-Free AG Audio), InstanceID=1
+[2025.05.29-05.21.38:164][604]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Virtual Speakers (Virtual Speakers for AudioRelay), InstanceID=1
+[2025.05.29-05.21.38:307][604]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.05.29-05.21.38:307][604]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=14056
+[2025.05.29-05.21.38:640][605]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.05.29-05.21.38:642][605]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{3bdcccc7-52d8-4157-8210-67b326405ce8}, Name=Virtual Speakers (Virtual Speakers for AudioRelay)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=12.75
+[2025.05.29-05.21.38:642][605]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.05.29-05.21.38:644][605]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.05.29-05.27.08:043][588]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3294.750977
+[2025.05.29-05.27.09:042][591]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-05.27.09:042][591]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3295.417480, Update Interval: 307.513062
+[2025.05.29-05.33.01:770][649]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3648.479980
+[2025.05.29-05.33.03:104][653]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-05.33.03:104][653]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3649.480713, Update Interval: 342.761932
+[2025.05.29-05.34.05:679][841]LogDerivedDataCache: C:/Users/kagan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.05.29-05.39.45:849][861]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4052.559814
+[2025.05.29-05.39.46:849][864]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-05.39.46:849][864]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4053.226318, Update Interval: 356.815704
+[2025.05.29-05.46.29:337][ 71]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4456.046875
+[2025.05.29-05.46.30:337][ 74]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-05.46.30:337][ 74]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4456.713379, Update Interval: 316.234619
+[2025.05.29-05.52.37:073][174]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4823.790039
+[2025.05.29-05.52.38:073][177]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-05.52.38:073][177]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4824.457520, Update Interval: 320.744659
+[2025.05.29-05.58.58:477][318]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5205.202148
+[2025.05.29-05.58.59:477][321]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-05.58.59:477][321]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5205.869629, Update Interval: 329.184235
+[2025.05.29-06.02.10:622][815]LogAutomationController: Ignoring very large delta of 26.78 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.29-06.03.21:048][357]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.05.29-06.03.21:064][357]LogContentBrowser: Creating deferred item: NewFolder
+[2025.05.29-06.03.21:081][358]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.05.29-06.03.24:961][456]LogContentBrowser: Attempting asset rename: NewFolder -> RedHead
+[2025.05.29-06.03.24:962][456]LogContentBrowser: End creating deferred item NewFolder
+[2025.05.29-06.03.31:163][581]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.05.29-06.03.31:176][581]LogContentBrowser: Creating deferred item: NewFolder
+[2025.05.29-06.03.31:190][582]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.05.29-06.03.34:316][667]LogContentBrowser: Attempting asset rename: NewFolder -> PinkHead
+[2025.05.29-06.03.34:316][667]LogContentBrowser: End creating deferred item NewFolder
+[2025.05.29-06.03.40:941][805]LogStreaming: Display: FlushAsyncLoading(696): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.29-06.03.40:975][805]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/kagan/Downloads/T-Pose_red.fbx]
+[2025.05.29-06.03.43:046][805]LogSlate: Window 'Import Content' being destroyed
+[2025.05.29-06.03.43:081][805]LogInterchangeEngine: [Pending] Importing
+[2025.05.29-06.03.43:099][805]LogAutomationController: Ignoring very large delta of 2.19 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.29-06.03.43:136][806]LogStreaming: Display: FlushAsyncLoading(701): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.29-06.03.43:225][807]LogStreaming: Display: FlushAsyncLoading(708): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.29-06.03.43:412][809]LogStreaming: Display: FlushAsyncLoading(709): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.29-06.03.43:474][810]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/RedHead/T-Pose_red_Anim.T-Pose_red_Anim (Required Memory Estimate: 0.12 MB)
+[2025.05.29-06.03.43:479][810]LogAnimationCompression: Display: Storing compressed animation data for /Game/RedHead/T-Pose_red_Anim.T-Pose_red_Anim, at AnimationSequence/b961b59f0a657a7a5946fbea3607ec640fe0dab0
+[2025.05.29-06.03.43:587][810]LogSkeletalMesh: Building Skeletal Mesh T-Pose_red...
+[2025.05.29-06.03.43:691][812]LogSkeletalMesh: Built Skeletal Mesh [0.10s] /Game/RedHead/T-Pose_red.T-Pose_red
+[2025.05.29-06.03.43:855][814]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SkeletalMesh_64.svg'. File could not be found
+[2025.05.29-06.03.43:909][814]LogChaosDD: Creating Chaos Debug Draw Scene for world World_34
+[2025.05.29-06.03.43:929][814]LogMaterial: Display: Material /Game/RedHead/Skin.Skin needed to have new flag set bUsedWithSkeletalMesh !
+[2025.05.29-06.03.43:937][814]LogMaterial: Display: Material /Game/RedHead/Material.Material needed to have new flag set bUsedWithSkeletalMesh !
+[2025.05.29-06.03.43:953][814]LogMaterial: Display: Material /Game/RedHead/armor.armor needed to have new flag set bUsedWithSkeletalMesh !
+[2025.05.29-06.03.43:964][814]LogMaterial: Display: Material /Game/RedHead/Material_005.Material_005 needed to have new flag set bUsedWithSkeletalMesh !
+[2025.05.29-06.03.43:973][814]LogMaterial: Display: Material /Game/RedHead/hair_001.hair_001 needed to have new flag set bUsedWithSkeletalMesh !
+[2025.05.29-06.03.43:981][814]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2025.05.29-06.03.43:982][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.29-06.03.44:060][815]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2025.05.29-06.03.44:123][815]LogInterchangeEngine: Display: Interchange import completed [C:/Users/kagan/Downloads/T-Pose_red.fbx]
+[2025.05.29-06.03.44:124][815]Interchange: Warning: [C:/Users/kagan/Downloads/T-Pose_red.fbx : 'T-Pose_red', SkeletalMesh] No smoothing group information was found for this mesh 'Cube_041' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.05.29-06.03.44:214][815]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.05.29-06.03.44:214][815]LogInterchangeEngine: [Success] Import Done
+[2025.05.29-06.03.45:474][828]LogChaosDD: Creating Chaos Debug Draw Scene for world World_35
+[2025.05.29-06.03.45:807][829]LogChaosDD: Creating Chaos Debug Draw Scene for world World_36
+[2025.05.29-06.03.46:141][830]LogChaosDD: Creating Chaos Debug Draw Scene for world World_37
+[2025.05.29-06.03.46:815][832]LogChaosDD: Creating Chaos Debug Draw Scene for world World_38
+[2025.05.29-06.04.24:226][208]LogStreaming: Display: FlushAsyncLoading(710): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.29-06.04.24:247][208]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/kagan/Downloads/T-Pose_pink.fbx]
+[2025.05.29-06.04.26:368][208]LogSlate: Window 'Import Content' being destroyed
+[2025.05.29-06.04.26:395][208]LogInterchangeEngine: [Pending] Importing
+[2025.05.29-06.04.26:419][208]LogAutomationController: Ignoring very large delta of 2.21 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.29-06.04.26:455][209]LogStreaming: Display: FlushAsyncLoading(711): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.29-06.04.26:513][210]LogStreaming: Display: FlushAsyncLoading(721): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.29-06.04.26:568][211]LogStreaming: Display: FlushAsyncLoading(722): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.29-06.04.26:831][213]LogSkeletalMesh: Building Skeletal Mesh T-Pose_pink...
+[2025.05.29-06.04.26:963][218]LogSkeletalMesh: Built Skeletal Mesh [0.13s] /Game/PinkHead/T-Pose_pink.T-Pose_pink
+[2025.05.29-06.04.27:008][218]LogChaosDD: Creating Chaos Debug Draw Scene for world World_39
+[2025.05.29-06.04.27:027][218]LogMaterial: Display: Material /Game/PinkHead/SKİN.SKİN needed to have new flag set bUsedWithSkeletalMesh !
+[2025.05.29-06.04.27:031][218]LogMaterial: Display: Material /Game/PinkHead/Material_001.Material_001 needed to have new flag set bUsedWithSkeletalMesh !
+[2025.05.29-06.04.27:034][218]LogMaterial: Display: Material /Game/PinkHead/Material_003.Material_003 needed to have new flag set bUsedWithSkeletalMesh !
+[2025.05.29-06.04.27:040][218]LogMaterial: Display: Material /Game/PinkHead/Material_002.Material_002 needed to have new flag set bUsedWithSkeletalMesh !
+[2025.05.29-06.04.27:045][218]LogMaterial: Display: Material /Game/PinkHead/HAT.HAT needed to have new flag set bUsedWithSkeletalMesh !
+[2025.05.29-06.04.27:050][218]LogMaterial: Display: Material /Game/PinkHead/hair_pink.hair_pink needed to have new flag set bUsedWithSkeletalMesh !
+[2025.05.29-06.04.27:056][218]LogMaterial: Display: Material /Game/PinkHead/Material_007.Material_007 needed to have new flag set bUsedWithSkeletalMesh !
+[2025.05.29-06.04.27:064][218]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2025.05.29-06.04.27:064][218]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.29-06.04.27:128][219]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2025.05.29-06.04.27:182][219]LogInterchangeEngine: Display: Interchange import completed [C:/Users/kagan/Downloads/T-Pose_pink.fbx]
+[2025.05.29-06.04.27:182][219]Interchange: Warning: [C:/Users/kagan/Downloads/T-Pose_pink.fbx : 'T-Pose_pink', SkeletalMesh] No smoothing group information was found for this mesh 'Plane_001' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.05.29-06.04.27:395][219]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.05.29-06.04.27:395][219]LogInterchangeEngine: [Success] Import Done
+[2025.05.29-06.04.28:228][259]LogChaosDD: Creating Chaos Debug Draw Scene for world World_40
+[2025.05.29-06.04.28:629][271]LogChaosDD: Creating Chaos Debug Draw Scene for world World_41
+[2025.05.29-06.04.53:107][539]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/PinkHead/T-Pose_pink.T-Pose_pink
+[2025.05.29-06.04.53:132][539]LogChaosDD: Creating Chaos Debug Draw Scene for world World_42
+[2025.05.29-06.04.53:145][539]LogStreaming: Display: FlushAsyncLoading(723): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.29-06.04.53:247][539]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.29-06.04.57:900][690]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2025.05.29-06.04.57:901][690]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.29-06.04.57:998][690]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.05.29-06.05.00:364][829]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.29-06.05.00:403][829]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Player] ([2] browsable assets)...
+[2025.05.29-06.05.00:414][829]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Player.BP_Player]
+[2025.05.29-06.05.00:414][829]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2025.05.29-06.05.00:414][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2025.05.29-06.05.00:681][829]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Player
+[2025.05.29-06.05.00:681][829]LogSavePackage: Moving '../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/BP_Player244DBA6240DB2B2B9EEDAA89C0F07B3E.tmp' to '../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/BP_Player.uasset'
+[2025.05.29-06.05.00:690][829]LogFileHelpers: InternalPromptForCheckoutAndSave took 326.346 ms (total: 11.1 sec)
+[2025.05.29-06.05.00:727][829]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.29-06.05.00:727][829]LogContentValidation: Enabled validators:
+[2025.05.29-06.05.00:727][829]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.29-06.05.00:727][829]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.29-06.05.00:727][829]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.29-06.05.00:727][829]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.29-06.05.00:727][829]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.29-06.05.00:727][829]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.29-06.05.00:727][829]AssetCheck: /Game/Blueprints/BP_Player Validating asset
+[2025.05.29-06.05.01:616][866]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2025.05.29-06.05.09:952][295]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5576.665039
+[2025.05.29-06.05.10:165][307]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.29-06.05.10:165][307]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5576.861328, Update Interval: 357.844788
+[2025.05.29-06.05.13:295][493]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.29-06.05.13:338][493]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Player] ([2] browsable assets)...
+[2025.05.29-06.05.13:348][493]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Player.BP_Player]
+[2025.05.29-06.05.13:348][493]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2025.05.29-06.05.13:348][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2025.05.29-06.05.13:615][493]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Player
+[2025.05.29-06.05.13:615][493]LogSavePackage: Moving '../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/BP_PlayerC060530D4D8B21103BFEEB9E9C345606.tmp' to '../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/BP_Player.uasset'
+[2025.05.29-06.05.13:623][493]LogFileHelpers: InternalPromptForCheckoutAndSave took 327.208 ms (total: 11.4 sec)
+[2025.05.29-06.05.13:662][493]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.29-06.05.13:662][493]LogContentValidation: Enabled validators:
+[2025.05.29-06.05.13:662][493]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.29-06.05.13:662][493]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.29-06.05.13:662][493]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.29-06.05.13:663][493]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.29-06.05.13:663][493]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.29-06.05.13:663][493]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.29-06.05.13:663][493]AssetCheck: /Game/Blueprints/BP_Player Validating asset
+[2025.05.29-06.05.14:454][525]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2025.05.29-06.07.37:429][992]LogAutomationController: Ignoring very large delta of 2.02 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.29-06.07.58:625][207]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.29-06.07.58:658][207]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Player] ([2] browsable assets)...
+[2025.05.29-06.07.58:740][207]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Player.BP_Player]
+[2025.05.29-06.07.58:740][207]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2025.05.29-06.07.58:740][207]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2025.05.29-06.07.59:001][207]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Player
+[2025.05.29-06.07.59:002][207]LogSavePackage: Moving '../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/BP_Player23C6695A401925E10E46E8B7868229CD.tmp' to '../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/BP_Player.uasset'
+[2025.05.29-06.07.59:009][207]LogFileHelpers: InternalPromptForCheckoutAndSave took 382.979 ms (total: 11.8 sec)
+[2025.05.29-06.07.59:045][207]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.29-06.07.59:045][207]LogContentValidation: Enabled validators:
+[2025.05.29-06.07.59:045][207]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.29-06.07.59:045][207]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.29-06.07.59:045][207]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.29-06.07.59:045][207]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.29-06.07.59:045][207]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.29-06.07.59:045][207]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.29-06.07.59:046][207]AssetCheck: /Game/Blueprints/BP_Player Validating asset
+[2025.05.29-06.07.59:649][229]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2025.05.29-06.08.01:795][229]LogAutomationController: Ignoring very large delta of 2.38 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.29-06.08.04:981][407]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.29-06.08.05:006][407]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Player] ([2] browsable assets)...
+[2025.05.29-06.08.05:080][407]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Player.BP_Player]
+[2025.05.29-06.08.05:080][407]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2025.05.29-06.08.05:080][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2025.05.29-06.08.05:343][407]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Player
+[2025.05.29-06.08.05:344][407]LogSavePackage: Moving '../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/BP_PlayerBB316F9745D62609C830DAA0F850CF18.tmp' to '../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/BP_Player.uasset'
+[2025.05.29-06.08.05:350][407]LogFileHelpers: InternalPromptForCheckoutAndSave took 368.675 ms (total: 12.2 sec)
+[2025.05.29-06.08.05:390][407]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.29-06.08.05:390][407]LogContentValidation: Enabled validators:
+[2025.05.29-06.08.05:390][407]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.29-06.08.05:390][407]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.29-06.08.05:390][407]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.29-06.08.05:390][407]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.29-06.08.05:390][407]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.29-06.08.05:390][407]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.29-06.08.05:390][407]AssetCheck: /Game/Blueprints/BP_Player Validating asset
+[2025.05.29-06.08.06:616][477]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.29-06.08.06:625][477]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.29-06.08.06:625][477]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.05.29-06.08.06:627][477]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2.280 ms (total: 84.701 ms)
+[2025.05.29-06.08.06:643][477]LogPlayLevel: [PlayLevel] Compiling BP_Player before play...
+[2025.05.29-06.08.07:504][477]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.05.29-06.08.07:508][477]LogPlayLevel: PlayLevel: Blueprint regeneration took 880 ms (1 blueprints)
+[2025.05.29-06.08.07:508][477]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ThirdPersonMap
+[2025.05.29-06.08.07:514][477]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005270s)
+[2025.05.29-06.08.07:514][477]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonMap.ThirdPersonMap to /Game/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005303s)
+[2025.05.29-06.08.07:541][477]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.05.29-06.08.07:545][477]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.05.29-06.08.07:547][477]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.29-06.08.07:547][477]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.29-06.08.07:547][477]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.29-06.08.07:547][477]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.29-06.08.07:550][477]LogWorldPartition: Display: WorldPartition initialize took 2.710 ms (total: 160.448 ms)
+[2025.05.29-06.08.07:550][477]LogPlayLevel: PIE: World Init took: (0.005122s)
+[2025.05.29-06.08.07:551][477]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2025.05.29-06.08.07:551][477]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.29-06.08.07:551][477]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.29-06.08.07:551][477]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.29-06.08.07:551][477]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.29-06.08.07:551][477]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.29-06.08.07:551][477]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.29-06.08.07:551][477]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.29-06.08.07:551][477]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.29-06.08.07:551][477]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.29-06.08.07:551][477]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.29-06.08.07:551][477]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.29-06.08.07:553][477]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.29-06.08.07:563][477]LogAudioMixer: Display: Using Audio Hardware Device Virtual Speakers (Virtual Speakers for AudioRelay)
+[2025.05.29-06.08.07:563][477]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.29-06.08.07:563][477]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.29-06.08.07:563][477]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.29-06.08.07:564][477]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2025.05.29-06.08.07:564][477]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2025.05.29-06.08.07:567][477]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2025.05.29-06.08.07:567][477]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2025.05.29-06.08.07:568][477]LogInit: FAudioDevice initialized with ID 21.
+[2025.05.29-06.08.07:568][477]LogAudio: Display: Audio Device (ID: 21) registered with world 'ThirdPersonMap'.
+[2025.05.29-06.08.07:568][477]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2025.05.29-06.08.07:622][477]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.29-06.08.07:623][477]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.05.29-06.08.07:637][477]LogWorld: Bringing World /Game/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2025.05.29-09.08.07
+[2025.05.29-06.08.07:639][477]LogWorld: Bringing up level for play took: 0.015896
+[2025.05.29-06.08.07:641][477]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2025.05.29-06.08.07:647][477]LogBlueprintUserMessages: [BP_Player_C_0] In Real-Time Level
+[2025.05.29-06.08.07:653][477]PIE: Server logged in
+[2025.05.29-06.08.07:655][477]PIE: Play in editor total start time 1,029 seconds.
+[2025.05.29-06.08.09:158][477]LogAutomationController: Ignoring very large delta of 2.55 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.29-06.08.12:094][537]LogBlueprintUserMessages: [BP_Player_C_0] Companion0
+[2025.05.29-06.08.13:024][559]LogBlueprintUserMessages: [BP_Player_C_0] Companion1
+[2025.05.29-06.08.13:757][577]LogBlueprintUserMessages: [BP_Player_C_0] Companion2
+[2025.05.29-06.08.14:679][600]LogBlueprintUserMessages: [BP_Player_C_0] Player
+[2025.05.29-06.08.15:179][611]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.29-06.08.15:179][611]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ThirdPersonMap
+[2025.05.29-06.08.15:180][611]LogSlate: Window 'Pagewalkers Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.05.29-06.08.15:298][611]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.29-06.08.15:301][611]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.29-06.08.15:301][611]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.05.29-06.08.15:307][611]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.29-06.08.15:323][611]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.29-06.08.15:368][611]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2025.05.29-06.08.15:369][611]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2025.05.29-06.08.15:371][611]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2025.05.29-06.08.15:383][611]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2025.05.29-06.08.15:516][612]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2025.05.29-06.08.26:019][117]LogAutomationController: Ignoring very large delta of 2.04 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.29-06.08.41:325][880]LogAutomationController: Ignoring very large delta of 2.02 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.29-06.08.53:206][573]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.29-06.08.53:231][573]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Player] ([2] browsable assets)...
+[2025.05.29-06.08.53:305][573]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Player.BP_Player]
+[2025.05.29-06.08.53:305][573]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2025.05.29-06.08.53:305][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2025.05.29-06.08.53:573][573]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Player
+[2025.05.29-06.08.53:573][573]LogSavePackage: Moving '../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/BP_PlayerC7E1B4BF41CA054827C860A765717773.tmp' to '../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/BP_Player.uasset'
+[2025.05.29-06.08.53:584][573]LogFileHelpers: InternalPromptForCheckoutAndSave took 378.037 ms (total: 12.5 sec)
+[2025.05.29-06.08.53:619][573]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.29-06.08.53:619][573]LogContentValidation: Enabled validators:
+[2025.05.29-06.08.53:619][573]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.29-06.08.53:619][573]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.29-06.08.53:619][573]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.29-06.08.53:619][573]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.29-06.08.53:619][573]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.29-06.08.53:619][573]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.29-06.08.53:620][573]AssetCheck: /Game/Blueprints/BP_Player Validating asset
+[2025.05.29-06.08.54:089][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.05.29-06.08.56:272][586]LogAutomationController: Ignoring very large delta of 2.42 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.29-06.09.01:368][882]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.29-06.09.01:379][882]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.29-06.09.01:379][882]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.05.29-06.09.01:384][882]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 3.798 ms (total: 88.499 ms)
+[2025.05.29-06.09.01:384][882]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.29-06.09.01:384][882]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ThirdPersonMap
+[2025.05.29-06.09.01:389][882]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006004s)
+[2025.05.29-06.09.01:389][882]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonMap.ThirdPersonMap to /Game/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.006035s)
+[2025.05.29-06.09.01:419][882]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.05.29-06.09.01:423][882]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.05.29-06.09.01:425][882]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.29-06.09.01:425][882]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.29-06.09.01:425][882]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.29-06.09.01:425][882]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.29-06.09.01:427][882]LogWorldPartition: Display: WorldPartition initialize took 2.034 ms (total: 162.482 ms)
+[2025.05.29-06.09.01:427][882]LogPlayLevel: PIE: World Init took: (0.003660s)
+[2025.05.29-06.09.01:428][882]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2025.05.29-06.09.01:428][882]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.29-06.09.01:428][882]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.29-06.09.01:428][882]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.29-06.09.01:428][882]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.29-06.09.01:428][882]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.29-06.09.01:428][882]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.29-06.09.01:428][882]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.29-06.09.01:428][882]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.29-06.09.01:428][882]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.29-06.09.01:428][882]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.29-06.09.01:428][882]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.29-06.09.01:430][882]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.29-06.09.01:439][882]LogAudioMixer: Display: Using Audio Hardware Device Virtual Speakers (Virtual Speakers for AudioRelay)
+[2025.05.29-06.09.01:440][882]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.29-06.09.01:440][882]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.29-06.09.01:440][882]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.29-06.09.01:440][882]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2025.05.29-06.09.01:440][882]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2025.05.29-06.09.01:444][882]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2025.05.29-06.09.01:444][882]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2025.05.29-06.09.01:444][882]LogInit: FAudioDevice initialized with ID 22.
+[2025.05.29-06.09.01:444][882]LogAudio: Display: Audio Device (ID: 22) registered with world 'ThirdPersonMap'.
+[2025.05.29-06.09.01:444][882]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2025.05.29-06.09.01:493][882]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.29-06.09.01:493][882]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.05.29-06.09.01:508][882]LogWorld: Bringing World /Game/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2025.05.29-09.09.01
+[2025.05.29-06.09.01:510][882]LogWorld: Bringing up level for play took: 0.015944
+[2025.05.29-06.09.01:514][882]LogOnline: OSS: Created online subsystem instance for: :Context_55
+[2025.05.29-06.09.01:521][882]LogBlueprintUserMessages: [BP_Player_C_0] In Real-Time Level
+[2025.05.29-06.09.01:525][882]PIE: Server logged in
+[2025.05.29-06.09.01:526][882]PIE: Play in editor total start time 0,147 seconds.
+[2025.05.29-06.09.03:510][919]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.29-06.09.03:510][919]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ThirdPersonMap
+[2025.05.29-06.09.03:510][919]LogSlate: Window 'Pagewalkers Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.05.29-06.09.03:623][919]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.29-06.09.03:624][919]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.29-06.09.03:624][919]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.05.29-06.09.03:629][919]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.29-06.09.03:637][919]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.29-06.09.03:684][919]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.29-06.09.03:686][919]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2025.05.29-06.09.03:686][919]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2025.05.29-06.09.03:691][919]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2025.05.29-06.09.03:702][919]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2025.05.29-06.09.03:837][920]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2025.05.29-06.09.33:276][543]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.29-06.09.33:311][543]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Player] ([2] browsable assets)...
+[2025.05.29-06.09.33:322][543]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Player.BP_Player]
+[2025.05.29-06.09.33:322][543]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2025.05.29-06.09.33:322][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2025.05.29-06.09.33:591][543]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Player
+[2025.05.29-06.09.33:591][543]LogSavePackage: Moving '../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/BP_PlayerA585EA3E45410DFC53531F8C7E4A609B.tmp' to '../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/BP_Player.uasset'
+[2025.05.29-06.09.33:600][543]LogFileHelpers: InternalPromptForCheckoutAndSave took 325.186 ms (total: 12.9 sec)
+[2025.05.29-06.09.33:637][543]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.29-06.09.33:637][543]LogContentValidation: Enabled validators:
+[2025.05.29-06.09.33:637][543]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.29-06.09.33:637][543]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.29-06.09.33:637][543]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.29-06.09.33:637][543]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.29-06.09.33:637][543]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.29-06.09.33:637][543]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.29-06.09.33:637][543]AssetCheck: /Game/Blueprints/BP_Player Validating asset
+[2025.05.29-06.09.33:989][564]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.29-06.09.33:998][564]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.29-06.09.33:999][564]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.05.29-06.09.34:005][564]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 6.372 ms (total: 94.872 ms)
+[2025.05.29-06.09.34:024][564]LogPlayLevel: [PlayLevel] Compiling BP_Player before play...
+[2025.05.29-06.09.34:934][564]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2025.05.29-06.09.34:937][564]LogPlayLevel: PlayLevel: Blueprint regeneration took 931 ms (1 blueprints)
+[2025.05.29-06.09.34:938][564]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ThirdPersonMap
+[2025.05.29-06.09.34:944][564]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006677s)
+[2025.05.29-06.09.34:944][564]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonMap.ThirdPersonMap to /Game/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.006739s)
+[2025.05.29-06.09.34:973][564]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.05.29-06.09.34:976][564]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.05.29-06.09.34:978][564]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.29-06.09.34:978][564]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.29-06.09.34:978][564]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.29-06.09.34:978][564]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.29-06.09.34:979][564]LogWorldPartition: Display: WorldPartition initialize took 2.092 ms (total: 164.575 ms)
+[2025.05.29-06.09.34:979][564]LogPlayLevel: PIE: World Init took: (0.003816s)
+[2025.05.29-06.09.34:980][564]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2025.05.29-06.09.34:980][564]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.29-06.09.34:980][564]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.29-06.09.34:980][564]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.29-06.09.34:980][564]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.29-06.09.34:980][564]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.29-06.09.34:980][564]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.29-06.09.34:980][564]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.29-06.09.34:980][564]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.29-06.09.34:980][564]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.29-06.09.34:980][564]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.29-06.09.34:980][564]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.29-06.09.34:983][564]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.29-06.09.34:991][564]LogAudioMixer: Display: Using Audio Hardware Device Virtual Speakers (Virtual Speakers for AudioRelay)
+[2025.05.29-06.09.34:992][564]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.29-06.09.34:992][564]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.29-06.09.34:992][564]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.29-06.09.34:992][564]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2025.05.29-06.09.34:992][564]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2025.05.29-06.09.34:995][564]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2025.05.29-06.09.34:995][564]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2025.05.29-06.09.34:995][564]LogInit: FAudioDevice initialized with ID 23.
+[2025.05.29-06.09.34:995][564]LogAudio: Display: Audio Device (ID: 23) registered with world 'ThirdPersonMap'.
+[2025.05.29-06.09.34:995][564]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2025.05.29-06.09.35:048][564]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.29-06.09.35:048][564]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.05.29-06.09.35:063][564]LogWorld: Bringing World /Game/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2025.05.29-09.09.35
+[2025.05.29-06.09.35:064][564]LogWorld: Bringing up level for play took: 0.015416
+[2025.05.29-06.09.35:068][564]LogOnline: OSS: Created online subsystem instance for: :Context_56
+[2025.05.29-06.09.35:076][564]LogBlueprintUserMessages: [BP_Player_C_0] In Real-Time Level
+[2025.05.29-06.09.35:081][564]PIE: Server logged in
+[2025.05.29-06.09.35:082][564]PIE: Play in editor total start time 1,084 seconds.
+[2025.05.29-06.09.36:791][590]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.29-06.09.36:791][590]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ThirdPersonMap
+[2025.05.29-06.09.36:792][590]LogSlate: Window 'Pagewalkers Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.05.29-06.09.36:937][590]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.29-06.09.36:938][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.29-06.09.36:939][590]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.05.29-06.09.36:944][590]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.29-06.09.36:962][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.29-06.09.37:034][590]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2025.05.29-06.09.37:035][590]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2025.05.29-06.09.37:040][590]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2025.05.29-06.09.37:053][590]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2025.05.29-06.09.37:174][591]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2025.05.29-06.09.49:224][178]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.29-06.09.49:250][178]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Player] ([2] browsable assets)...
+[2025.05.29-06.09.49:340][178]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Player.BP_Player]
+[2025.05.29-06.09.49:340][178]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2025.05.29-06.09.49:340][178]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2025.05.29-06.09.49:609][178]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Player
+[2025.05.29-06.09.49:609][178]LogSavePackage: Moving '../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/BP_Player57724E6240B9757BD5C2E2B0DCE95025.tmp' to '../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/BP_Player.uasset'
+[2025.05.29-06.09.49:620][178]LogFileHelpers: InternalPromptForCheckoutAndSave took 395.837 ms (total: 13.3 sec)
+[2025.05.29-06.09.49:646][178]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.29-06.09.49:646][178]LogContentValidation: Enabled validators:
+[2025.05.29-06.09.49:646][178]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.29-06.09.49:646][178]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.29-06.09.49:646][178]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.29-06.09.49:646][178]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.29-06.09.49:646][178]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.29-06.09.49:646][178]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.29-06.09.49:646][178]AssetCheck: /Game/Blueprints/BP_Player Validating asset
+[2025.05.29-06.09.50:020][199]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.29-06.09.50:029][199]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.29-06.09.50:029][199]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.05.29-06.09.50:031][199]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2.209 ms (total: 97.082 ms)
+[2025.05.29-06.09.50:047][199]LogPlayLevel: [PlayLevel] Compiling BP_Player before play...
+[2025.05.29-06.09.50:927][199]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.05.29-06.09.50:931][199]LogPlayLevel: PlayLevel: Blueprint regeneration took 899 ms (1 blueprints)
+[2025.05.29-06.09.50:931][199]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ThirdPersonMap
+[2025.05.29-06.09.50:937][199]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006068s)
+[2025.05.29-06.09.50:937][199]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonMap.ThirdPersonMap to /Game/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.006103s)
+[2025.05.29-06.09.50:964][199]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.05.29-06.09.50:967][199]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.05.29-06.09.50:969][199]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.29-06.09.50:969][199]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.29-06.09.50:969][199]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.29-06.09.50:969][199]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.29-06.09.50:971][199]LogWorldPartition: Display: WorldPartition initialize took 2.095 ms (total: 166.670 ms)
+[2025.05.29-06.09.50:971][199]LogPlayLevel: PIE: World Init took: (0.003802s)
+[2025.05.29-06.09.50:972][199]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2025.05.29-06.09.50:972][199]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.29-06.09.50:972][199]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.29-06.09.50:972][199]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.29-06.09.50:972][199]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.29-06.09.50:972][199]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.29-06.09.50:972][199]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.29-06.09.50:972][199]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.29-06.09.50:972][199]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.29-06.09.50:972][199]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.29-06.09.50:972][199]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.29-06.09.50:972][199]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.29-06.09.50:974][199]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.29-06.09.50:983][199]LogAudioMixer: Display: Using Audio Hardware Device Virtual Speakers (Virtual Speakers for AudioRelay)
+[2025.05.29-06.09.50:983][199]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.29-06.09.50:983][199]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.29-06.09.50:983][199]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.29-06.09.50:983][199]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2025.05.29-06.09.50:983][199]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2025.05.29-06.09.50:985][199]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2025.05.29-06.09.50:985][199]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2025.05.29-06.09.50:986][199]LogInit: FAudioDevice initialized with ID 24.
+[2025.05.29-06.09.50:986][199]LogAudio: Display: Audio Device (ID: 24) registered with world 'ThirdPersonMap'.
+[2025.05.29-06.09.50:986][199]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2025.05.29-06.09.51:042][199]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.29-06.09.51:042][199]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.05.29-06.09.51:056][199]LogWorld: Bringing World /Game/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2025.05.29-09.09.51
+[2025.05.29-06.09.51:057][199]LogWorld: Bringing up level for play took: 0.015336
+[2025.05.29-06.09.51:061][199]LogOnline: OSS: Created online subsystem instance for: :Context_57
+[2025.05.29-06.09.51:068][199]LogBlueprintUserMessages: [BP_Player_C_0] In Real-Time Level
+[2025.05.29-06.09.51:074][199]PIE: Server logged in
+[2025.05.29-06.09.51:075][199]PIE: Play in editor total start time 1,047 seconds.
+[2025.05.29-06.09.52:563][199]LogAutomationController: Ignoring very large delta of 2.55 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.29-06.09.57:679][313]LogBlueprintUserMessages: [BP_Player_C_0] Companion0
+[2025.05.29-06.09.58:788][339]LogBlueprintUserMessages: [BP_Player_C_0] Companion1
+[2025.05.29-06.09.59:764][361]LogBlueprintUserMessages: [BP_Player_C_0] Companion2
+[2025.05.29-06.10.01:601][402]LogBlueprintUserMessages: [BP_Player_C_0] Player
+[2025.05.29-06.10.02:895][431]LogBlueprintUserMessages: [BP_Player_C_0] Companion0
+[2025.05.29-06.10.03:998][455]LogBlueprintUserMessages: [BP_Player_C_0] Companion1
+[2025.05.29-06.10.04:857][473]LogBlueprintUserMessages: [BP_Player_C_0] Companion2
+[2025.05.29-06.10.05:641][489]LogBlueprintUserMessages: [BP_Player_C_0] Player
+[2025.05.29-06.10.08:033][539]LogBlueprintUserMessages: [BP_Player_C_0] Companion0
+[2025.05.29-06.10.09:086][560]LogBlueprintUserMessages: [BP_Player_C_0] Companion1
+[2025.05.29-06.10.09:857][576]LogBlueprintUserMessages: [BP_Player_C_0] Companion2
+[2025.05.29-06.10.10:487][588]LogBlueprintUserMessages: [BP_Player_C_0] Player
+[2025.05.29-06.10.11:129][601]LogBlueprintUserMessages: [BP_Player_C_0] Companion0
+[2025.05.29-06.10.14:652][679]LogBlueprintUserMessages: [BP_Player_C_0] Companion1
+[2025.05.29-06.10.19:857][800]LogBlueprintUserMessages: [BP_Player_C_0] Companion2
+[2025.05.29-06.10.20:461][813]LogBlueprintUserMessages: [BP_Player_C_0] Player
+[2025.05.29-06.10.21:418][834]LogBlueprintUserMessages: [BP_Player_C_0] Companion0
+[2025.05.29-06.10.24:519][902]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.29-06.10.24:520][902]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ThirdPersonMap
+[2025.05.29-06.10.24:520][902]LogSlate: Window 'Pagewalkers Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.05.29-06.10.24:652][902]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.29-06.10.24:653][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.29-06.10.24:654][902]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.05.29-06.10.24:662][902]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.29-06.10.24:676][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.29-06.10.24:724][902]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2025.05.29-06.10.24:724][902]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2025.05.29-06.10.24:726][902]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2025.05.29-06.10.24:738][902]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2025.05.29-06.10.24:874][903]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2025.05.29-06.10.26:149][978]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.29-06.10.26:181][978]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Player] ([2] browsable assets)...
+[2025.05.29-06.10.26:263][978]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Player.BP_Player]
+[2025.05.29-06.10.26:263][978]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2025.05.29-06.10.26:264][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2025.05.29-06.10.26:537][978]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Player
+[2025.05.29-06.10.26:537][978]LogSavePackage: Moving '../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/BP_Player8D615FC84D51FB03C86024BB8B7FD4EA.tmp' to '../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Blueprints/BP_Player.uasset'
+[2025.05.29-06.10.26:546][978]LogFileHelpers: InternalPromptForCheckoutAndSave took 396.346 ms (total: 13.7 sec)
+[2025.05.29-06.10.26:584][978]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.29-06.10.26:584][978]LogContentValidation: Enabled validators:
+[2025.05.29-06.10.26:584][978]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.29-06.10.26:584][978]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.29-06.10.26:584][978]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.29-06.10.26:584][978]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.29-06.10.26:584][978]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.29-06.10.26:584][978]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.29-06.10.26:584][978]AssetCheck: /Game/Blueprints/BP_Player Validating asset
+[2025.05.29-06.10.38:084][650]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.05.29-06.10.38:092][650]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.29-06.10.38:122][650]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RedHead/armor] ([1] browsable assets)...
+[2025.05.29-06.10.38:204][650]OBJ SavePackage:     Rendered thumbnail for [Material /Game/RedHead/armor.armor]
+[2025.05.29-06.10.38:204][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/RedHead/armor]
+[2025.05.29-06.10.38:204][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RedHead/armor" FILE="../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Content/RedHead/armor.uasset" SILENT=true
+[2025.05.29-06.10.38:208][650]LogSavePackage: Moving output files for package: /Game/RedHead/armor
+[2025.05.29-06.10.38:208][650]LogSavePackage: Moving '../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/armorEE439AFE4F4BE6C9EE1187B118D00EA6.tmp' to '../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Content/RedHead/armor.uasset'
+[2025.05.29-06.10.38:213][650]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RedHead/hair_001] ([1] browsable assets)...
+[2025.05.29-06.10.38:224][650]OBJ SavePackage:     Rendered thumbnail for [Material /Game/RedHead/hair_001.hair_001]
+[2025.05.29-06.10.38:224][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/RedHead/hair_001]
+[2025.05.29-06.10.38:224][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RedHead/hair_001" FILE="../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Content/RedHead/hair_001.uasset" SILENT=true
+[2025.05.29-06.10.38:227][650]LogSavePackage: Moving output files for package: /Game/RedHead/hair_001
+[2025.05.29-06.10.38:227][650]LogSavePackage: Moving '../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/hair_001865194BF479B0DB908B8D485A2FDE88A.tmp' to '../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Content/RedHead/hair_001.uasset'
+[2025.05.29-06.10.38:230][650]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RedHead/Material] ([1] browsable assets)...
+[2025.05.29-06.10.38:242][650]OBJ SavePackage:     Rendered thumbnail for [Material /Game/RedHead/Material.Material]
+[2025.05.29-06.10.38:242][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/RedHead/Material]
+[2025.05.29-06.10.38:242][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RedHead/Material" FILE="../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Content/RedHead/Material.uasset" SILENT=true
+[2025.05.29-06.10.38:246][650]LogSavePackage: Moving output files for package: /Game/RedHead/Material
+[2025.05.29-06.10.38:246][650]LogSavePackage: Moving '../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/Material2522B5DB4422681F919EE39F351F5CAE.tmp' to '../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Content/RedHead/Material.uasset'
+[2025.05.29-06.10.38:249][650]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RedHead/Material_005] ([1] browsable assets)...
+[2025.05.29-06.10.38:258][650]OBJ SavePackage:     Rendered thumbnail for [Material /Game/RedHead/Material_005.Material_005]
+[2025.05.29-06.10.38:258][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/RedHead/Material_005]
+[2025.05.29-06.10.38:258][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RedHead/Material_005" FILE="../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Content/RedHead/Material_005.uasset" SILENT=true
+[2025.05.29-06.10.38:260][650]LogSavePackage: Moving output files for package: /Game/RedHead/Material_005
+[2025.05.29-06.10.38:260][650]LogSavePackage: Moving '../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/Material_005834968C644AAAE6CEF39FFB593CB121C.tmp' to '../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Content/RedHead/Material_005.uasset'
+[2025.05.29-06.10.38:262][650]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RedHead/Skin] ([1] browsable assets)...
+[2025.05.29-06.10.38:271][650]OBJ SavePackage:     Rendered thumbnail for [Material /Game/RedHead/Skin.Skin]
+[2025.05.29-06.10.38:271][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/RedHead/Skin]
+[2025.05.29-06.10.38:272][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RedHead/Skin" FILE="../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Content/RedHead/Skin.uasset" SILENT=true
+[2025.05.29-06.10.38:273][650]LogSavePackage: Moving output files for package: /Game/RedHead/Skin
+[2025.05.29-06.10.38:274][650]LogSavePackage: Moving '../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/Skin9E773DD14ED07442E1D7E18F6779E153.tmp' to '../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Content/RedHead/Skin.uasset'
+[2025.05.29-06.10.38:275][650]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RedHead/T-Pose_red_PhysicsAsset] ([1] browsable assets)...
+[2025.05.29-06.10.38:287][650]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/RedHead/T-Pose_red_PhysicsAsset.T-Pose_red_PhysicsAsset]
+[2025.05.29-06.10.38:287][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/RedHead/T-Pose_red_PhysicsAsset]
+[2025.05.29-06.10.38:293][650]LogSavePackage: Moving output files for package: /Game/RedHead/T-Pose_red_PhysicsAsset
+[2025.05.29-06.10.38:293][650]LogSavePackage: Moving '../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/T-Pose_red_PhysicsAssetF92EB1EC40175DDBF071239CE02C889F.tmp' to '../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Content/RedHead/T-Pose_red_PhysicsAsset.uasset'
+[2025.05.29-06.10.38:294][650]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RedHead/T-Pose_red_Skeleton] ([1] browsable assets)...
+[2025.05.29-06.10.38:308][650]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/RedHead/T-Pose_red_Skeleton.T-Pose_red_Skeleton]
+[2025.05.29-06.10.38:308][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/RedHead/T-Pose_red_Skeleton]
+[2025.05.29-06.10.38:308][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RedHead/T-Pose_red_Skeleton" FILE="../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Content/RedHead/T-Pose_red_Skeleton.uasset" SILENT=true
+[2025.05.29-06.10.38:311][650]LogSavePackage: Moving output files for package: /Game/RedHead/T-Pose_red_Skeleton
+[2025.05.29-06.10.38:311][650]LogSavePackage: Moving '../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/T-Pose_red_Skeleton380F195B4F2A196CAF3ACA94CCDDBECD.tmp' to '../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Content/RedHead/T-Pose_red_Skeleton.uasset'
+[2025.05.29-06.10.38:314][650]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RedHead/T-Pose_red] ([1] browsable assets)...
+[2025.05.29-06.10.38:326][650]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/RedHead/T-Pose_red.T-Pose_red]
+[2025.05.29-06.10.38:326][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/RedHead/T-Pose_red]
+[2025.05.29-06.10.38:326][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RedHead/T-Pose_red" FILE="../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Content/RedHead/T-Pose_red.uasset" SILENT=true
+[2025.05.29-06.10.38:342][650]LogSavePackage: Moving output files for package: /Game/RedHead/T-Pose_red
+[2025.05.29-06.10.38:342][650]LogSavePackage: Moving '../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/T-Pose_redD01A0AB943B529D227DDFEB184144943.tmp' to '../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Content/RedHead/T-Pose_red.uasset'
+[2025.05.29-06.10.38:345][650]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RedHead/T-Pose_red_Anim] ([1] browsable assets)...
+[2025.05.29-06.10.38:358][650]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/RedHead/T-Pose_red_Anim.T-Pose_red_Anim]
+[2025.05.29-06.10.38:358][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/RedHead/T-Pose_red_Anim]
+[2025.05.29-06.10.38:358][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RedHead/T-Pose_red_Anim" FILE="../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Content/RedHead/T-Pose_red_Anim.uasset" SILENT=true
+[2025.05.29-06.10.38:364][650]LogSavePackage: Moving output files for package: /Game/RedHead/T-Pose_red_Anim
+[2025.05.29-06.10.38:364][650]LogSavePackage: Moving '../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/T-Pose_red_AnimB3E9DED2458F873BC8BDE5BB04B69130.tmp' to '../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Content/RedHead/T-Pose_red_Anim.uasset'
+[2025.05.29-06.10.38:366][650]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PinkHead/hair_pink] ([1] browsable assets)...
+[2025.05.29-06.10.38:377][650]OBJ SavePackage:     Rendered thumbnail for [Material /Game/PinkHead/hair_pink.hair_pink]
+[2025.05.29-06.10.38:377][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/PinkHead/hair_pink]
+[2025.05.29-06.10.38:377][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PinkHead/hair_pink" FILE="../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Content/PinkHead/hair_pink.uasset" SILENT=true
+[2025.05.29-06.10.38:382][650]LogSavePackage: Moving output files for package: /Game/PinkHead/hair_pink
+[2025.05.29-06.10.38:382][650]LogSavePackage: Moving '../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/hair_pinkFAB3E951432F567957ADCB9EDA3E9B93.tmp' to '../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Content/PinkHead/hair_pink.uasset'
+[2025.05.29-06.10.38:383][650]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PinkHead/HAT] ([1] browsable assets)...
+[2025.05.29-06.10.38:393][650]OBJ SavePackage:     Rendered thumbnail for [Material /Game/PinkHead/HAT.HAT]
+[2025.05.29-06.10.38:393][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/PinkHead/HAT]
+[2025.05.29-06.10.38:393][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PinkHead/HAT" FILE="../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Content/PinkHead/HAT.uasset" SILENT=true
+[2025.05.29-06.10.38:396][650]LogSavePackage: Moving output files for package: /Game/PinkHead/HAT
+[2025.05.29-06.10.38:396][650]LogSavePackage: Moving '../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/HATB017FEB84EA73A7ED33A2C871A1A1D06.tmp' to '../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Content/PinkHead/HAT.uasset'
+[2025.05.29-06.10.38:396][650]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PinkHead/Material_001] ([1] browsable assets)...
+[2025.05.29-06.10.38:406][650]OBJ SavePackage:     Rendered thumbnail for [Material /Game/PinkHead/Material_001.Material_001]
+[2025.05.29-06.10.38:406][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/PinkHead/Material_001]
+[2025.05.29-06.10.38:406][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PinkHead/Material_001" FILE="../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Content/PinkHead/Material_001.uasset" SILENT=true
+[2025.05.29-06.10.38:408][650]LogSavePackage: Moving output files for package: /Game/PinkHead/Material_001
+[2025.05.29-06.10.38:409][650]LogSavePackage: Moving '../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/Material_001DE523B484306E36F2E26B1887D31129A.tmp' to '../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Content/PinkHead/Material_001.uasset'
+[2025.05.29-06.10.38:410][650]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PinkHead/Material_002] ([1] browsable assets)...
+[2025.05.29-06.10.38:419][650]OBJ SavePackage:     Rendered thumbnail for [Material /Game/PinkHead/Material_002.Material_002]
+[2025.05.29-06.10.38:419][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/PinkHead/Material_002]
+[2025.05.29-06.10.38:419][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PinkHead/Material_002" FILE="../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Content/PinkHead/Material_002.uasset" SILENT=true
+[2025.05.29-06.10.38:422][650]LogSavePackage: Moving output files for package: /Game/PinkHead/Material_002
+[2025.05.29-06.10.38:422][650]LogSavePackage: Moving '../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/Material_00219955E124055243551A859B5C8833D04.tmp' to '../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Content/PinkHead/Material_002.uasset'
+[2025.05.29-06.10.38:423][650]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PinkHead/Material_003] ([1] browsable assets)...
+[2025.05.29-06.10.38:432][650]OBJ SavePackage:     Rendered thumbnail for [Material /Game/PinkHead/Material_003.Material_003]
+[2025.05.29-06.10.38:432][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/PinkHead/Material_003]
+[2025.05.29-06.10.38:432][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PinkHead/Material_003" FILE="../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Content/PinkHead/Material_003.uasset" SILENT=true
+[2025.05.29-06.10.38:436][650]LogSavePackage: Moving output files for package: /Game/PinkHead/Material_003
+[2025.05.29-06.10.38:436][650]LogSavePackage: Moving '../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/Material_0032A6A8DA84B5E4D10276BC9B522A399A4.tmp' to '../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Content/PinkHead/Material_003.uasset'
+[2025.05.29-06.10.38:438][650]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PinkHead/Material_004] ([1] browsable assets)...
+[2025.05.29-06.10.38:471][650]OBJ SavePackage:     Rendered thumbnail for [Material /Game/PinkHead/Material_004.Material_004]
+[2025.05.29-06.10.38:471][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/PinkHead/Material_004]
+[2025.05.29-06.10.38:471][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PinkHead/Material_004" FILE="../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Content/PinkHead/Material_004.uasset" SILENT=true
+[2025.05.29-06.10.38:475][650]LogSavePackage: Moving output files for package: /Game/PinkHead/Material_004
+[2025.05.29-06.10.38:475][650]LogSavePackage: Moving '../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/Material_004CD3B49B440544724FCE12D87A02397D6.tmp' to '../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Content/PinkHead/Material_004.uasset'
+[2025.05.29-06.10.38:476][650]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PinkHead/Material_006] ([1] browsable assets)...
+[2025.05.29-06.10.38:511][650]OBJ SavePackage:     Rendered thumbnail for [Material /Game/PinkHead/Material_006.Material_006]
+[2025.05.29-06.10.38:511][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/PinkHead/Material_006]
+[2025.05.29-06.10.38:511][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PinkHead/Material_006" FILE="../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Content/PinkHead/Material_006.uasset" SILENT=true
+[2025.05.29-06.10.38:516][650]LogSavePackage: Moving output files for package: /Game/PinkHead/Material_006
+[2025.05.29-06.10.38:516][650]LogSavePackage: Moving '../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/Material_00631272AC54620BF53D1B8888B4AF3CA3F.tmp' to '../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Content/PinkHead/Material_006.uasset'
+[2025.05.29-06.10.38:517][650]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PinkHead/SKİN] ([1] browsable assets)...
+[2025.05.29-06.10.38:528][650]OBJ SavePackage:     Rendered thumbnail for [Material /Game/PinkHead/SKİN.SKİN]
+[2025.05.29-06.10.38:528][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/PinkHead/SKİN]
+[2025.05.29-06.10.38:528][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PinkHead/SKİN" FILE="../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Content/PinkHead/SKİN.uasset" SILENT=true
+[2025.05.29-06.10.38:532][650]LogSavePackage: Moving output files for package: /Game/PinkHead/SKİN
+[2025.05.29-06.10.38:532][650]LogSavePackage: Moving '../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/SKİN857262DB47394688191962A60EDF4517.tmp' to '../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Content/PinkHead/SKİN.uasset'
+[2025.05.29-06.10.38:533][650]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PinkHead/T-Pose_pink_PhysicsAsset] ([1] browsable assets)...
+[2025.05.29-06.10.38:544][650]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/PinkHead/T-Pose_pink_PhysicsAsset.T-Pose_pink_PhysicsAsset]
+[2025.05.29-06.10.38:544][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/PinkHead/T-Pose_pink_PhysicsAsset]
+[2025.05.29-06.10.38:549][650]LogSavePackage: Moving output files for package: /Game/PinkHead/T-Pose_pink_PhysicsAsset
+[2025.05.29-06.10.38:549][650]LogSavePackage: Moving '../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/T-Pose_pink_PhysicsAssetB644402C4E9FEDAF3DD040B77D0CCBE3.tmp' to '../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Content/PinkHead/T-Pose_pink_PhysicsAsset.uasset'
+[2025.05.29-06.10.38:550][650]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PinkHead/T-Pose_pink_Skeleton] ([1] browsable assets)...
+[2025.05.29-06.10.38:562][650]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/PinkHead/T-Pose_pink_Skeleton.T-Pose_pink_Skeleton]
+[2025.05.29-06.10.38:562][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/PinkHead/T-Pose_pink_Skeleton]
+[2025.05.29-06.10.38:562][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PinkHead/T-Pose_pink_Skeleton" FILE="../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Content/PinkHead/T-Pose_pink_Skeleton.uasset" SILENT=true
+[2025.05.29-06.10.38:564][650]LogSavePackage: Moving output files for package: /Game/PinkHead/T-Pose_pink_Skeleton
+[2025.05.29-06.10.38:564][650]LogSavePackage: Moving '../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/T-Pose_pink_SkeletonB328FE2746711D03E16C77B09E6E3B31.tmp' to '../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Content/PinkHead/T-Pose_pink_Skeleton.uasset'
+[2025.05.29-06.10.38:565][650]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PinkHead/Material_007] ([1] browsable assets)...
+[2025.05.29-06.10.38:576][650]OBJ SavePackage:     Rendered thumbnail for [Material /Game/PinkHead/Material_007.Material_007]
+[2025.05.29-06.10.38:577][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/PinkHead/Material_007]
+[2025.05.29-06.10.38:577][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PinkHead/Material_007" FILE="../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Content/PinkHead/Material_007.uasset" SILENT=true
+[2025.05.29-06.10.38:580][650]LogSavePackage: Moving output files for package: /Game/PinkHead/Material_007
+[2025.05.29-06.10.38:580][650]LogSavePackage: Moving '../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/Material_00783B9151B4A0EA3075281459E705BC62E.tmp' to '../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Content/PinkHead/Material_007.uasset'
+[2025.05.29-06.10.38:582][650]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PinkHead/T-Pose_pink] ([1] browsable assets)...
+[2025.05.29-06.10.38:593][650]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/PinkHead/T-Pose_pink.T-Pose_pink]
+[2025.05.29-06.10.38:593][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/PinkHead/T-Pose_pink]
+[2025.05.29-06.10.38:593][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PinkHead/T-Pose_pink" FILE="../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Content/PinkHead/T-Pose_pink.uasset" SILENT=true
+[2025.05.29-06.10.38:608][650]LogSavePackage: Moving output files for package: /Game/PinkHead/T-Pose_pink
+[2025.05.29-06.10.38:608][650]LogSavePackage: Moving '../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/T-Pose_pinkE75963B74AAF72959385B2828B40597A.tmp' to '../../../../../../Users/kagan/Documents/GitHub/Pagewalkers/Pagewalkers/Content/PinkHead/T-Pose_pink.uasset'
+[2025.05.29-06.10.38:617][650]LogFileHelpers: InternalPromptForCheckoutAndSave took 523.855 ms (total: 14.2 sec)
+[2025.05.29-06.10.38:643][650]LogContentValidation: Display: Starting to validate 21 assets
+[2025.05.29-06.10.38:643][650]LogContentValidation: Enabled validators:
+[2025.05.29-06.10.38:643][650]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.29-06.10.38:643][650]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.29-06.10.38:643][650]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.29-06.10.38:644][650]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.29-06.10.38:644][650]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.29-06.10.38:644][650]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.29-06.10.38:644][650]AssetCheck: /Game/RedHead/armor Validating asset
+[2025.05.29-06.10.38:644][650]AssetCheck: /Game/RedHead/hair_001 Validating asset
+[2025.05.29-06.10.38:644][650]AssetCheck: /Game/RedHead/Material Validating asset
+[2025.05.29-06.10.38:644][650]AssetCheck: /Game/RedHead/Material_005 Validating asset
+[2025.05.29-06.10.38:644][650]AssetCheck: /Game/RedHead/Skin Validating asset
+[2025.05.29-06.10.38:644][650]AssetCheck: /Game/RedHead/T-Pose_red_PhysicsAsset Validating asset
+[2025.05.29-06.10.38:644][650]AssetCheck: /Game/RedHead/T-Pose_red_Skeleton Validating asset
+[2025.05.29-06.10.38:644][650]AssetCheck: /Game/RedHead/T-Pose_red Validating asset
+[2025.05.29-06.10.38:644][650]AssetCheck: /Game/RedHead/T-Pose_red_Anim Validating asset
+[2025.05.29-06.10.38:645][650]AssetCheck: /Game/PinkHead/hair_pink Validating asset
+[2025.05.29-06.10.38:645][650]AssetCheck: /Game/PinkHead/HAT Validating asset
+[2025.05.29-06.10.38:645][650]AssetCheck: /Game/PinkHead/Material_001 Validating asset
+[2025.05.29-06.10.38:645][650]AssetCheck: /Game/PinkHead/Material_002 Validating asset
+[2025.05.29-06.10.38:645][650]AssetCheck: /Game/PinkHead/Material_003 Validating asset
+[2025.05.29-06.10.38:645][650]AssetCheck: /Game/PinkHead/Material_004 Validating asset
+[2025.05.29-06.10.38:645][650]AssetCheck: /Game/PinkHead/Material_006 Validating asset
+[2025.05.29-06.10.38:645][650]AssetCheck: /Game/PinkHead/SKİN Validating asset
+[2025.05.29-06.10.38:645][650]AssetCheck: /Game/PinkHead/T-Pose_pink_PhysicsAsset Validating asset
+[2025.05.29-06.10.38:645][650]AssetCheck: /Game/PinkHead/T-Pose_pink_Skeleton Validating asset
+[2025.05.29-06.10.38:645][650]AssetCheck: /Game/PinkHead/Material_007 Validating asset
+[2025.05.29-06.10.38:645][650]AssetCheck: /Game/PinkHead/T-Pose_pink Validating asset
+[2025.05.29-06.10.39:658][704]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.05.29-06.10.39:770][704]LogStall: Shutdown...
+[2025.05.29-06.10.39:770][704]LogStall: Shutdown complete.
+[2025.05.29-06.10.40:416][704]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.05.29-06.10.40:416][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.29-06.10.40:560][704]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.05.29-06.10.40:560][704]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2025.05.29-06.10.40:560][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.29-06.10.40:684][704]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.05.29-06.10.40:684][704]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2025.05.29-06.10.40:684][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.29-06.10.40:816][704]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.05.29-06.10.40:817][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.29-06.10.40:827][704]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.05.29-06.10.40:827][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.29-06.10.40:918][704]LogSlate: Window 'Pagewalkers - Unreal Editor' being destroyed
+[2025.05.29-06.10.41:199][704]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.05.29-06.10.41:275][704]Cmd: QUIT_EDITOR
+[2025.05.29-06.10.41:275][705]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.05.29-06.10.41:287][705]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.05.29-06.10.41:288][705]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.05.29-06.10.41:288][705]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.05.29-06.10.41:291][705]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.29-06.10.41:291][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.29-06.10.41:292][705]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPersonMap.ThirdPersonMap
+[2025.05.29-06.10.41:332][705]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.05.29-06.10.41:342][705]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.05.29-06.10.41:362][705]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2025.05.29-06.10.41:362][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.29-06.10.41:366][705]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2025.05.29-06.10.41:367][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.29-06.10.41:372][705]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2025.05.29-06.10.41:372][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.29-06.10.41:377][705]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2025.05.29-06.10.41:377][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.29-06.10.41:381][705]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.05.29-06.10.41:381][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.29-06.10.41:385][705]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.05.29-06.10.41:385][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.29-06.10.41:388][705]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.05.29-06.10.41:388][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.29-06.10.41:391][705]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.05.29-06.10.41:391][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.29-06.10.41:394][705]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.05.29-06.10.41:394][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.29-06.10.41:397][705]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.05.29-06.10.41:397][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.29-06.10.41:400][705]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.05.29-06.10.41:400][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.29-06.10.41:403][705]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2025.05.29-06.10.41:403][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.29-06.10.41:406][705]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2025.05.29-06.10.41:407][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.29-06.10.41:409][705]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.05.29-06.10.41:409][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.29-06.10.41:412][705]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.05.29-06.10.41:412][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.29-06.10.41:414][705]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.05.29-06.10.41:414][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.29-06.10.41:417][705]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.05.29-06.10.41:417][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.29-06.10.41:420][705]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.05.29-06.10.41:421][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.29-06.10.41:423][705]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2025.05.29-06.10.41:423][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.29-06.10.41:428][705]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2025.05.29-06.10.41:428][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.29-06.10.41:431][705]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2025.05.29-06.10.41:431][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.29-06.10.41:439][705]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.05.29-06.10.41:444][705]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.05.29-06.10.41:444][705]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.05.29-06.10.41:445][705]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.05.29-06.10.41:826][705]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.05.29-06.10.41:826][705]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.05.29-06.10.41:826][705]LogAudio: Display: Audio Device unregistered from world 'ThirdPersonMap'.
+[2025.05.29-06.10.41:826][705]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.05.29-06.10.41:826][705]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.05.29-06.10.41:829][705]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.05.29-06.10.41:846][705]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.05.29-06.10.41:846][705]LogAudio: Display: Audio Device Manager Shutdown
+[2025.05.29-06.10.41:847][705]LogWindowsTextInputMethodSystem: Activated input method: Türkçe (Türkiye) - (Keyboard).
+[2025.05.29-06.10.41:851][705]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.05.29-06.10.41:851][705]LogExit: Preparing to exit.
+[2025.05.29-06.10.41:922][705]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2025.05.29-06.10.41:928][705]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.29-06.10.41:928][705]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.29-06.10.41:935][705]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.29-06.10.41:936][705]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.29-06.10.41:936][705]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.29-06.10.41:936][705]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.29-06.10.41:936][705]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.29-06.10.41:936][705]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.29-06.10.41:936][705]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.29-06.10.41:936][705]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.29-06.10.41:936][705]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.29-06.10.41:936][705]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.29-06.10.41:937][705]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.29-06.10.41:937][705]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.29-06.10.41:937][705]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.29-06.10.41:937][705]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.29-06.10.41:937][705]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.29-06.10.41:937][705]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.29-06.10.41:937][705]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.29-06.10.41:938][705]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.29-06.10.41:938][705]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.29-06.10.43:134][705]LogEditorDataStorage: Deinitializing
+[2025.05.29-06.10.43:493][705]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.05.29-06.10.43:635][705]LogExit: Editor shut down
+[2025.05.29-06.10.43:649][705]LogExit: Transaction tracking system shut down
+[2025.05.29-06.10.44:423][705]LogCore: Error: PropertyBag: Expecting RefCount to be zero on destructor, but it is 12.
+[2025.05.29-06.10.44:506][705]LogExit: Object subsystem successfully closed.
+[2025.05.29-06.10.44:580][705]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.05.29-06.10.44:943][705]LogMemoryProfiler: Shutdown
+[2025.05.29-06.10.44:944][705]LogNetworkingProfiler: Shutdown
+[2025.05.29-06.10.44:944][705]LoadingProfiler: Shutdown
+[2025.05.29-06.10.44:944][705]LogTimingProfiler: Shutdown
+[2025.05.29-06.10.45:717][705]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.05.29-06.10.45:718][705]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.05.29-06.10.45:718][705]LogNFORDenoise: NFORDenoise function shutting down
+[2025.05.29-06.10.45:719][705]RenderDocPlugin: plugin has been unloaded.
+[2025.05.29-06.10.45:737][705]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.05.29-06.10.45:737][705]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC125B836-4CF6-2B53-F122-638DA9865678%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.0-37670630%2B%2B%2BUE5%2BRelease-5.5&UserID=01a522404774a7caf9bc438c1472a873%7C7b0629abf3914e98976bd660795d011a%7Cefa51356-cec0-4560-b5ba-0a9f19b60b23&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.05.29-06.10.46:811][705]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.05.29-06.10.46:821][705]LogXGEController: Cleaning working directory: C:/Users/kagan/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.05.29-06.10.46:830][705]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.05.29-06.10.46:830][705]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.05.29-06.10.46:830][705]LogPakFile: Destroying PakPlatformFile
+[2025.05.29-06.10.47:225][705]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.05.29-06.10.47:265][705]LogExit: Exiting.
+[2025.05.29-06.10.47:299][705]Log file closed, 05/29/25 09:10:47
