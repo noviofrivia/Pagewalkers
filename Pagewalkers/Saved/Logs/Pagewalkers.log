@@ -15510,3 +15510,14 @@ Sampler Limit: 32
 [2025.05.30-04.38.56:541][104]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 2 outstanding Http Requests:
 [2025.05.30-04.38.56:541][104]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE7A84AF1-4845-D392-B824-7E9BCEDE8E5A%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=1076f2bd45b8fd5dbe1d158465598c63%7C70d1d06b362b498bb014d15f00778a1a%7C98401dfe-bcac-4295-8d9a-75f35ed465a8&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[3] status=Processing
 [2025.05.30-04.38.56:541][104]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE7A84AF1-4845-D392-B824-7E9BCEDE8E5A%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=1076f2bd45b8fd5dbe1d158465598c63%7C70d1d06b362b498bb014d15f00778a1a%7C98401dfe-bcac-4295-8d9a-75f35ed465a8&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.05.30-04.38.57:113][104]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.05.30-04.38.57:113][104]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.05.30-04.38.57:113][104]LogNFORDenoise: NFORDenoise function shutting down
+[2025.05.30-04.38.57:120][104]RenderDocPlugin: plugin has been unloaded.
+[2025.05.30-04.38.57:123][104]LogXGEController: Cleaning working directory: C:/Users/PC/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.05.30-04.38.57:153][104]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.05.30-04.38.57:153][104]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.05.30-04.38.57:153][104]LogPakFile: Destroying PakPlatformFile
+[2025.05.30-04.38.57:886][104]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.05.30-04.38.57:953][104]LogExit: Exiting.
+[2025.05.30-04.38.57:995][104]Log file closed, 05/30/25 07:38:57
