@@ -7921,3 +7921,279 @@ Sampler Limit: 32
 [2025.05.30-02.18.59:661][804]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2025.05.30-02.18.59:669][804]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
 [2025.05.30-02.18.59:741][805]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2025.05.30-02.19.20:674][985]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2025.05.30-02.19.21:851][985]LogSlate: Window 'Save Content' being destroyed
+[2025.05.30-02.19.30:444][ 64]LogShaderCompilers: Display: ================================================
+[2025.05.30-02.19.30:444][ 64]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.30-02.19.30:444][ 64]LogShaderCompilers: Display: Total job queries 1.125, among them cache hits 283 (25.16%), DDC hits 599 (53.24%), Duplicates 10 (0.89%)
+[2025.05.30-02.19.30:444][ 64]LogShaderCompilers: Display: Tracking 832 distinct input hashes that result in 549 distinct outputs (65.99%)
+[2025.05.30-02.19.30:444][ 64]LogShaderCompilers: Display: RAM used: 322,00 KiB of 819,20 MiB budget. Usage: 0.04%
+[2025.05.30-02.19.30:444][ 64]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.30-02.19.30:444][ 64]LogShaderCompilers: Display: Shaders Compiled: 233
+[2025.05.30-02.19.30:444][ 64]LogShaderCompilers: Display: Jobs assigned 233, completed 233 (100%)
+[2025.05.30-02.19.30:444][ 64]LogShaderCompilers: Display: Average time worker was idle: 162.78 s
+[2025.05.30-02.19.30:444][ 64]LogShaderCompilers: Display: Time job spent in pending queue: average 0.80 s, longest 6.88 s
+[2025.05.30-02.19.30:444][ 64]LogShaderCompilers: Display: Job execution time: average 2.58 s, max 7.71 s
+[2025.05.30-02.19.30:444][ 64]LogShaderCompilers: Display: Job life time (pending + execution): average 3.38 s, max 7.91
+[2025.05.30-02.19.30:444][ 64]LogShaderCompilers: Display: Shader code size: average 9,2 KiB, min 3,215 KiB, max 26,992 KiB
+[2025.05.30-02.19.30:444][ 64]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 48.99 s
+[2025.05.30-02.19.30:444][ 64]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.05.30-02.19.30:444][ 64]LogShaderCompilers: Display: Jobs were issued in 140 batches (only local compilation was used), average 1.66 jobs/batch
+[2025.05.30-02.19.30:444][ 64]LogShaderCompilers: Display: Average processing rate: 4.76 jobs/sec
+[2025.05.30-02.19.30:444][ 64]LogShaderCompilers: Display: Total thread time: 203,666 s
+[2025.05.30-02.19.30:444][ 64]LogShaderCompilers: Display: Total thread preprocess time: 19,618 s
+[2025.05.30-02.19.30:444][ 64]LogShaderCompilers: Display: Percentage time preprocessing: 9.63%
+[2025.05.30-02.19.30:444][ 64]LogShaderCompilers: Display: Effective parallelization: 4.16 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.05.30-02.19.30:444][ 64]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.30-02.19.30:444][ 64]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    3 times, average 2.51 sec, max 2.83 sec, min 2.25 sec)
+[2025.05.30-02.19.30:444][ 64]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    3 times, average 2.12 sec, max 2.85 sec, min 1.70 sec)
+[2025.05.30-02.19.30:444][ 64]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    3 times, average 2.02 sec, max 2.25 sec, min 1.90 sec)
+[2025.05.30-02.19.30:444][ 64]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   25 times, average 1.74 sec, max 1.91 sec, min 1.11 sec)
+[2025.05.30-02.19.30:444][ 64]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    2 times, average 1.53 sec, max 1.87 sec, min 1.19 sec)
+[2025.05.30-02.19.30:444][ 64]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.30-02.19.30:444][ 64]LogShaderCompilers: Display:                                             FDebugViewModePS - 21.31% of total time (compiled   25 times, average 1.74 sec, max 1.91 sec, min 1.11 sec)
+[2025.05.30-02.19.30:444][ 64]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.91% of total time (compiled   33 times, average 0.74 sec, max 1.10 sec, min 0.49 sec)
+[2025.05.30-02.19.30:444][ 64]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 10.56% of total time (compiled   15 times, average 1.43 sec, max 2.09 sec, min 0.97 sec)
+[2025.05.30-02.19.30:444][ 64]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 9.96% of total time (compiled   15 times, average 1.35 sec, max 1.94 sec, min 0.84 sec)
+[2025.05.30-02.19.30:444][ 64]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 9.03% of total time (compiled   25 times, average 0.74 sec, max 0.85 sec, min 0.49 sec)
+[2025.05.30-02.19.30:444][ 64]LogShaderCompilers: Display: === Material stats ===
+[2025.05.30-02.19.30:444][ 64]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.05.30-02.19.30:444][ 64]LogShaderCompilers: Display: Materials Translated:    260
+[2025.05.30-02.19.30:444][ 64]LogShaderCompilers: Display: Material Total Translate Time: 0.17 s
+[2025.05.30-02.19.30:444][ 64]LogShaderCompilers: Display: Material Translation Only: 0.10 s (61%)
+[2025.05.30-02.19.30:444][ 64]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.05.30-02.19.30:444][ 64]LogShaderCompilers: Display: Material Cache Hits: 58 (22%)
+[2025.05.30-02.19.30:444][ 64]LogShaderCompilers: Display: ================================================
+[2025.05.30-02.19.34:158][215]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.05.30-02.19.35:260][215]LogSlate: Window 'Save Content' being destroyed
+[2025.05.30-02.19.35:288][215]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.30-02.19.35:313][215]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PinkHead/BlueOverall] ([1] browsable assets)...
+[2025.05.30-02.19.35:313][215]OBJ SavePackage: Finished generating thumbnails for package [/Game/PinkHead/BlueOverall]
+[2025.05.30-02.19.35:313][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PinkHead/BlueOverall" FILE="../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/PinkHead/BlueOverall.uasset" SILENT=true
+[2025.05.30-02.19.35:315][215]LogSavePackage: Moving output files for package: /Game/PinkHead/BlueOverall
+[2025.05.30-02.19.35:315][215]LogSavePackage: Moving '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/BlueOverall788D98CD4BC9CA1AF10BD4B52370E128.tmp' to '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/PinkHead/BlueOverall.uasset'
+[2025.05.30-02.19.35:316][215]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PinkHead/hair] ([1] browsable assets)...
+[2025.05.30-02.19.35:316][215]OBJ SavePackage: Finished generating thumbnails for package [/Game/PinkHead/hair]
+[2025.05.30-02.19.35:316][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PinkHead/hair" FILE="../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/PinkHead/hair.uasset" SILENT=true
+[2025.05.30-02.19.35:318][215]LogSavePackage: Moving output files for package: /Game/PinkHead/hair
+[2025.05.30-02.19.35:318][215]LogSavePackage: Moving '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/hairC6BDE72947EB83D8F2EB5797A02288DF.tmp' to '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/PinkHead/hair.uasset'
+[2025.05.30-02.19.35:320][215]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PinkHead/MAIN_tpose] ([1] browsable assets)...
+[2025.05.30-02.19.35:320][215]OBJ SavePackage: Finished generating thumbnails for package [/Game/PinkHead/MAIN_tpose]
+[2025.05.30-02.19.35:320][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PinkHead/MAIN_tpose" FILE="../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/PinkHead/MAIN_tpose.uasset" SILENT=true
+[2025.05.30-02.19.35:341][215]LogSavePackage: Moving output files for package: /Game/PinkHead/MAIN_tpose
+[2025.05.30-02.19.35:341][215]LogSavePackage: Moving '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/MAIN_tpose23541F2C47F89AC6E1A19B99C503CA4C.tmp' to '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/PinkHead/MAIN_tpose.uasset'
+[2025.05.30-02.19.35:391][215]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PinkHead/MAIN_tpose_Anim] ([1] browsable assets)...
+[2025.05.30-02.19.35:391][215]OBJ SavePackage: Finished generating thumbnails for package [/Game/PinkHead/MAIN_tpose_Anim]
+[2025.05.30-02.19.35:391][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PinkHead/MAIN_tpose_Anim" FILE="../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/PinkHead/MAIN_tpose_Anim.uasset" SILENT=true
+[2025.05.30-02.19.35:396][215]LogSavePackage: Moving output files for package: /Game/PinkHead/MAIN_tpose_Anim
+[2025.05.30-02.19.35:396][215]LogSavePackage: Moving '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/MAIN_tpose_AnimB81BAAB443B0C311B2379E9437A652E0.tmp' to '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/PinkHead/MAIN_tpose_Anim.uasset'
+[2025.05.30-02.19.35:443][215]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PinkHead/MAIN_tpose_PhysicsAsset] ([1] browsable assets)...
+[2025.05.30-02.19.35:443][215]OBJ SavePackage: Finished generating thumbnails for package [/Game/PinkHead/MAIN_tpose_PhysicsAsset]
+[2025.05.30-02.19.35:450][215]LogSavePackage: Moving output files for package: /Game/PinkHead/MAIN_tpose_PhysicsAsset
+[2025.05.30-02.19.35:450][215]LogSavePackage: Moving '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/MAIN_tpose_PhysicsAsset46A0CC014D719FCE60ED5F844E05EF14.tmp' to '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/PinkHead/MAIN_tpose_PhysicsAsset.uasset'
+[2025.05.30-02.19.35:451][215]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PinkHead/Material] ([1] browsable assets)...
+[2025.05.30-02.19.35:451][215]OBJ SavePackage: Finished generating thumbnails for package [/Game/PinkHead/Material]
+[2025.05.30-02.19.35:451][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PinkHead/Material" FILE="../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/PinkHead/Material.uasset" SILENT=true
+[2025.05.30-02.19.35:453][215]LogSavePackage: Moving output files for package: /Game/PinkHead/Material
+[2025.05.30-02.19.35:453][215]LogSavePackage: Moving '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/Material627F2D9C462F6F5E3CD3C1BBCE44711A.tmp' to '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/PinkHead/Material.uasset'
+[2025.05.30-02.19.35:454][215]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PinkHead/Material_002] ([1] browsable assets)...
+[2025.05.30-02.19.35:454][215]OBJ SavePackage: Finished generating thumbnails for package [/Game/PinkHead/Material_002]
+[2025.05.30-02.19.35:454][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PinkHead/Material_002" FILE="../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/PinkHead/Material_002.uasset" SILENT=true
+[2025.05.30-02.19.35:456][215]LogSavePackage: Moving output files for package: /Game/PinkHead/Material_002
+[2025.05.30-02.19.35:456][215]LogSavePackage: Moving '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/Material_00298F50E7E4EBDDF6D8108EF90245DBD87.tmp' to '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/PinkHead/Material_002.uasset'
+[2025.05.30-02.19.35:457][215]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Oyku_Actor/BlueHouse/Material_002] ([1] browsable assets)...
+[2025.05.30-02.19.35:457][215]OBJ SavePackage: Finished generating thumbnails for package [/Game/Oyku_Actor/BlueHouse/Material_002]
+[2025.05.30-02.19.35:459][215]LogSavePackage: Moving output files for package: /Game/Oyku_Actor/BlueHouse/Material_002
+[2025.05.30-02.19.35:460][215]LogSavePackage: Moving '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/Material_002CCED12864CF507F15149AD87B385ACE8.tmp' to '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Oyku_Actor/BlueHouse/Material_002.uasset'
+[2025.05.30-02.19.35:461][215]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PinkHead/Material_003] ([1] browsable assets)...
+[2025.05.30-02.19.35:461][215]OBJ SavePackage: Finished generating thumbnails for package [/Game/PinkHead/Material_003]
+[2025.05.30-02.19.35:461][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PinkHead/Material_003" FILE="../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/PinkHead/Material_003.uasset" SILENT=true
+[2025.05.30-02.19.35:462][215]LogSavePackage: Moving output files for package: /Game/PinkHead/Material_003
+[2025.05.30-02.19.35:462][215]LogSavePackage: Moving '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/Material_00371C8FC0643C3B01C6043C49602C1CA70.tmp' to '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/PinkHead/Material_003.uasset'
+[2025.05.30-02.19.35:464][215]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Oyku_Actor/PurpolHouse/Material_005] ([1] browsable assets)...
+[2025.05.30-02.19.35:464][215]OBJ SavePackage: Finished generating thumbnails for package [/Game/Oyku_Actor/PurpolHouse/Material_005]
+[2025.05.30-02.19.35:466][215]LogSavePackage: Moving output files for package: /Game/Oyku_Actor/PurpolHouse/Material_005
+[2025.05.30-02.19.35:466][215]LogSavePackage: Moving '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/Material_005A0F6C9C846D282822726A6A7B9286DEA.tmp' to '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/Oyku_Actor/PurpolHouse/Material_005.uasset'
+[2025.05.30-02.19.35:467][215]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PinkHead/pantalon] ([1] browsable assets)...
+[2025.05.30-02.19.35:467][215]OBJ SavePackage: Finished generating thumbnails for package [/Game/PinkHead/pantalon]
+[2025.05.30-02.19.35:467][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PinkHead/pantalon" FILE="../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/PinkHead/pantalon.uasset" SILENT=true
+[2025.05.30-02.19.35:469][215]LogSavePackage: Moving output files for package: /Game/PinkHead/pantalon
+[2025.05.30-02.19.35:469][215]LogSavePackage: Moving '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/pantalon549E9971423C87E455E152BB8CD1C811.tmp' to '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/PinkHead/pantalon.uasset'
+[2025.05.30-02.19.35:470][215]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PinkHead/RED] ([1] browsable assets)...
+[2025.05.30-02.19.35:470][215]OBJ SavePackage: Finished generating thumbnails for package [/Game/PinkHead/RED]
+[2025.05.30-02.19.35:470][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PinkHead/RED" FILE="../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/PinkHead/RED.uasset" SILENT=true
+[2025.05.30-02.19.35:471][215]LogSavePackage: Moving output files for package: /Game/PinkHead/RED
+[2025.05.30-02.19.35:472][215]LogSavePackage: Moving '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/RED181F7C474C6C5BDEDF51EB856CE19945.tmp' to '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/PinkHead/RED.uasset'
+[2025.05.30-02.19.35:472][215]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PinkHead/Shirt] ([1] browsable assets)...
+[2025.05.30-02.19.35:472][215]OBJ SavePackage: Finished generating thumbnails for package [/Game/PinkHead/Shirt]
+[2025.05.30-02.19.35:472][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PinkHead/Shirt" FILE="../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/PinkHead/Shirt.uasset" SILENT=true
+[2025.05.30-02.19.35:475][215]LogSavePackage: Moving output files for package: /Game/PinkHead/Shirt
+[2025.05.30-02.19.35:475][215]LogSavePackage: Moving '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/Shirt3D80B77747183E516150D8ACE9AB9F13.tmp' to '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/PinkHead/Shirt.uasset'
+[2025.05.30-02.19.35:476][215]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PinkHead/Skin-Color] ([1] browsable assets)...
+[2025.05.30-02.19.35:476][215]OBJ SavePackage: Finished generating thumbnails for package [/Game/PinkHead/Skin-Color]
+[2025.05.30-02.19.35:476][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PinkHead/Skin-Color" FILE="../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/PinkHead/Skin-Color.uasset" SILENT=true
+[2025.05.30-02.19.35:493][215]LogSavePackage: Moving output files for package: /Game/PinkHead/Skin-Color
+[2025.05.30-02.19.35:493][215]LogSavePackage: Moving '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/Skin-ColorFE90AA6345856766732C42A0A81FDF95.tmp' to '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/PinkHead/Skin-Color.uasset'
+[2025.05.30-02.19.35:495][215]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/yamur/TreeLeaves] ([1] browsable assets)...
+[2025.05.30-02.19.35:495][215]OBJ SavePackage: Finished generating thumbnails for package [/Game/yamur/TreeLeaves]
+[2025.05.30-02.19.35:495][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/yamur/TreeLeaves" FILE="../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/yamur/TreeLeaves.uasset" SILENT=true
+[2025.05.30-02.19.35:496][215]LogSavePackage: Moving output files for package: /Game/yamur/TreeLeaves
+[2025.05.30-02.19.35:497][215]LogSavePackage: Moving '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Saved/TreeLeavesE46A07B0457CB9DFF6F7FDA28AC6624C.tmp' to '../../../../../../Users/kara/Documents/GitHub/Pagewalkers/Pagewalkers/Content/yamur/TreeLeaves.uasset'
+[2025.05.30-02.19.35:504][215]LogFileHelpers: InternalPromptForCheckoutAndSave took 216.754 ms (total: 3.65 sec)
+[2025.05.30-02.19.35:576][215]LogStall: Shutdown...
+[2025.05.30-02.19.35:576][215]LogStall: Shutdown complete.
+[2025.05.30-02.19.35:673][215]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.05.30-02.19.35:673][215]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.30-02.19.35:729][215]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.05.30-02.19.35:729][215]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.05.30-02.19.35:729][215]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.30-02.19.35:799][215]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.05.30-02.19.35:799][215]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.30-02.19.35:888][215]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.05.30-02.19.35:889][215]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.30-02.19.35:905][215]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.05.30-02.19.35:905][215]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.30-02.19.35:956][215]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.05.30-02.19.35:956][215]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2025.05.30-02.19.35:956][215]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.30-02.19.36:026][215]LogSlate: Window 'Pagewalkers - Unreal Editor' being destroyed
+[2025.05.30-02.19.36:108][215]LogContentValidation: Display: Starting to validate 15 assets
+[2025.05.30-02.19.36:108][215]LogContentValidation: Enabled validators:
+[2025.05.30-02.19.36:108][215]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.30-02.19.36:108][215]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.30-02.19.36:108][215]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.30-02.19.36:108][215]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.30-02.19.36:108][215]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.30-02.19.36:108][215]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.30-02.19.36:108][215]AssetCheck: /Game/PinkHead/BlueOverall Validating asset
+[2025.05.30-02.19.36:108][215]AssetCheck: /Game/PinkHead/hair Validating asset
+[2025.05.30-02.19.36:108][215]AssetCheck: /Game/PinkHead/MAIN_tpose Validating asset
+[2025.05.30-02.19.36:108][215]AssetCheck: /Game/PinkHead/MAIN_tpose_Anim Validating asset
+[2025.05.30-02.19.36:108][215]AssetCheck: /Game/PinkHead/MAIN_tpose_PhysicsAsset Validating asset
+[2025.05.30-02.19.36:108][215]AssetCheck: /Game/PinkHead/Material Validating asset
+[2025.05.30-02.19.36:108][215]AssetCheck: /Game/PinkHead/Material_002 Validating asset
+[2025.05.30-02.19.36:108][215]AssetCheck: /Game/Oyku_Actor/BlueHouse/Material_002 Validating asset
+[2025.05.30-02.19.36:108][215]AssetCheck: /Game/PinkHead/Material_003 Validating asset
+[2025.05.30-02.19.36:108][215]AssetCheck: /Game/Oyku_Actor/PurpolHouse/Material_005 Validating asset
+[2025.05.30-02.19.36:108][215]AssetCheck: /Game/PinkHead/pantalon Validating asset
+[2025.05.30-02.19.36:108][215]AssetCheck: /Game/PinkHead/RED Validating asset
+[2025.05.30-02.19.36:108][215]AssetCheck: /Game/PinkHead/Shirt Validating asset
+[2025.05.30-02.19.36:108][215]AssetCheck: /Game/PinkHead/Skin-Color Validating asset
+[2025.05.30-02.19.36:108][215]AssetCheck: /Game/yamur/TreeLeaves Validating asset
+[2025.05.30-02.19.36:143][215]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2025.05.30-02.19.36:185][215]Cmd: QUIT_EDITOR
+[2025.05.30-02.19.36:185][215]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.05.30-02.19.36:201][216]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.05.30-02.19.36:201][216]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.05.30-02.19.36:201][216]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.05.30-02.19.36:210][216]LogWorld: UWorld::CleanupWorld for OzWizard1, bSessionEnded=true, bCleanupResources=true
+[2025.05.30-02.19.36:210][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.30-02.19.36:231][216]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.05.30-02.19.36:234][216]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.05.30-02.19.36:241][216]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2025.05.30-02.19.36:241][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.30-02.19.36:245][216]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2025.05.30-02.19.36:245][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.30-02.19.36:248][216]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2025.05.30-02.19.36:248][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.30-02.19.36:251][216]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2025.05.30-02.19.36:251][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.30-02.19.36:254][216]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2025.05.30-02.19.36:254][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.30-02.19.36:257][216]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2025.05.30-02.19.36:257][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.30-02.19.36:260][216]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2025.05.30-02.19.36:260][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.30-02.19.36:262][216]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2025.05.30-02.19.36:262][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.30-02.19.36:266][216]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.05.30-02.19.36:266][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.30-02.19.36:270][216]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2025.05.30-02.19.36:270][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.30-02.19.36:274][216]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.05.30-02.19.36:274][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.30-02.19.36:279][216]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.05.30-02.19.36:279][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.30-02.19.36:285][216]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.05.30-02.19.36:285][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.30-02.19.36:295][216]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.05.30-02.19.36:295][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.30-02.19.36:301][216]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.05.30-02.19.36:301][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.30-02.19.36:308][216]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.05.30-02.19.36:308][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.30-02.19.36:314][216]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.05.30-02.19.36:315][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.30-02.19.36:319][216]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.05.30-02.19.36:320][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.30-02.19.36:325][216]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.05.30-02.19.36:326][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.30-02.19.36:331][216]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.05.30-02.19.36:332][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.30-02.19.36:339][216]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.05.30-02.19.36:339][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.30-02.19.36:347][216]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.05.30-02.19.36:347][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.30-02.19.36:353][216]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.05.30-02.19.36:353][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.30-02.19.36:366][216]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.05.30-02.19.36:367][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.30-02.19.36:376][216]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.05.30-02.19.36:376][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.30-02.19.36:384][216]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2025.05.30-02.19.36:384][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.30-02.19.36:390][216]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2025.05.30-02.19.36:391][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.30-02.19.36:394][216]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2025.05.30-02.19.36:394][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.30-02.19.36:397][216]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2025.05.30-02.19.36:397][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.30-02.19.36:400][216]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2025.05.30-02.19.36:400][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.30-02.19.36:406][216]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2025.05.30-02.19.36:406][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.30-02.19.36:409][216]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2025.05.30-02.19.36:409][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.30-02.19.36:416][216]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.05.30-02.19.36:421][216]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.05.30-02.19.36:421][216]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.05.30-02.19.36:421][216]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.05.30-02.19.37:114][216]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.05.30-02.19.37:114][216]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.05.30-02.19.37:114][216]LogAudio: Display: Audio Device unregistered from world 'OzWizard1'.
+[2025.05.30-02.19.37:114][216]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.05.30-02.19.37:114][216]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.05.30-02.19.37:116][216]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.05.30-02.19.37:121][216]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.05.30-02.19.37:121][216]LogAudio: Display: Audio Device Manager Shutdown
+[2025.05.30-02.19.37:123][216]LogWindowsTextInputMethodSystem: Activated input method: Türkçe (Türkiye) - (Keyboard).
+[2025.05.30-02.19.37:127][216]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.05.30-02.19.37:127][216]LogExit: Preparing to exit.
+[2025.05.30-02.19.37:174][216]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.05.30-02.19.37:181][216]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.30-02.19.37:181][216]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.30-02.19.37:181][216]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.30-02.19.37:181][216]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.30-02.19.37:181][216]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.30-02.19.37:181][216]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.30-02.19.37:181][216]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.30-02.19.37:181][216]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.30-02.19.37:181][216]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.30-02.19.37:181][216]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.30-02.19.37:181][216]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.30-02.19.37:181][216]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.30-02.19.37:181][216]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.30-02.19.37:181][216]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.30-02.19.37:181][216]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.30-02.19.37:181][216]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.30-02.19.37:181][216]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.30-02.19.37:181][216]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.30-02.19.37:181][216]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.30-02.19.37:181][216]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.30-02.19.37:181][216]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.30-02.19.37:663][216]LogEditorDataStorage: Deinitializing
+[2025.05.30-02.19.37:887][216]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.05.30-02.19.37:907][216]LogExit: Editor shut down
+[2025.05.30-02.19.37:909][216]LogExit: Transaction tracking system shut down
+[2025.05.30-02.19.38:168][216]LogExit: Object subsystem successfully closed.
+[2025.05.30-02.19.38:252][216]LogShaderCompilers: Display: Shaders left to compile 0
